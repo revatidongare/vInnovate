@@ -5,7 +5,7 @@
 <head>
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>Vinnovate Technologies - HomePage</title>
+	<title>vInnovate Technologies - HomePage</title>
 	<link rel="icon" href="img/vNew.png" sizes="16*16">
 	<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
 
@@ -61,7 +61,7 @@
     <div class="carousel-item active">
       <img src="img/slider001.jpg" class=" d-block w-100" alt="...">
       <div class="carousel-caption d-block">
-          <h1>Vinnovate Technologies</h1>
+          <h1>vInnovate Technologies</h1>
           <h5>Driving towards digital India.</h5>
         </div>
     </div>

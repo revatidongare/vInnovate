@@ -71,7 +71,7 @@
 						<h5 class="widget-title">Contact with us</h5>
 						<div class="contact-item display-flex">
 							<svg class="utouch-icon utouch-icon-telephone-keypad-with-ten-keys"><use xlink:href="#utouch-icon-telephone-keypad-with-ten-keys"></use></svg>
-							<span class="info" style="color: white;">9730470070 / 9823475566</span>
+							<span class="info" style="color: white;">9823475566</span>
 						</div>
 						<div class="contact-item display-flex">
 							<svg class="utouch-icon utouch-icon-message-closed-envelope-1"><use xlink:href="#utouch-icon-message-closed-envelope-1"></use></svg>
