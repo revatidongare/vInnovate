@@ -116,9 +116,12 @@ The statistics shows that e-learning is an effective way of teaching and teacher
 										<h3>Description</h3>
 										<!-- <p class="weight-bold">Quam nunc putamus parum claram, anteposuerit litterarum formas
 											humanitatis per seacula quarta decima et quinta decima modo typi, qui nunc.</p> -->
-										<p>Is traditional education destined to be a thing of the past? The answer is probably not, but why should students pay to attend a school where they must take classes that are not relevant to their goals? A common topic that is brought up when this is mentioned is the “for profit school”.
-
-Unfortunately, when this is balanced out with issues such as exorbitant tuition rates, questionable accrediting, and lack of regulation, for profit schools become less and less appealing to students who want quality. This leaves eLearning as the most viable option for many students. So, our site provides the solution for it.
+										<p>
+Every parent cares about his/her kid's education. with the rising competition every parent wants their kid to do well, but what kind of teaching do your kids need, has anyone thought about it?
+Well in today's modern world one does not only need to score well but to understand the matter and to improve by enhancing skills. vselflearnschool bridges the gap between scoring and understanding by making study understandable and easy ,
+So that the student would not just mug up but gain knowledge .
+Which would then build a healthy future for them?
+Don't just learn put interest and learn.
 										</p>
 
 										<h5>Why eLearn</h5>

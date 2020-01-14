@@ -70,9 +70,11 @@
 			<div class="stunning-header-content">
 				<h2 class="h1 stunning-header-title">vSelfLearn Engineering</h2>
 				<div class="inline-items">
-						<div class="heading-text">Finding a good resource of high-quality industry news, good explanations of various concepts and exciting posts is a hard thing to do. 
-This great resource has lots of various courses for engineering students of all stages – from the basic to more advanced. They also offer to take tests before your exams to make sure you are all prepared and ready to pass.
-
+						<div class="heading-text">vSelflearn Engineering
+Are you looking for some notes or explanations which would make your study more understandable?
+Then yes, you are at right place, vselfengineering provides a quality education clearing all your concepts and doubts by providing easy explanations and important notes to make you're learning a quality gain.
+It caters all the needs of an engineering student from basic to advance level.
+It also conducts regular tests to prepare the student not just to score well but to understand the importance of subjects.
 </div>
 				</div>
 			</div>
@@ -118,11 +120,12 @@ This great resource has lots of various courses for engineering students of all 
 										<h3>Description</h3>
 										<!-- <p class="weight-bold">Quam nunc putamus parum claram, anteposuerit litterarum formas
 											humanitatis per seacula quarta decima et quinta decima modo typi, qui nunc.</p> -->
-										<p>Engineering is no doubt a challenging course to study at university, but if successful, students can have an excellent career ahead of them. There are a lot of resources available to engineering students and professionals alike – that can help you with everything from your current assignments to your future career. Here we have great resources for engineering students:
-
-It is a work and technical support forum for engineering professionals. It features white papers, job listings, and forums on a variety of engineering subjects that might be useful for students.
-
-It is a website that gives free access to teaching materials for nearly all courses offered by various universities, including Mechanical engineering,Electrical engineering,Computer science,Electronics & Telecommunication and Information Technology.
+										<p>Engineering is no doubt a challenging and rewarding course, but in order to achieve success, it's very important for an engineering student to understand the subject and to score well.
+There are a lot of resources available to engineering students, that can help with everything right from your current assignments to your future career.
+We cater to all the important and required needs of students.
+It is a technical support forum for engineering professionals.
+It features white papers, job listings, and forums on a variety of engineering subjects and other important matters which would be very useful for students.
+it is a website that gives free access to teaching materials for nearly all the courses offered by various universities. including Mechanical Engineering, Electrical Engineering, Computer Science, Electronics & Telecommunication and information technology.
 
 										</p>
 
