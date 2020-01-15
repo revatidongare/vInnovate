@@ -2,33 +2,7 @@
 <html lang="en">
 
 
-<head>
-	<meta charset="UTF-8">
-	<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
-	<title>Vinnovate Technologies - Vcollarate</title>
-	<link rel="icon" href="img/vNew.png" sizes="16*16">
-
-
-	<link rel="stylesheet" type="text/css" href="css/theme-styles.css">
-	<link rel="stylesheet" type="text/css" href="css/blocks.css">
-	<link rel="stylesheet" type="text/css" href="css/widgets.css">
-
-	<!-- Styles for Plugins -->
-	<link rel="stylesheet" type="text/css" href="css/swiper.min.css">
-
-
-	<!--External fonts-->
-
-	<link href="https://fonts.googleapis.com/css?family=Nunito:300,400,700,900" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Baloo+Paaji" rel="stylesheet">
-	<link href="https://fonts.googleapis.com/css?family=Montserrat&display=swap" rel="stylesheet">
-
-	<!--Styles for RTL-->
-
-	<!--<link rel="stylesheet" type="text/css" href="css/rtl.css">-->
-
-
-</head>
+<?php include 'include/head.php';?>
 <body class="crumina-grid">
 
 <!-- Preloader -->
@@ -297,7 +271,7 @@ The statistics shows that e-learning is an effective way of teaching and teacher
 
 <!-- Footer -->
 
-<?php include'footer.php'?>
+<?php include'include/footer.php'?>
 
 <!-- End Footer -->
 
@@ -624,19 +598,8 @@ The statistics shows that e-learning is an effective way of teaching and teacher
 
 <!-- jQuery first, then Other JS. -->
 
-<script src="js/jquery-3.2.0.min.js"></script>
 
-
-<!-- jQuery-scripts for Template -->
-
-<script src="js/crum-mega-menu.js"></script>
-<script src="js/swiper.jquery.min.js"></script>
-<script src="js/theme-plugins.js"></script>
-<script src="js/jquery.typeahead.min.js"></script>
-<script src="js/velocity.min.js"></script>
-<script src="js/main.js"></script>
-<script src="js/form-actions.js"></script>
-
+<?php include 'include/script.php';?>
 
 </body>
 

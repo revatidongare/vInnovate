@@ -33,6 +33,23 @@
 					<li class="">
 						<a href="products.php">Products</a>
 						<ul class="sub-menu">
+		                      <a href="plc-automation.php">
+		                      	<li>
+								    vPLC-IOT DashBoards
+								</a>
+							</li>
+							</li>
+							<!-- <li>
+								<a href="sadrakshan.php">
+									vSadrakshan
+								</a>
+							</li> -->
+								<li>
+								<a href=" ">
+									Smart Dashboard
+								</a>
+							</li>
+
 							<li>
 								<a href="vselflearn.php">
 									vSelfLearn School
@@ -44,27 +61,19 @@
 								</a>
 								
 							</li>
-							<!-- <li>
-								<a href="sadrakshan.php">
-									vSadrakshan
-								</a>
-							</li> -->
-							<li>
-								<a href="v-gym.php">
-									vGym
-								</a>
-							</li>
+							
 							<li class="">
 								<a href="v-collarate.php">
 									vCollarate
 								</a>
 							</li>
 							<li>
-								<a href="plc-automation.php">
-									vPLC - IOT DashBoards
+								<a href="v-gym.php">
+									vGym
 								</a>
-							</li>
-
+							</li>s
+					
+							
 							<!-- <li>
 								<a href="32_testimonials.php">
 									Testimonials
@@ -82,6 +91,12 @@
 									 Hotel Managment system
 								</a>
 							</li>
+							<li>
+								<a href="  ">
+									 E-Commerce System
+								</a>
+							</li>
+
 						</ul>
 					</li>
 

@@ -1,9 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 
+<?php include 'include/head.php';?>
 
 <body class="crumina-grid">
-	<?php include 'head.php';?>
 
 <!-- Header -->
 
@@ -21,7 +21,7 @@
 
 	
 	<!-- nav -->
-	<?php include 'nav.php';?>
+	<?php include 'include/nav.php';?>
 			
 </header>
 
@@ -40,21 +40,21 @@
       <img src="img/slider001.jpg" class=" d-block w-100" alt="...">
       <div class="carousel-caption d-block">
           <h1>vInnovate Technologies</h1>
-          <h5>Driving towards digital India.</h5>
+          <h5>Creating a digital India.</h5>
         </div>
     </div>
     <div class="carousel-item">
       <img src="img/slider002.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-block">
          <h1>Product Development & IT Consulting</h1>
-          <h5>We provide solutions to the customers by giving them the best quality customized products.</h5>
+          <h5>We believe in quality solution to our customers and provide them with the best.</h5>
         </div>
     </div>
     <div class="carousel-item">
       <img src="img/about-us-banner.jpg" class="d-block w-100" alt="...">
       <div class="carousel-caption d-block">
          <h1> Digital Transformation</h1>
-          <h5>We Develop Design and Deploy</h5>
+          <h5>We create and develop designs and deploy.</h5>
         </div>
     </div>
   </div>
@@ -75,6 +75,7 @@
 			<div class="container">
 				<h2 class="heading-title align-center">What v <span class="c-primary"> Offer</span></h2>
 				<div class="row">
+					<h3>We are a product based company which provides the best solution to cater to the business needs and demand.</h3>
 
 					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-info-box info-box--standard-hover">
@@ -103,7 +104,7 @@
 
 							<div class="info-box-content">
 								<a href="#" class="h5 info-box-title">Digital Transformation</a>
-								<p class="info-box-text">We help remodel your business driven by technology in the digital economy. We change how you operate and deliver value to the customers.
+								<p class="info-box-text">We help you to create platform by adding technological support to boost the business and to deliver valuable services to the customers.
 								</p>
 							</div>
 
@@ -121,7 +122,7 @@
 
 							<div class="info-box-content">
 								<a href="#" class="h5 info-box-title">Data Science</a>
-								<p class="info-box-text">We help value your Data on drive your business. Data driven decision making identify problems and trends.
+								<p class="info-box-text">The system continously monitors the data which makes it more valuable and protected.
 								</p>
 							</div>
 
@@ -141,7 +142,7 @@
 
 							<div class="info-box-content">
 								<a href="#" class="h5 info-box-title">Web/Mobile app Development</a>
-								<p class="info-box-text">We help create new Business models and deliver Services at the finger-tips of the customer. We allow access to Services to everyone and anywhere.
+								<p class="info-box-text">We bridge the gap between time and management by providing 24/7 assistance to make the business easy and manageable at any corner of the world.
 								</p>
 							</div>
 
@@ -159,7 +160,7 @@
 
 							<div class="info-box-content">
 								<a href="#" class="h5 info-box-title">Cloud</a>
-								<p class="info-box-text">We allow you to set up what is essentially a virtual office to give you the flexibility of connecting to your business anywhere, any time.
+								<p class="info-box-text">We allow you to set-up all the essential according to the requirements by providing flexibility and ease in handling and connecting business. 
 								</p>
 							</div>
 
@@ -177,7 +178,7 @@
 
 							<div class="info-box-content">
 								<a href="#" class="h5 info-box-title">IT Consulting</a>
-								<p class="info-box-text">Advisory role for your IT needs suggest technology solutions for business problems business expansion via digital marketing analyze, design and develop.
+								<p class="info-box-text">We provide the best advisory role to business expansion via digital marketing analyze,design and develop .
 								</p>
 							</div>
 
@@ -224,7 +225,7 @@
 
 										<div class="row">
 											<div class="col-lg-12 col-md-12 col-sm-12">
-												<p>Traditional and non-conventional education have their own merits and demerits. Though classroom learning is still preferred as a mode of teaching, the popularity of online learning is slowly overshadowing traditional learning. Online learning offers interactivity, accessibility, and convenience that is making learning more engaging and stimulating. The statistics shows that e-learning is an effective way of teaching and teachers need to integrate technology seamlessly into the curriculum instead of viewing it as an add-on, an afterthought, or an event.
+												<p>With the new digital india,the progress and development have been running at a booming stage. Traditional and non-conventional education have their own merits and demerits. Though classroom learning is still preferred as a mode of teaching the rise in online learning has provided the new platform. Which provides easy interactivity,accessibility and convenience that is making learning more engaging and interesting. The statistics shows that e-learning is an effective way of learning which makes the education more precise and drive it towards the clarity. 
 												</p>
 												
 											</div>
@@ -243,8 +244,7 @@
 
 										<div class="row">
 											<div class="col-lg-12 col-md-12 col-sm-12">
-												<p>Gym management system is an easy-to-use gym and health club membership management system. It helps you keep records of your members and their memberships, and allows easy communication between you and your members.Gym Management system is also feature-packed, helping you in the management and growth of your club.Our Company provides complete "Gym Management Solution" which is handy to use.
-													
+												<p>With the changing business world,fitness has become a new trend. Managing the gym have now become equal to an exercise. With the facilities provided by the gym,it become very important task to manage the whole system. Gym management system is easy to use,gym and health club membership management system which provides the following benefits which makes the fitness more easy and manageable. It helps in maintaining records,monitoring the facilities and to communicate important matters from time to time by creating an all in one functioning system. 										
 												</p>
 												
 											</div>
@@ -259,11 +259,11 @@
 								<div class="swiper-slide">
 
 									<div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
-										<h5 class="slider-faqs-title">Industrial Automation</h5>
+										<h5 class="slider-faqs-title">Industrial Acromation</h5>
 
 										<div class="row">
 											<div class="col-lg-12 col-md-12 col-sm-12">
-												<p> A unique solution (Smart Manufacturing Dashboard) which helps organizations collect data from shopfloor and present it to different user groups (Operations Team, Management Teams) as per their needs. This data can also be integrated to ERP system to minimise data entry efforts on shopfloor.Smart Manufacturing Dashboard Innovate solution works across platforms which helps users to use it from their workstation, Mobile devices, Shopfloor Displays etc. This solution is cloud ready and supports Azure as well as AWS cloud.
+												<p> A unique solution(smart manufacturing dashboard) which helps organizations to collect data from shop-floor and to present it to different user groups(operation 7 team,management team) as per their needs. Data can also be integrated to ERQ system to minimise data entry efforts on shop-floor.Smart manufacturing dashboard innovate solution works across platforms which make user’s work easy to manage by their workstation,mobile devices shop-floor displays,etc.The solution is cloud ready and supports Azure as well as AWS cloud. 
 													
 												</p>
 												
@@ -283,8 +283,7 @@
 
 										<div class="row">
 											<div class="col-lg-12 col-md-12 col-sm-12">
-												<p>A content management system manages the creation and modification of digital content. It typically supports multiple users in a collaborative environment. CMS features vary widely. They are widely used for either enterprise content management or web content management. 
-													
+												<p>A content management system helps the user to create,manage and modify the digital content. It typically supports multiple users in a collaborative environment. It is an overall solution system by providing proper web content management or any other enterprise management content according to the need and want of user.  		
 												</p>
 												
 											</div>
@@ -382,7 +381,7 @@
 										</div>
 
 										<!-- <h6 class="testimonial-text"> -->
-										20+ years of IT and business development experience related to educational field.
+										20+ years of IT and business development manager's experience in the educational field.
 										</h6>
 
 
@@ -398,12 +397,12 @@
 											</div>
 											<div class="author-info">
 												<a href="#" class="h6 author-name">Shubha Muley</a>
-												<div class="author-company"><b>Project & Process Engg</b></div>
+												<div class="author-company"><b>Project & Process Engineering</b></div>
 											</div>
 										</div>
 
 										<!-- <h6 class="testimonial-text" style="font-size: 15px"> -->
-											20+ years of experience in Delivery Management for projects across Globe with excellence in Quality using test automation & Agile/Devops Framework.
+											20+ years of experience in delivery management of projects across the globe with excellence in quality using test automation & Agile/Develop a framework.
 										
 
 
@@ -423,7 +422,7 @@
 										</div>
 
 										<!-- <h6 class="testimonial-text" > -->
-											20+ years of International corporate IT experience working for MNCs.</h6>
+											20+ years of International experience in IT and MNCs.</h6>
 
 									
 </div>
@@ -444,7 +443,7 @@
 										</div>
 
 										<!-- <h6 class="testimonial-text"> -->
-										<div class="author-company">15+ years of International corporate IT experience working for MNCs.</div>
+										<div class="author-company">15+ years of International experience in IT and MNCs.</div>
 										</h6>
 
 									
@@ -754,7 +753,7 @@
 
 <!-- Footer -->
 
-<?php include 'footer.php';?>
+<?php include 'include/footer.php';?>
 
 <!-- End Footer -->
 
@@ -994,7 +993,7 @@
 </svg>
 
 <!-- ... end Used SVG-icons -->
-<?php include 'script.php';?>
+<?php include 'include/script.php';?>
 
 <!-- jQuery first, then Other JS. -->
 
