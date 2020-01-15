@@ -46,7 +46,7 @@
 							</li> -->
 								<li>
 								<a href=" ">
-									Smart Dashboard
+									vSmart Dashboard
 								</a>
 							</li>
 

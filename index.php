@@ -73,9 +73,9 @@
 
 	<section class="pt100">
 			<div class="container">
-				<h2 class="heading-title align-center">What v <span class="c-primary"> Offer</span></h2>
+				<h2 class="heading-title align-center">What we <span class="c-primary"> Offer</span> ?</h2>
 				<div class="row">
-					<h3>We are a product based company which provides the best solution to cater to the business needs and demand.</h3>
+		
 
 					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
 						<div class="crumina-module crumina-info-box info-box--standard-hover">
@@ -86,7 +86,7 @@
 
 							<div class="info-box-content">
 								<a href="#" class="h5 info-box-title">Application Development</a>
-								<p class="info-box-text">We are a product based company which provides solutions to the customers by giving them the best quality customized products.
+								<p class="info-box-text">We are a product based company which provides the best solution to cater to the business needs and demand.
 								</p>
 							</div>
 
