@@ -420,12 +420,14 @@
 												<a href="#" class="h6 author-name">Umesh Khandelwal</a>
 												<div class="author-company"><b>Mentor and Advisor</b></div>
 										</div>
+									</div>
 
 										<!-- <h6 class="testimonial-text" > -->
-											20+ years of International experience in IT and MNCs.</h6>
+											20+ years of International experience in IT and MNCs.
+										<!-- </h6> -->
 
 									
-</div>
+<!-- </div> -->
 
 					</aside>
 				</div>

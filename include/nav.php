@@ -71,8 +71,7 @@
 								<a href="v-gym.php">
 									vGym
 								</a>
-							</li>s
-					
+							</li>			
 							
 							<!-- <li>
 								<a href="32_testimonials.php">
