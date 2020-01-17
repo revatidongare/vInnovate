@@ -1,13 +1,17 @@
-<!DOCTYPE html>
+
 <html lang="en">
 
 <?php include 'include/head.php';?>
-
 <body class="crumina-grid">
+
+<!-- Preloader -->
+
+<!-- ... end Preloader -->
+
 
 <!-- Header -->
 
-<header class="header header--menu-rounded header--blue-lighteen" id="site-header">
+<header class="header header--dark header-has-topbar" id="site-header">
 
 	<div class="header-lines-decoration">
 		<span class="bg-secondary-color"></span>
@@ -19,745 +23,357 @@
 		<span class="bg-color-2"></span>
 	</div>
 
-	
-	<!-- nav -->
-	<?php include 'include/nav.php';?>
-			
+			<?php include 'include/nav.php';?>
 </header>
+
+<!-- ... end Header -->
 
 <div class="header-spacer"></div>
 
-<!-- ... End Header -->
-<!--main-slider-->
-<div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
-  <ol class="carousel-indicators">
-    <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
-    <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
-  </ol>
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img src="img/slider001.jpg" class=" d-block w-100" alt="...">
-      <div class="carousel-caption d-block">
-          <h1>vInnovate Technologies</h1>
-          <h5>Creating a digital India.</h5>
-        </div>
-    </div>
-    <div class="carousel-item">
-      <img src="img/slider002.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-block">
-         <h1>Product Development & IT Consulting</h1>
-          <h5>We believe in quality solution to our customers and provide them with the best.</h5>
-        </div>
-    </div>
-    <div class="carousel-item">
-      <img src="img/about-us-banner.jpg" class="d-block w-100" alt="...">
-      <div class="carousel-caption d-block">
-         <h1> Digital Transformation</h1>
-          <h5>We create and develop designs and deploy.</h5>
-        </div>
-    </div>
-  </div>
- <!--  <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a> -->
-</div>
-<!--main-sliderend-->
+<div class="content-wrapper">
 
-	<!--what v offer-->
 
-	<section class="pt100">
-			<div class="container">
-				<h2 class="heading-title align-center">What we <span class="c-primary"> Offer</span> ?</h2>
-				<div class="row">
-		
+	<!-- Stunning Header -->
 
-					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						<div class="crumina-module crumina-info-box info-box--standard-hover">
-
-							<div class="info-box-image">
-								<img class="utouch-icon" src="img/data.png" alt="smartphone">
-							</div>
-
-							<div class="info-box-content">
-								<a href="#" class="h5 info-box-title">Application Development</a>
-								<p class="info-box-text" align="justify">We are a product based company which provides the best solution to cater to the business needs and demand.
-								</p>
-							</div>
-
-							
-
-						</div>
-					</div>
-
-					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						<div class="crumina-module crumina-info-box info-box--standard-hover">
-
-							<div class="info-box-image">
-								<img class="utouch-icon" src="img/laptop.png" alt="smartphone">
-							</div>
-
-							<div class="info-box-content">
-								<a href="#" class="h5 info-box-title">Digital Transformation</a>
-								<p class="info-box-text"  align="justify">We help you to create platform by adding technological support to boost the business and to deliver valuable services to the customers.
-								</p>
-							</div>
-
-							
-
-						</div>
-					</div>
-
-					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						<div class="crumina-module crumina-info-box info-box--standard-hover">
-
-							<div class="info-box-image">
-								<img class="utouch-icon" src="img/report.png" alt="smartphone">
-							</div>
-
-							<div class="info-box-content">
-								<a href="#" class="h5 info-box-title">Data Science</a>
-								<p class="info-box-text"  align="justify">The system continously monitors the data which makes it more valuable and protected.
-								</p>
-							</div>
-
-							
-
-						</div>
-					</div>
+	<div class="crumina-stunning-header stunning-bg-retreat stunning-header--content-center stunning-header--bg-photo stunning-header--min640 custom-color c-white fill-white">
+		<div class="container">
+			<div class="stunning-header-content">
+				<h2 class="h1 stunning-header-title">E-Commerce System</h2>
+				<div class="inline-items">
+						<div class="heading-text"></div>
 				</div>
-				<div class="row">
-
-					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						<div class="crumina-module crumina-info-box info-box--standard-hover">
-
-							<div class="info-box-image">
-								<img class="utouch-icon" src="img/app.png" alt="smartphone">
-							</div>
-
-							<div class="info-box-content">
-								<a href="#" class="h5 info-box-title">Web/Mobile app Development</a>
-								<p class="info-box-text"  align="justify">We bridge the gap between time and management by providing 24/7 assistance to make the business easy and manageable at any corner of the world.
-								</p>
-							</div>
-
-							
-
-						</div>
-					</div>
-
-					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						<div class="crumina-module crumina-info-box info-box--standard-hover">
-
-							<div class="info-box-image">
-								<img class="utouch-icon" src="img/cloud.png" alt="smartphone">
-							</div>
-
-							<div class="info-box-content">
-								<a href="#" class="h5 info-box-title">Cloud</a>
-								<p class="info-box-text"  align="justify">We allow you to set-up all the essential according to the requirements by providing flexibility and ease in handling and connecting business. 
-								</p>
-							</div>
-
-							
-
-						</div>
-					</div>
-
-					<div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-						<div class="crumina-module crumina-info-box info-box--standard-hover">
-
-							<div class="info-box-image">
-								<img class="utouch-icon" src="img/consultation.png" alt="smartphone">
-							</div>
-
-							<div class="info-box-content">
-								<a href="#" class="h5 info-box-title">IT Consulting</a>
-								<p class="info-box-text"  align="justify">We provide the best advisory role to business expansion via digital marketing analyze,design and develop .
-								</p>
-							</div>
-
-							
-
-						</div>
-					</div>
-				</div>
-			</div>
-	</section>
-
-	<!-- what v ofeer end -->
-	<!--industry-->
-
-	<section class="crumina-module crumina-module-slider pt100">
-			<div class="container">
-				<h2 class="heading-title align-center">Areas of<span class="c-primary">  specialization</span></h2>
-				<div class="row">
-					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-						<div class="swiper-container navigation-bottom" data-effect="fade">
-							<div class="slider-slides align-center">
-								<a href="#" class="slides-item">
-									1
-								</a>
-
-								<a href="#" class="slides-item">
-									2
-								</a>
-
-								<a href="#" class="slides-item">
-									3
-								</a>
-
-								<a href="#" class="slides-item">
-									4
-								</a>
-
-							</div>
-							<div class="swiper-wrapper">
-								<div class="swiper-slide">
-
-									<div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
-										<h5 class="slider-faqs-title">Education</h5>
-
-										<div class="row">
-											<div class="col-lg-12 col-md-12 col-sm-12">
-												<p>With the new digital india,the progress and development have been running at a booming stage. Traditional and non-conventional education have their own merits and demerits. Though classroom learning is still preferred as a mode of teaching the rise in online learning has provided the new platform. Which provides easy interactivity,accessibility and convenience that is making learning more engaging and interesting. The statistics shows that e-learning is an effective way of learning which makes the education more precise and drive it towards the clarity. 
-												</p>
-												
-											</div>
-										</div>
-									</div>
-									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
-										<div class="slider-faqs-thumb">
-											<img class="utouch-icon" src="img/edu.svg" alt="image">
-										</div>
-									</div>
-								</div>
-								<div class="swiper-slide">
-
-									<div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
-										<h5 class="slider-faqs-title">Welness and Fitness</h5>
-
-										<div class="row">
-											<div class="col-lg-12 col-md-12 col-sm-12">
-												<p>With the changing business world,fitness has become a new trend. Managing the gym have now become equal to an exercise. With the facilities provided by the gym,it become very important task to manage the whole system. Gym management system is easy to use,gym and health club membership management system which provides the following benefits which makes the fitness more easy and manageable. It helps in maintaining records,monitoring the facilities and to communicate important matters from time to time by creating an all in one functioning system. 										
-												</p>
-												
-											</div>
-										</div>
-									</div>
-									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
-										<div class="slider-faqs-thumb">
-											<img class="utouch-icon" src="img/gym1.svg" alt="image">
-										</div>
-									</div>
-								</div>
-								<div class="swiper-slide">
-
-									<div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
-										<h5 class="slider-faqs-title">Industrial Acromation</h5>
-
-										<div class="row">
-											<div class="col-lg-12 col-md-12 col-sm-12">
-												<p> A unique solution(smart manufacturing dashboard) which helps organizations to collect data from shop-floor and to present it to different user groups(operation 7 team,management team) as per their needs. Data can also be integrated to ERQ system to minimise data entry efforts on shop-floor.Smart manufacturing dashboard innovate solution works across platforms which make user’s work easy to manage by their workstation,mobile devices shop-floor displays,etc.The solution is cloud ready and supports Azure as well as AWS cloud. 
-													
-												</p>
-												
-											</div>
-										</div>
-									</div>
-									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
-										<div class="slider-faqs-thumb">
-											<img class="utouch-icon" src="img/plc.svg" alt="image">
-										</div>
-									</div>
-								</div>
-								<div class="swiper-slide">
-
-									<div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
-										<h5 class="slider-faqs-title">CMS</h5>
-
-										<div class="row">
-											<div class="col-lg-12 col-md-12 col-sm-12">
-												<p>A content management system helps the user to create,manage and modify the digital content. It typically supports multiple users in a collaborative environment. It is an overall solution system by providing proper web content management or any other enterprise management content according to the need and want of user.  		
-												</p>
-												
-											</div>
-										</div>
-									</div>
-									<div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
-										<div class="slider-faqs-thumb">
-											<img class="utouch-icon" src="img/viinovate.svg" alt="image">
-										</div>
-									</div>
-								</div>
-
-							</div>
-
-							<!--Prev next buttons-->
-
-							<div class="btn-slider-wrap navigation-left-bottom">
-
-								<div class="btn-prev">
-									<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
-									<svg class="utouch-icon utouch-icon-arrow-left1"><use xlink:href="#utouch-icon-arrow-left1"></use></svg>
-								</div>
-
-								<div class="btn-next">
-									<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
-									<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
-								</div>
-
-							</div>
-
-						</div>
-					</div>
-				</div>
-			</div>
-	</section>
-	<!--industry end-->
-	<!--we work-->
-	<div class="parallax">
-	<div class="container align-center">
-		<h2 class="heading-title  hire-us-text mt-10">We have well trained professional team  with all the necessities to fulfill all your requirements.</h2>
-		<div class="row">
-			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-				<img src="img/transparency.png" class="parallax-image">
-				<p class="hire-us-text">Transparency </p>
-				<p class="hire-us-text" align="justify">
-					You can watch your own app development live. You can get every update and development in all stages from beginning to the end. You can share your own ideas of project so our vinnovate team can make application more innovative.
-				</p>
-			</div>
-			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-				<img src="img/delivery and deadline.png" class="parallax-image">
-				<p class="hire-us-text">Delivery and Deadline</p>
-				<p class="hire-us-text" align="justify">
-					 You will get exact product with additional features and content which will add quality factor to application and also easy to use and maintain. Delivery will be on time as decided in the beginning of contract.
-				</p>
-			</div>
-			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-				<img src="img/application and maintenance.png" class="parallax-image">
-				<p class="hire-us-text">Application and Maintenance</p>
-				<p class="hire-us-text" align="justify">
-					Post deployment,we will always be there for you to solve any flaw,bugs and adding newest features to the existing application which adds more flexibility and performance in your  application.
-
-				</p>
-			</div>
-			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
-				<img src="img/scalability.png" class="parallax-image">
-				<p class="hire-us-text">Scalability</p>
-				<p class="hire-us-text" align="justify">
-					As we vinnovatives promised to give our services even after deployment so the service level will be fixed and more enhanced adaptive level to the project for a sustainable supply chain with flawless mobility solutions.
-				</p>
 			</div>
 		</div>
+
+		<div class="overlay-standard overlay--green"></div>
 	</div>
-	
-</div>
 
-	<!--end-we work-->
-	<!-- founder start -->
+	<!-- ... end Stunning Header -->
 
 
-	<div class="container we-hire">
-	<h2 class="heading-title align-center">Our<span class="c-primary"> Management Team</span></h2>
-	<div class="row">
-	
-					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-	<aside class="widget w-about">
-						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:15.1px;">
-										<div class="author-info-wrap">
-											<div class="testimonial-img-author">
-												<img src="img/yogesh.jpg" alt="author">
-											</div>
-											<div class="author-info">
-												<a href="#" class="h6 author-name">Yogesh Khandelwal</a>
-												<div class="author-company"><b>Business Development Head</b></div>
-											</div>
-										</div>
+	<!-- Course Details -->
 
-										<!-- <h6 class="testimonial-text"> -->
-										20+ years of IT and business development manager's experience in the educational field.
-										<!-- </h6> -->
-
-
-									</div>
-
-					</aside></div>
-					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-	<aside class="widget w-about">
-						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:13.5px;">
-										<div class="author-info-wrap">
-											<div class="testimonial-img-author">
-												<img src="img/shubha.jpg" alt="author">
-											</div>
-											<div class="author-info">
-												<a href="#" class="h6 author-name">Shubha Muley</a>
-												<div class="author-company"><b>Project & Process Engineering</b></div>
-											</div>
-										</div>
-
-										<!-- <h6 class="testimonial-text" style="font-size: 15px"> -->
-											20+ years of experience in delivery management of projects across the globe with excellence in quality using test automation & Agile/Develop a framework.
-										
-
-
-										</aside></div>
-
-
-<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-	<aside class="widget w-about">
-						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
-										<div class="author-info-wrap">
-											<div class="testimonial-img-author">
-												<img src="img/umesh.jpg" alt="author">
-											</div>
-											<div class="author-info">
-												<a href="#" class="h6 author-name">Umesh Khandelwal</a>
-												<div class="author-company"><b>Mentor and Advisor</b></div>
-										</div>
-									</div>
-
-										<!-- <h6 class="testimonial-text" > -->
-											20+ years of International experience in IT and MNCs.
-										<!-- </h6> -->
-
-									
-<!-- </div> -->
-
-					</aside>
-				</div>
-<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-	<aside class="widget w-about">
-						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
-										<div class="author-info-wrap">
-											<div class="testimonial-img-author">
-												<img src="img/sumit.jpg" alt="author">
-											</div>
-											<div class="author-info">
-												<a href="#" class="h6 author-name">Sumit Goel</a>
-												<div class="author-company"><b>Technical Advisor</b></div>
-											</div>
-										</div>
-
-										<!-- <h6 class="testimonial-text"> -->
-										<div class="author-company" align="justify">15+ years of International experience in IT and MNCs.</div>
-										</h6>
-
-									
-</div>
-
-					</aside>
-				</div>
-			</div>
-
-	<!-- founder end -->
-
-
-
-	<!-- business partners start -->
-
-	<div class="container we-hire">
-	<h2 class="heading-title align-center">Our<span class="c-primary"> Business Partners</span></h2>
-	<div class="row">
-	<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-	<aside class="widget w-about">
-						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
-										<div class="author-info-wrap">
-											
-											<div class="author-info">
-												<a href="#" class="p author-name">Tasmay Innovations Technology Tools LLP</a>
-												<div class="author-company">Industrial Automation & IT Consulting </div>
-												<div class="author-company"></div>
-											</div>
-										</div>
-
-										<h6 class="testimonial-text">
-											
-										</h6>
-
-									</div>
-
-
-					</aside></div>
-					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-	<aside class="widget w-about">
-						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
-										<div class="author-info-wrap">
-											
-											<div class="author-info">
-												<a href="#" class="p author-name"> Softgear Systems  </a> 
-												<div class="author-company">IOT & PLC Consulting</div>
-												<div class="author-company"></div>
-											</div>
-										</div>
-
-										<h6 class="testimonial-text">
-										
-										</h6>
-
-
-									</div>
-
-					</aside></div>
-					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-	<aside class="widget w-about">
-						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
-										<div class="author-info-wrap">
-											
-											<div class="author-info">
-												<a href="#" class="p author-name">Global Infotech (MS CIT)</a>
-												<div class="author-company">IT Training</div>
-												<div class="author-company"></div>
-											</div>
-										</div>
-
-										<h6 class="testimonial-text">
-											
-										</h6>
-
-
-									</div>
-
-
-					</aside></div></div></div>
-
-
-	<!-- business partners end -->
-
-
-<hr/>
-
-<!-- Slider -->
-
-	<section class="crumina-module crumina-module-slider navigation-center-both-sides slider-3-items medium-padding100 align-center">
+	<section class="negative-margin-top80">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
-					<div class="crumina-module crumina-heading">
-						<h2 class="heading-title align-center">Our<span class="c-primary"> Gallery</span></h2>
-						<h2 class="heading-title c-primary"></h2>
+				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+					<div class="course-details">
+						<ul class="course-details-control" role="tablist">
+
+							<li role="presentation" class="tab-control active">
+								<a href="#description" role="tab" data-toggle="tab" class="control-item">Description</a>
+							</li>
+
+							<!-- <li role="presentation" class="tab-control">
+								<a href="#instructors" role="tab" data-toggle="tab" class="control-item">What we Provide</a>
+							</li> -->
+
+							<li role="presentation" class="tab-control">
+								<a href="#developed" role="tab" data-toggle="tab" class="control-item">Websites Developed</a>
+							</li>
+
+						</ul>
+
+						<div class="tab-content">
+							<div role="tabpanel" class="tab-pane fade in active" id="description">
+								<div class="row">
+									<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+										<h3>Description</h3>
+										<!-- <p class="weight-bold">Quam nunc putamus parum claram, anteposuerit litterarum formas
+											humanitatis per seacula quarta decima et quinta decima modo typi, qui nunc.</p> -->
+										<p>
+                                           Business models are changing and are influenced by digital transformation. Same goes with Hotels. Automation brings in high level of efficiency, good customer service, reduced human resource needs and less human error. vInnovate partnered with Retreat Hospitality (a group with 10+ hotels under its management) to build digital solution to transform its business model from manual to digital.
+
+										</p>
+
+										<!-- <h5>Why hotel managment system </h5> -->
+										
+										<ul class="list list--standard">
+											
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Asset Management</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">Employee Attendence Solution with Fingerprint support</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">Employee Identity Card sign and Print</a>
+											</li>
+											
+                                            <li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Group brocher/phamplet design</a>
+											</li>
+
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Digital maketing
+</a>
+											</li>
+
+										</ul>
+
+										Clients - Augmented Foods, Pune
+									</div>
+									
+								</div>
+
+							</div>
+								<!-- <div role="tabpanel" class="tab-pane fade" id="instructors">
+
+								<h3>Benefits of Hotel Managment System</h3>
+								<ul class="list list--standard">
+											
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Asset Management</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">Employee Attendence Solution with Fingerprint support</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">Employee Identity Card sign &nd Print</a>
+											</li>
+											
+                                            <li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Group brocher/phamplet design</a>
+											</li>
+
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Digital maketing
+</a>
+											</li>
+
+										</ul>
+</div>
+									 -->
+								
+
+										<div role="tabpanel" class="tab-pane fade" id="developed">
+
+								
+								<ul class="list list--standard">
+											
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">  http://augmentedfoodsindia.com/index.php</a>
+											</li>
+											<!-- <li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">http://dreamlandresort.in</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">http://imperialgrande.com</a>
+											</li>
+											
+                                            <li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">http://retreatheritage.com </a>
+											</li>
+
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">http://krushnairesort.com </a>
+											</li>
+                                             <li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">http://mayurretreat.com </a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">http://citypalaceresort.com </a>
+											</li> -->
+										</ul>
+									</div>
+								<!-- <ul class="list list--standard">
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Educational Institutions can offer a portfolio of courses across specializations, without been restricted by space, finance and human resource.</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Ease of operations and minimum cost of updating if courseware requires changes.</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">Assessment on an individual level to get insights into content consumption and behavior of learners via analytics.</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">Personalization on an individual level to deliver learning modules according to the scope of improvement of the learner.</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">Can deliver 2 types of learning modules, one via the eLearning portal/website/mobile app and later deliver doubt clearing sessions via the same channel.</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">Can offer educational programs to a large number of students not restricted by space constraints, the eLearning system being scalable and enabled by technology.</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">  Standardized quality of learning, due to minimum human involvement and cost-efficient customizability.</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Can add interactivity to learning modules with gamification, multimedia, AR (Augmented Reality) and making it a point of differentiation for educational programs, and price a premium for courseware because of the added value they offer.</a>
+											</li>
+										</ul>
+										<h3>Benefits of eLearning for students</h3>
+								<ul class="list list--standard">
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Savings in traveling and other related costs as all learning modules and pre-recorded lessons are delivered via digital channels.</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Unlimited access to all learning content anytime, anywhere on the device of choice.</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">Option to select a course of choice of any specialization from the set of teachers offering the course</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Comparatively economical option</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Learn and retain better from contextually relevant, updated and interactive educational programs ensuring every concept is absorbed by the learner.</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#">Feedback mechanism to communicate with the institute and creator of the program to convey any changes or suggestions if required.</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Personal attention provided by the tutors on completion and doubts of the individual learner.</a>
+											</li>
+											
+										</ul>
+
+							</div>
+							 -->
+
+							</div>
+						</div>
+
 					</div>
-				</div>
-				<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
-					<div class="swiper-container pagination-bottom" data-show-items="2" data-effect="coverflow" data-centered-slider="true" data-nospace="true" data-stretch="80" data-depth="250">
-						<div class="swiper-wrapper">
-							<div class="swiper-slide">
-								<img src="img/gallery1.jpeg" alt="image">
-							</div>
-							<div class="swiper-slide">
-								<img src="img/gallery2.jpeg" alt="image">
-							</div>
-							<div class="swiper-slide">
-								<img src="img/gallery4.jpeg" alt="image">
-							</div>
-							<div class="swiper-slide">
-								<img src="img/gallery3.jpeg" alt="image">
-							</div>
-							<!-- <div class="swiper-slide">
-								<img src="img/slides4.png" alt="image">
-							</div>
-							<div class="swiper-slide">
-								<img src="img/slides4.png" alt="image">
-							</div>
-						</div> -->
-
-						<!-- If we need pagination -->
-						<div class="swiper-pagination"></div>
-
-					</div>
-				</div>
-
-				<!--Prev next buttons-->
-
-				<div class="btn-prev">
-					<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
-					<svg class="utouch-icon utouch-icon-arrow-left1"><use xlink:href="#utouch-icon-arrow-left1"></use></svg>
-				</div>
-
-				<div class="btn-next">
-					<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
-					<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
 				</div>
 			</div>
 		</div>
 	</section>
+	<div class="header-spacer"></div>
 
-	<!-- .... end Slider -->
 
-		
+
+
+	<!-- Curriculum Events -->
+
 	
 
-	<!-- Testimonials -->
 
-	<section class="crumina-module crumina-module-slider bg-4 cloud-center navigation-center-both-sides medium-padding100 align-center">
-			<div class="container">
-				<h2 class="heading-title text-center">What our<span class="c-primary"> customers </span>say about us</h2>
-				<div class="row">
-					<div class="col-lg-6 col-lg-offset-3 col-md-12 col-md-offset-3 col-sm-12 col-sm-offset-0">
-						<div class="swiper-container" data-effect="fade">
-							<div class="swiper-wrapper">
-								<div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
-
-									<div class="testimonial-img-author" data-swiper-parallax="-100">
-										<img src="img/hrm.png" alt="avatar">
-									</div>
-
-									<h6 style="font-weight: normal !important; font-family: 'Montserrat', sans-serif !important;">All the information about our college/faculties/activities is now
-										properly and digitally organized.
-										Information can be retrieved
-										easily for NAAC submission. We
-										are 100% sure, we will get A or
-										above A accreditation this year.
-										vInnovate had done great job.
-
-										Visibility of our College has
-										increased and we now get enquiry
-										calls from parents/students foradmissions.
-									</h6>
-
-								</div>
-
-								<div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
-
-									<div class="testimonial-img-author" data-swiper-parallax="-100">
-										<img src="img/OM Fitness Club Logo Black.png" alt="avatar">
-									</div>
-
-									<h6 style="font-weight: normal !important;">
-										The statistics provided on dashboard helps us to organise customer movement. We can now easily know what time is the busiest or when is the gym running full.vGymMS had made most of our tasks like keeping track of attendance, payments etc easier.
-									</h6>
-
-								</div>
-
-						</div>
-					</div>
-				</div>
-			</div>
-
-			<!--Prev next buttons-->
-
-			<div class="btn-prev">
-				<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
-				<svg class="utouch-icon utouch-icon-arrow-left1"><use xlink:href="#utouch-icon-arrow-left1"></use></svg>
-			</div>
-
-			<div class="btn-next">
-				<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
-				<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
-			</div>
-	</section>
-
-	<!-- ... end Testimonials -->
-
-	<!-- Clients Block -->
-
-	 <section class="crumina-module crumina-clients background-contain bg-yellow">
-			<div class="container">
-				<div class="row">
-					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
-						<a class="clients-item" href="http://hrmrajgurunagar.ac.in">
-							<span class="clients-images">
-								<img src="img/HRMCollegeLogoBlack.png" class="" alt="logo">
-								 <img src="img/HRMCollegeLogoWhite.png" class="hover" alt="logo"> 
-							</span>
-						</a>
-					</div>
-					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
-						<a class="clients-item" href="http://retreathospitality.com">
-							<span class="clients-images">
-								<img src="img/RetreatHospitalityLogoBlack.png" class="" alt="logo"> -->
-								<!-- <img src="img/RetreatHospitalityLogoWhite.png" class="hover" alt="logo"> -->
-							</span>
-						</a>
-					</div>
-					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
-						<a class="clients-item" href="http://vgym.vinnovatetechnologies.com">
-							<span class="clients-images">
-								<img src="img/OM Fitness Club Logo Black.png" class="" alt="logo">
-								 <img src="img/OM Fitness Club Logo White (1).png" class="hover" alt="logo"> 
-							</span>
-						</a>
-					</div>
-					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
-						<a class="clients-item" href="http://sukhkartafoundation.org">
-							<span class="clients-images">
-								<img src="img/Sukhakarta Foundation Logo Black.png" class="" alt="logo">
-								<img src="img/Sukhakarta Foundation Logo White.png" class="hover" alt="logo"> 
-							</span>
-						</a>
-					</div>
-					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
-						<a class="clients-item" href="http://sukhkartafoundation.org">
-							<span class="clients-images">
-								<img src="img/Durgadevi Charitable Trust Logo Big Black Edit01.png" class="" alt="logo">
-								<img src="img/Durgadevi Charitable Trust Logo Big White Edit01.png" class="hover" alt="logo"> 
-							</span>
-						</a>
-					</div>
-					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
-						<a class="clients-item" href="http://kvn.edu.in">
-							<span class="clients-images">
-								<img src="img/KVNLogo black.png" class="" alt="logo">
-								<img src="img/KVNLogo black.png" class="hover" alt="logo"> 
-								<!-- <img src="img/RetreatHospitalityLogoWhite.png" class="hover" alt="logo"> -->
-							</span>
-						</a>
-					</div>
-				</div>
-			</div>
-	</section>
-
-	<!-- ... end Clients Block -->
-
-
-
-
-	<!-- Subscribe Form -->
-	<section class="crumina-module crumina-module-slider bg-4 cloud-center navigation-center-both-sides medium-padding100 align-center">
-			<div class="container">
-				<h2 class="heading-title text-center">Get quote for your<span class="c-primary"> customized product</span>  today</h2>
-				<form class="container" method="POST" action="login/data.php">
-					<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
-                                <div class="row">
-                                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                                        <input name="name" placeholder="Your Name" type="text">
-                                    </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                                        <input name="email" placeholder="Your Email" type="email">
-                                    </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
-                                        <input name="phone" placeholder="Phone" type="text">
-                                    </div>
-                                </div>
-                                 </div>
-
-                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <textarea name="message" class="" required="" placeholder="Details" style="height: 250px;"></textarea>
-                            </div>
-                             <div class="align-center">
-                            	    <button type="submit" name=index_contact class="btn btn--black btn--with-shadow "> Send a Message</button>
-                            </div>
-				</form>
-
-
-			</div>
-	</section>
-
+	<!-- ... end Curriculum Events -->
 
 </div>
 
 
 <!-- Footer -->
 
-<?php include 'include/footer.php';?>
+<?php include'include/footer.php'?>
 
 <!-- End Footer -->
+
+
+<!-- Send Message Popup -->
+
+<div class="window-popup message-popup">
+	<a href="#" class="popup-close js-popup-close cd-nav-trigger">
+		<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
+	</a>
+
+	<div class="send-message-popup">
+		<h5>Send a Message</h5>
+		<p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magnais.</p>
+		<form class="contact-form" method="post" action="https://html.crumina.net/html-utouch/send_mail.php">
+			<div class="with-icon">
+				<input name="name" placeholder="Your Name" type="text" required="required">
+				<svg class="utouch-icon utouch-icon-user"><use xlink:href="#utouch-icon-user"></use></svg>
+			</div>
+
+			<div class="with-icon">
+				<input name="email" placeholder="Email Adress" type="text" required="required">
+				<svg class="utouch-icon utouch-icon-message-closed-envelope-1"><use xlink:href="#utouch-icon-message-closed-envelope-1"></use></svg>
+			</div>
+
+			<div class="with-icon">
+				<input class="with-icon" name="phone" placeholder="Phone Number" type="tel" required="required">
+				<svg class="utouch-icon utouch-icon-telephone-keypad-with-ten-keys"><use xlink:href="#utouch-icon-telephone-keypad-with-ten-keys"></use></svg>
+			</div>
+
+			<div class="with-icon">
+				<input class="with-icon" name="subject" placeholder="Subject" type="text" required="required">
+				<svg class="utouch-icon utouch-icon-icon-1"><use xlink:href="#utouch-icon-icon-1"></use></svg>
+			</div>
+
+			<div class="with-icon">
+				<textarea name="message" required="" placeholder="Your Message" style="height: 180px;"></textarea>
+				<svg class="utouch-icon utouch-icon-edit"><use xlink:href="#utouch-icon-edit"></use></svg>
+			</div>
+
+			<button class="btn btn--green btn--with-shadow full-width">
+				Send a Message
+			</button>
+
+		</form>
+	</div>
+</div>
+
+<!-- Send Message Popup -->
+
+
+<!-- Search Popup -->
+
+<div class="search-popup search--dark">
+	<a href="#" class="popup-close js-popup-close cd-nav-trigger">
+		<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
+	</a>
+
+	<div class="search-full-screen">
+
+		<div class="search-standard">
+			<form id="search-header-1" name="form-search-header" method="post">
+				<div class="typeahead__container">
+					<div class="typeahead__field">
+
+						<span class="typeahead__query">
+							<input class="js-typeahead" name="utouch_posts[query]" placeholder="What are you looking for?" autocomplete="off" type="search" autofocus>
+						</span>
+						<button type="submit" class="form-icon">
+							<svg class="utouch-icon utouch-icon-search"><use xlink:href="#utouch-icon-search"></use></svg>
+						</button>
+						<span class="close js-popup-clear-input form-icon">
+							<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
+						</span>
+
+					</div>
+				</div>
+			</form>
+		</div>
+
+	</div>
+
+</div>
+
+<!-- ... end Search Popup -->
 
 
 <!-- Used SVG-icons -->
@@ -995,12 +611,13 @@
 </svg>
 
 <!-- ... end Used SVG-icons -->
-<?php include 'include/script.php';?>
+
 
 <!-- jQuery first, then Other JS. -->
 
+<?php include 'include/script.php';?>
 
 </body>
 
 
-</html>
+</html> --> -->

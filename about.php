@@ -245,14 +245,14 @@
 			<div class="row">
 				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading align-center">
-						<h2 class="heading-title">Meet our<span class="c-primary">  professional</span> team</h2>
+						<h2 class="heading-title">Meet our<span class="c-primary">  Professional</span> Team</h2>
 						
 					</div>
 				</div>
 
 				<div class="teammembers-wrap">
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-						<div class="crumina-module crumina-teammembers-item">
+						<!-- <div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
 								<img src="img/divya.jpeg" alt="team member">
@@ -266,9 +266,23 @@
 
 								<p>A coder who thinks everyday life is like programming . If you love something you can put beauty into it.</p>
 
+							</div>
+						</div> -->
+ 						<div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/naim.png" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof">Senior Product Engg</div>
+
+								<a href="#" class="h5 teammembers-item-name">Naim</a>
+
+								<p>A self taught passionate developer experienced in building client-focused Web Pages and Applications.</p>
+
 								
-
-
 							</div>
 						</div>
 
@@ -285,10 +299,6 @@
 								<a href="#" class="h5 teammembers-item-name">Ankit Vedpathak</a>
 
 								<p>Being creative there's always new idea running through my mind. I see picture before words.</p>
-
-								
-
-
 							</div>
 						</div>
 
@@ -307,8 +317,9 @@
 								<p>A never quitting coder who puts first priority into execution and implementation.</p>
 
 								</div>
+							</div>
 
-								<div class="crumina-module crumina-teammembers-item">
+						<!-- <div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
 								<img src="img/bhushan.jpeg" alt="team member">
@@ -324,7 +335,7 @@
 
 								
 							</div>
-						</div>
+						</div> -->
 
 				<div class="crumina-module crumina-teammembers-item">
 
@@ -343,31 +354,12 @@
 								
 							</div>
 						</div>
-						<div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/akshay_A.jpeg" alt="team member">
 							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Product Engg (Intern)</div>
-
-								<a href="#" class="h5 teammembers-item-name">Akshay A</a>
-
-								<p>An enthusiastic engineer who keeps deep interest in learning and implementing things along with its execution!A keen learner and a dedicated coder!</p>
-
-								
-							</div>
-						</div>
-
-
-							</div>
-						</div>
-					</div>
+						<!-- </div> -->
+					<!-- </div> -->
 
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-						<div class="crumina-module crumina-teammembers-item">
+						<!-- <div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
 								<img src="img/ratnesh.jpeg" alt="team member">
@@ -383,7 +375,7 @@
 
 								
 							</div>
-						</div>
+						</div> -->
 
 						<div class="crumina-module crumina-teammembers-item">
 
@@ -421,24 +413,7 @@
 							</div>
 						</div>
                         
-                        <div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/naim.png" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Senior Product Engg</div>
-
-								<a href="#" class="h5 teammembers-item-name">Naim</a>
-
-								<p>A self taught passionate developer experienced in building client-focused Web Pages and Applications.</p>
-
-								
-							</div>
-						</div>
-
+                       
 						<div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
@@ -474,16 +449,13 @@
 								
 							</div>
 						</div>
-
-						
-
-
 					</div>
 				</div>
-
-
 			</div>
-		</div>
+				</div>
+
+			<!-- </div>
+		</div> -->
 	</section>
 	
 

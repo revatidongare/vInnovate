@@ -136,7 +136,7 @@
 				<p class="hire-us-text">
 					Positive Environment
 				</p>
-				<p class="hire-us-text">
+				<p class="hire-us-text" align="justify">
 					A positive work environment  which makes employees feel good about coming to work, and this provides the motivation to sustain them throughout the day.
 				</p>
 			</div>
@@ -145,7 +145,7 @@
 				<p class="hire-us-text">
 					Transparent 
 				</p>
-				<p class="hire-us-text">
+				<p class="hire-us-text" align="justify">
 					 Transparent and open discussion with the employees which lead everyone to be on the same page and moving in the same direction toward the same goal.
 				</p>
 			</div>
@@ -154,7 +154,7 @@
 				<p class="hire-us-text">
 					Employee First
 				</p>
-				<p class="hire-us-text">
+				<p class="hire-us-text" align="justify">
 					Providing flexible work schedules to accommodate each employee’s personal life constraints is one benefit organizations are offering as part of a shift to an employee-first culture.
 				</p>
 			</div>
@@ -163,7 +163,7 @@
 				<p class="hire-us-text">
 					Fun
 				</p>
-				<p class="hire-us-text">Having fun is one way of effectively managing and improving employees' emotions. It's also proven to improve teamwork, build trusting relationships and increase employee retention</p>
+				<p class="hire-us-text" align="justify">Having fun is one way of effectively managing and improving employees' emotions. It's also proven to improve teamwork, build trusting relationships and increase employee retention</p>
 			</div>
 		</div>
 	</div>

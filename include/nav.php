@@ -44,8 +44,8 @@
 									vSadrakshan
 								</a>
 							</li> -->
-								<li class="">
-								<a href="img/Product Information - Smart Shopfloor Data Collection.pdf">
+								<li>
+								<a href=" ">
 									vSmart Dashboard
 								</a>
 							</li>
@@ -91,7 +91,7 @@
 								</a>
 							</li>
 							<li>
-								<a href="  ">
+								<a href="e-commerce.php">
 									 E-Commerce System
 								</a>
 							</li>
