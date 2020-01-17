@@ -192,10 +192,10 @@ supports Azure as well as AWS cloud.</p>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
 												<a href="#"> Cycle time to reflect the rate at which jobs are produced (performance per machine).</a>
 											</li>
-											<li>
+											<!-- <li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
 												<a href="#"> Above 3 graphs can be added from this link - https://vplc-  </a>
-											</li>
+											</li> -->
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
 												<a href="#"> Dashboard availability on TV, Desktop and Mobile devices .</a>
@@ -214,7 +214,7 @@ supports Azure as well as AWS cloud.</p>
 											</li>
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Archiecture diagram you can out here if req.. Link on drive already shared on wat app. </a>
+												<a href="#"> To View Archiecture diagram <a href="img/Smart_Shopfloor_Dashboards.pdf">Click Here</a></a>
 											</li>
 										</ul> 
 								
