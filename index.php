@@ -86,7 +86,7 @@
 
 							<div class="info-box-content">
 								<a href="#" class="h5 info-box-title">Application Development</a>
-								<p class="info-box-text">We are a product based company which provides the best solution to cater to the business needs and demand.
+								<p class="info-box-text" align="justify">We are a product based company which provides the best solution to cater to the business needs and demand.
 								</p>
 							</div>
 
@@ -104,7 +104,7 @@
 
 							<div class="info-box-content">
 								<a href="#" class="h5 info-box-title">Digital Transformation</a>
-								<p class="info-box-text">We help you to create platform by adding technological support to boost the business and to deliver valuable services to the customers.
+								<p class="info-box-text"  align="justify">We help you to create platform by adding technological support to boost the business and to deliver valuable services to the customers.
 								</p>
 							</div>
 
@@ -122,7 +122,7 @@
 
 							<div class="info-box-content">
 								<a href="#" class="h5 info-box-title">Data Science</a>
-								<p class="info-box-text">The system continously monitors the data which makes it more valuable and protected.
+								<p class="info-box-text"  align="justify">The system continously monitors the data which makes it more valuable and protected.
 								</p>
 							</div>
 
@@ -142,7 +142,7 @@
 
 							<div class="info-box-content">
 								<a href="#" class="h5 info-box-title">Web/Mobile app Development</a>
-								<p class="info-box-text">We bridge the gap between time and management by providing 24/7 assistance to make the business easy and manageable at any corner of the world.
+								<p class="info-box-text"  align="justify">We bridge the gap between time and management by providing 24/7 assistance to make the business easy and manageable at any corner of the world.
 								</p>
 							</div>
 
@@ -160,7 +160,7 @@
 
 							<div class="info-box-content">
 								<a href="#" class="h5 info-box-title">Cloud</a>
-								<p class="info-box-text">We allow you to set-up all the essential according to the requirements by providing flexibility and ease in handling and connecting business. 
+								<p class="info-box-text"  align="justify">We allow you to set-up all the essential according to the requirements by providing flexibility and ease in handling and connecting business. 
 								</p>
 							</div>
 
@@ -178,7 +178,7 @@
 
 							<div class="info-box-content">
 								<a href="#" class="h5 info-box-title">IT Consulting</a>
-								<p class="info-box-text">We provide the best advisory role to business expansion via digital marketing analyze,design and develop .
+								<p class="info-box-text"  align="justify">We provide the best advisory role to business expansion via digital marketing analyze,design and develop .
 								</p>
 							</div>
 
@@ -443,7 +443,7 @@
 										</div>
 
 										<!-- <h6 class="testimonial-text"> -->
-										<div class="author-company">15+ years of International experience in IT and MNCs.</div>
+										<div class="author-company" >15+ years of International experience in IT and MNCs.</div>
 										</h6>
 
 									
