@@ -100,7 +100,7 @@
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h3 class="h5 info-box-title">Our<span class="c-primary"> Values</span></h3>
 						<p class="info-box-text">
-													Integrity
+						<b>Integrity- </b>
 						We believe in working morally and ethically.<br>
 						<b>Respect -</b>
 						We believe in treating everyone equally and with respect.<br>
@@ -385,7 +385,7 @@
 
 							<div class="teammember-content">
 
-								<div class="teammembers-item-prof">Web developer (intern)</div>
+								<div class="teammembers-item-prof">Product Engineer</div>
 
 								<a href="#" class="h5 teammembers-item-name">Niranjan</a>
 
@@ -403,7 +403,7 @@
 
 							<div class="teammember-content">
 
-								<div class="teammembers-item-prof">Web developer (intern)</div>
+								<div class="teammembers-item-prof">Product Engineer</div>
 
 								<a href="#" class="h5 teammembers-item-name">Vivek</a>
 
@@ -417,7 +417,7 @@
 						<div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
-								<img src="img/akshay_k.png" alt="team member">
+								<img src="img/akshay_K.png" alt="team member">
 							</div>
 
 							<div class="teammember-content">
@@ -440,7 +440,7 @@
 
 							<div class="teammember-content">
 
-								<div class="teammembers-item-prof">Product Engg (Intern)</div>
+								<div class="teammembers-item-prof">Product Engineer (Intern)</div>
 
 								<a href="#" class="h5 teammembers-item-name">Kirtana M</a>
 
@@ -449,6 +449,23 @@
 								
 							</div>
 						</div>
+						<div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/akshay_A.jpeg" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof"> Product Engineer(intern)</div>
+
+								<a href="#" class="h5 teammembers-item-name">Akshay Auti</a>
+
+								<p>A developer who uses iterative development on the projects he want to succeed.</p>
+
+								
+							</div>
+						</div> -->
 					</div>
 				</div>
 			</div>

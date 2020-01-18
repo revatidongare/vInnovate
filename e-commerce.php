@@ -82,7 +82,7 @@
 										<!-- <p class="weight-bold">Quam nunc putamus parum claram, anteposuerit litterarum formas
 											humanitatis per seacula quarta decima et quinta decima modo typi, qui nunc.</p> -->
 										<p>
-                                           Business models are changing and are influenced by digital transformation. Same goes with Hotels. Automation brings in high level of efficiency, good customer service, reduced human resource needs and less human error. vInnovate partnered with Retreat Hospitality (a group with 10+ hotels under its management) to build digital solution to transform its business model from manual to digital.
+                                           E-Business, or electronic business, is simply the sale and purchase of services and goods over an electronic medium, like the Internet. It also involves electronically transferring data and funds between two or more parties. Simply put, it is online shopping as we commonly know it.
 
 										</p>
 
@@ -92,26 +92,25 @@
 											
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Asset Management</a>
+												<a href="#"> login and logout </a>
 											</li>
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Employee Attendence Solution with Fingerprint support</a>
+												<a href="#">Showing all product with respect to catgory in navbar</a>
 											</li>
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Employee Identity Card sign and Print</a>
+												<a href="#">Cart Functionality</a>
 											</li>
 											
                                             <li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Group brocher/phamplet design</a>
+												<a href="#"> Payment Gateway</a>
 											</li>
 
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Digital maketing
-</a>
+												<a href="#"> Email Subscription</a>
 											</li>
 
 										</ul>

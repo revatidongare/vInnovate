@@ -26,6 +26,9 @@
 
 				<ul class="primary-menu-menu">
 					<li class="menu-item-has-children">
+						<a href="index.php">Home</a>
+					</li>
+					<li class="menu-item-has-children">
 						<a href="about.php">About us</a>
 					</li>
 
@@ -33,9 +36,10 @@
 					<li class="">
 						<a href="products.php">Products</a>
 						<ul class="sub-menu">
-		                      <a href="plc-automation.php">
-		                      	<li>
-								    vPLC-IOT DashBoards
+		                      
+		                    <li>
+		                    	<a href="plc-automation.php">
+								    vSmart(IOT) DashBoards
 								</a>
 							</li>
 							</li>
@@ -44,22 +48,22 @@
 									vSadrakshan
 								</a>
 							</li> -->
-								<li>
-								<a href=" ">
+								<!-- <li>
+								<a href="img/Product_Information_Smart_Shopfloor_Data_Collection.pdf ">
 									vSmart Dashboard
 								</a>
-							</li>
+							</li> -->
 
-							<li>
-								<a href="vselflearn.php">
-									vSelfLearn School
-								</a>
-							</li>
 							<li class="">
 								<a href="vselflearn-engi.php">
 									vSelfLearn Engineering
 								</a>
 								
+							</li>
+							<li>
+								<a href="vselflearn.php">
+									vSelfLearn School
+								</a>
 							</li>
 							
 							<li class="">
