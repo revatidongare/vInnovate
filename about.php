@@ -100,7 +100,7 @@
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h3 class="h5 info-box-title">Our<span class="c-primary"> Values</span></h3>
 						<p class="info-box-text">
-													Integrity
+						<b>Integrity- </b>
 						We believe in working morally and ethically.<br>
 						<b>Respect -</b>
 						We believe in treating everyone equally and with respect.<br>
@@ -245,14 +245,14 @@
 			<div class="row">
 				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading align-center">
-						<h2 class="heading-title">Meet our<span class="c-primary">  professional</span> team</h2>
+						<h2 class="heading-title">Meet our<span class="c-primary">  Professional</span> Team</h2>
 						
 					</div>
 				</div>
 
 				<div class="teammembers-wrap">
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-						<div class="crumina-module crumina-teammembers-item">
+						<!-- <div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
 								<img src="img/divya.jpeg" alt="team member">
@@ -266,162 +266,9 @@
 
 								<p>A coder who thinks everyday life is like programming . If you love something you can put beauty into it.</p>
 
-								
-
-
 							</div>
-						</div>
-
-						<div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/ankit.jpeg" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Graphics Designer</div>
-
-								<a href="#" class="h5 teammembers-item-name">Ankit Vedpathak</a>
-
-								<p>Being creative there's always new idea running through my mind. I see picture before words.</p>
-
-								
-
-
-							</div>
-						</div>
-
-						<div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/mitali.jpeg" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Web developer(Intern)</div>
-
-								<a href="#" class="h5 teammembers-item-name">Mitali Phapunkar</a>
-
-								<p>A never quitting coder who puts first priority into execution and implementation.</p>
-
-								</div>
-
-								<div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/bhushan.jpeg" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Product Engineer</div>
-
-								<a href="#" class="h5 teammembers-item-name">Bhushan</a>
-
-								<p>A self taught passionate coder who believes that it is better to make mistakes and fail rather than never trying</p>
-
-								
-							</div>
-						</div>
-
-				<div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/revati.jpeg" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Product Engineer</div>
-
-								<a href="#" class="h5 teammembers-item-name">Revati</a>
-
-								<p>Never give up for Creating graphical interface, using programming skills so that you can view & interact</p>
-
-								
-							</div>
-						</div>
-						<div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/akshay_A.jpeg" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Product Engg (Intern)</div>
-
-								<a href="#" class="h5 teammembers-item-name">Akshay A</a>
-
-								<p>An enthusiastic engineer who keeps deep interest in learning and implementing things along with its execution!A keen learner and a dedicated coder!</p>
-
-								
-							</div>
-						</div>
-
-
-							</div>
-						</div>
-					</div>
-
-					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-						<div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/ratnesh.jpeg" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof"> Senior Software Developer</div>
-
-								<a href="#" class="h5 teammembers-item-name">Ratnesh Patil</a>
-
-								<p>A developer who uses iterative development on the projects he want to succeed.</p>
-
-								
-							</div>
-						</div>
-
-						<div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/niranjan.jpeg" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Web developer (intern)</div>
-
-								<a href="#" class="h5 teammembers-item-name">Niranjan</a>
-
-								<p>A dedicated and hardworking young coder, Who believes that you learn from every code you write.</p>
-
-								
-							</div>
-						</div>
-
-						<div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/vivek.jpeg" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Web developer (intern)</div>
-
-								<a href="#" class="h5 teammembers-item-name">Vivek</a>
-
-								<p>A Passionate and Multitasking developer with a proactive attitude and a strong work ethic.</p>
-
-								
-							</div>
-						</div>
-                        
-                        <div class="crumina-module crumina-teammembers-item">
+						</div> -->
+ 						<div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
 								<img src="img/naim.png" alt="team member">
@@ -442,7 +289,135 @@
 						<div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
-								<img src="img/akshay_k.png" alt="team member">
+								<img src="img/ankit.jpeg" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof">Graphics Designer</div>
+
+								<a href="#" class="h5 teammembers-item-name">Ankit Vedpathak</a>
+
+								<p>Being creative there's always new idea running through my mind. I see picture before words.</p>
+							</div>
+						</div>
+
+						<div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/mitali.jpeg" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof">Web developer(Intern)</div>
+
+								<a href="#" class="h5 teammembers-item-name">Mitali Phapunkar</a>
+
+								<p>A never quitting coder who puts first priority into execution and implementation.</p>
+
+								</div>
+							</div>
+
+						<!-- <div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/bhushan.jpeg" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof">Product Engineer</div>
+
+								<a href="#" class="h5 teammembers-item-name">Bhushan</a>
+
+								<p>A self taught passionate coder who believes that it is better to make mistakes and fail rather than never trying</p>
+
+								
+							</div>
+						</div> -->
+
+				<div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/revati.jpeg" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof">Product Engineer</div>
+
+								<a href="#" class="h5 teammembers-item-name">Revati</a>
+
+								<p>Never give up for Creating graphical interface, using programming skills so that you can view & interact</p>
+
+								
+							</div>
+						</div>
+							</div>
+						<!-- </div> -->
+					<!-- </div> -->
+
+					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+						<!-- <div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/ratnesh.jpeg" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof"> Senior Software Developer</div>
+
+								<a href="#" class="h5 teammembers-item-name">Ratnesh Patil</a>
+
+								<p>A developer who uses iterative development on the projects he want to succeed.</p>
+
+								
+							</div>
+						</div> -->
+
+						<div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/niranjan.jpeg" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof">Product Engineer</div>
+
+								<a href="#" class="h5 teammembers-item-name">Niranjan</a>
+
+								<p>A dedicated and hardworking young coder, Who believes that you learn from every code you write.</p>
+
+								
+							</div>
+						</div>
+
+						<div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/vivek.jpeg" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof">Product Engineer</div>
+
+								<a href="#" class="h5 teammembers-item-name">Vivek</a>
+
+								<p>A Passionate and Multitasking developer with a proactive attitude and a strong work ethic.</p>
+
+								
+							</div>
+						</div>
+                        
+                       
+						<div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/akshay_K.png" alt="team member">
 							</div>
 
 							<div class="teammember-content">
@@ -465,7 +440,7 @@
 
 							<div class="teammember-content">
 
-								<div class="teammembers-item-prof">Product Engg (Intern)</div>
+								<div class="teammembers-item-prof">Product Engineer (Intern)</div>
 
 								<a href="#" class="h5 teammembers-item-name">Kirtana M</a>
 
@@ -474,16 +449,30 @@
 								
 							</div>
 						</div>
+						<div class="crumina-module crumina-teammembers-item">
 
-						
+							<div class="teammembers-thumb">
+								<img src="img/akshay_A.jpeg" alt="team member">
+							</div>
 
+							<div class="teammember-content">
 
+								<div class="teammembers-item-prof"> Product Engineer(intern)</div>
+
+								<a href="#" class="h5 teammembers-item-name">Akshay Auti</a>
+
+								<p>A developer who uses iterative development on the projects he want to succeed.</p>
+
+								
+							</div>
+						</div> -->
 					</div>
 				</div>
-
-
 			</div>
-		</div>
+				</div>
+
+			<!-- </div>
+		</div> -->
 	</section>
 	
 

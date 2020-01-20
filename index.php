@@ -328,21 +328,21 @@
 			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 				<img src="img/transparency.png" class="parallax-image">
 				<p class="hire-us-text">Transparency </p>
-				<p class="hire-us-text">
+				<p class="hire-us-text" align="justify">
 					You can watch your own app development live. You can get every update and development in all stages from beginning to the end. You can share your own ideas of project so our vinnovate team can make application more innovative.
 				</p>
 			</div>
 			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 				<img src="img/delivery and deadline.png" class="parallax-image">
 				<p class="hire-us-text">Delivery and Deadline</p>
-				<p class="hire-us-text">
+				<p class="hire-us-text" align="justify">
 					 You will get exact product with additional features and content which will add quality factor to application and also easy to use and maintain. Delivery will be on time as decided in the beginning of contract.
 				</p>
 			</div>
 			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 				<img src="img/application and maintenance.png" class="parallax-image">
 				<p class="hire-us-text">Application and Maintenance</p>
-				<p class="hire-us-text">
+				<p class="hire-us-text" align="justify">
 					Post deployment,we will always be there for you to solve any flaw,bugs and adding newest features to the existing application which adds more flexibility and performance in your  application.
 
 				</p>
@@ -350,7 +350,7 @@
 			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 				<img src="img/scalability.png" class="parallax-image">
 				<p class="hire-us-text">Scalability</p>
-				<p class="hire-us-text">
+				<p class="hire-us-text" align="justify">
 					As we vinnovatives promised to give our services even after deployment so the service level will be fixed and more enhanced adaptive level to the project for a sustainable supply chain with flawless mobility solutions.
 				</p>
 			</div>
@@ -368,8 +368,8 @@
 	<div class="row">
 	
 					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-	<aside class="widget w-about">
-						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:15.1px;">
+						<aside class="widget w-about">
+						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:15.1px; ">
 										<div class="author-info-wrap">
 											<div class="testimonial-img-author">
 												<img src="img/yogesh.jpg" alt="author">
@@ -382,14 +382,15 @@
 
 										<!-- <h6 class="testimonial-text"> -->
 										20+ years of IT and business development manager's experience in the educational field.
-										</h6>
+										<!-- </h6> -->
 
 
-									</div>
+						</div>
 
-					</aside></div>
+					</aside>
+				</div>
 					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-	<aside class="widget w-about">
+						<aside class="widget w-about">
 						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:13.5px;">
 										<div class="author-info-wrap">
 											<div class="testimonial-img-author">
@@ -445,7 +446,7 @@
 										</div>
 
 										<!-- <h6 class="testimonial-text"> -->
-										<div class="author-company" >15+ years of International experience in IT and MNCs.</div>
+										<div class="author-company">15+ years of International experience in IT and MNCs.</div>
 										</h6>
 
 									
@@ -464,8 +465,26 @@
 	<div class="container we-hire">
 	<h2 class="heading-title align-center">Our<span class="c-primary"> Business Partners</span></h2>
 	<div class="row">
-	<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-	<aside class="widget w-about">
+				<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+						<aside class="widget w-about">
+						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
+										<div class="author-info-wrap">
+											
+											<div class="author-info">
+												<a href="#" class="p author-name">Digitech Confidential</a>
+												<div class="author-company">Data Protection Consultant
+												<!-- Consultant on Digital Data Protection & Administration</div> -->
+												<div class="author-company"></div>
+											</div>
+										</div>
+
+										<h6 class="testimonial-text" style="margin-bottom: 43px;"></h6>
+						</div>
+					</aside>
+				</div>
+
+				<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+						<aside class="widget w-about">
 						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
 										<div class="author-info-wrap">
 											
@@ -483,8 +502,9 @@
 									</div>
 
 
-					</aside></div>
-					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
+					</aside>
+				</div>
+					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
 	<aside class="widget w-about">
 						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
 										<div class="author-info-wrap">
@@ -496,16 +516,17 @@
 											</div>
 										</div>
 
-										<h6 class="testimonial-text">
-										
+										<h6 class="testimonial-text" style="margin-bottom: 87px;">
 										</h6>
 
 
 									</div>
 
-					</aside></div>
-					<div class="col-lg-4 col-md-12 col-sm-12 col-xs-12">
-	<aside class="widget w-about">
+					</aside>
+					</div>
+
+					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+						<aside class="widget w-about">
 						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
 										<div class="author-info-wrap">
 											
@@ -516,15 +537,12 @@
 											</div>
 										</div>
 
-										<h6 class="testimonial-text">
-											
-										</h6>
-
-
-									</div>
-
-
-					</aside></div></div></div>
+										<h6 class="testimonial-text"  style="margin-bottom: 71px;"></h6>
+						</div>
+					</aside>
+				</div>
+			</div>
+		</div>
 
 
 	<!-- business partners end -->

@@ -40,7 +40,7 @@
 	<div class="crumina-stunning-header stunning-bg-06 stunning-header--content-center stunning-header--bg-photo stunning-header--min640 custom-color c-white fill-white">
 		<div class="container">
 			<div class="stunning-header-content">
-				<h2 class="h1 stunning-header-title">vPLC - IOT DashBoards</h2>
+				<h2 class="h1 stunning-header-title">vSmart(IOT) DashBoards</h2>
 				<div class="inline-items">
 						<div class="heading-text">Digital Transformation is playing an important role in helping organizations to stay ahead of their
 competition. For Manufacturing industries Smart Manufacturing, Connected Machines are some of
@@ -155,6 +155,10 @@ supports Azure as well as AWS cloud.</p>
 				</div>
 			</div>
 		</div>
+
+		<h5> For More Information <br>
+			<a href= "img/Product_Information_Smart_Shopfloor_Data_Collection.pdf" style="color: blue;"> <u>Click Here</u></a>
+		</h5>
 	</section>
 
 									
