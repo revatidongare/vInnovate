@@ -78,7 +78,7 @@
 				<div class="col-lg-12 col-md-4 col-sm-12 col-xs-12" style="text-align: center;">
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h3 class="h5 info-box-title">Our <span class="c-primary">Mission</span></h3>
-						<p class="info-box-text"> vinnovate aspires to be highly innovative software house, established to provide
+						<p class="info-box-text"> vInnovate aspires to be highly innovative software house, established to provide
 				         leading edge intelligent technical solutions and consulting services to businesses,
 				           organizations and government
 				          Help develop Digital Ecosystem by bringing Businesses and Technology together
@@ -95,11 +95,12 @@
  	                      "Simplified Ideas for Life
 						</p>
 					</div>
-				</div>
-					<div class="col-lg-12 col-md-4 col-sm-12 col-xs-12" style="text-align: center;">
+				</div><div class="col-lg-2 "></div>
+
+					<div class="col-lg-8 col-md-4 col-sm-12 col-xs-12" style="text-align: center;">
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h3 class="h5 info-box-title">Our<span class="c-primary"> Values</span></h3>
-						<p class="info-box-text">
+						<p class="info-box-text" align="justify">
 						<b>Integrity- </b>
 						We believe in working morally and ethically.<br>
 						<b>Respect -</b>
@@ -157,7 +158,7 @@
 									<div class="info-box-content">
 										<h6 class="timeline-year c-primary">1997</h6>
 										<!-- <a href="#" class="h6 info-box-title">Claritas est processus</a> -->
-										<p class="info-box-text">Our Journey started in year 1997 when one of our founders started education institute "Infotech" with only 2 PCs with advance programming courses and basics IT skills for laymen.
+										<p class="info-box-text">Our Journey started in year 1997 when one of our founders started education institute "Infotech" with only   2 PCs with advance programming courses and basics IT skills for laymen.
 										</p>
 									</div>
 
@@ -296,7 +297,7 @@
 
 								<div class="teammembers-item-prof">Graphics Designer</div>
 
-								<a href="#" class="h5 teammembers-item-name">Ankit Vedpathak</a>
+								<a href="#" class="h5 teammembers-item-name">Ankit V</a>
 
 								<p>Being creative there's always new idea running through my mind. I see picture before words.</p>
 							</div>
@@ -310,9 +311,9 @@
 
 							<div class="teammember-content">
 
-								<div class="teammembers-item-prof">Web developer(Intern)</div>
+								<div class="teammembers-item-prof">Web developer (Intern)</div>
 
-								<a href="#" class="h5 teammembers-item-name">Mitali Phapunkar</a>
+								<a href="#" class="h5 teammembers-item-name">Mitali P</a>
 
 								<p>A never quitting coder who puts first priority into execution and implementation.</p>
 
@@ -353,7 +354,23 @@
 
 								
 							</div>
-						</div>
+						</div><div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/akshay_A.jpeg" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof"> Product Engineer (Intern)</div>
+
+								<a href="#" class="h5 teammembers-item-name">Akshay A</a>
+
+								<p>A developer who uses iterative development on the projects he want to succeed.</p>
+
+								
+							</div>
+						</div> 
 							</div>
 						<!-- </div> -->
 					<!-- </div> -->
@@ -449,23 +466,7 @@
 								
 							</div>
 						</div>
-						<div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/akshay_A.jpeg" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof"> Product Engineer(intern)</div>
-
-								<a href="#" class="h5 teammembers-item-name">Akshay Auti</a>
-
-								<p>A developer who uses iterative development on the projects he want to succeed.</p>
-
-								
-							</div>
-						</div> -->
+						
 					</div>
 				</div>
 			</div>

@@ -26,9 +26,7 @@
 
 				<ul class="primary-menu-menu">
 					<!-- comment home button -->
-					<li class="menu-item-has-children">
-						<a href="index.php">Home</a>
-					</li>
+					
 					<li class="menu-item-has-children">
 						<a href="about.php">About us</a>
 					</li>

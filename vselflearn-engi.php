@@ -349,13 +349,13 @@ it is a website that gives free access to teaching materials for nearly all the 
 
 <!-- Send Message Popup -->
 
-<div class="window-popup message-popup">
+<!-- <div class="window-popup message-popup">
 	<a href="#" class="popup-close js-popup-close cd-nav-trigger">
 		<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
 	</a>
 
 	<div class="send-message-popup">
-		<h5>Send a Message</h5>
+		<h5>Send a Message Send a Message </h5>
 		<p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magnais.</p>
 		<form class="contact-form" method="post" action="https://html.crumina.net/html-utouch/send_mail.php">
 			<div class="with-icon">
@@ -389,14 +389,14 @@ it is a website that gives free access to teaching materials for nearly all the 
 
 		</form>
 	</div>
-</div>
+</div> -->
 
 <!-- Send Message Popup -->
 
 
 <!-- Search Popup -->
 
-<div class="search-popup search--dark">
+<!-- <div class="search-popup search--dark">
 	<a href="#" class="popup-close js-popup-close cd-nav-trigger">
 		<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
 	</a>
@@ -426,7 +426,7 @@ it is a website that gives free access to teaching materials for nearly all the 
 	</div>
 
 </div>
-
+ -->
 <!-- ... end Search Popup -->
 
 

@@ -115,7 +115,7 @@ supports Azure as well as AWS cloud.</p>
 			<div class="row">
 				<div class="col-lg-6 col-lg-offset-3 col-md-6  col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading">
-						<h2 class="heading-title">Graph </h2>
+						<h2 class="heading-title"align="align-center">Graph </h2>
 						<h2 class="heading-title c-primary"></h2>
 					</div>
 				</div>
@@ -156,8 +156,8 @@ supports Azure as well as AWS cloud.</p>
 			</div>
 		</div>
 
-		<h5> For More Information <br>
-			<a href= "img/Product_Information_Smart_Shopfloor_Data_Collection.pdf" style="color: blue;"> <u>Click Here</u></a>
+		<h5> For More Information <br><br>
+			<a href= "img/Product_Information_Smart_Shopfloor_Data_Collection.pdf" style="color: white;" class="btn btn--primary btn--with-shadow"> Click Here</a>
 		</h5>
 	</section>
 

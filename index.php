@@ -240,7 +240,7 @@
 								<div class="swiper-slide">
 
 									<div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
-										<h5 class="slider-faqs-title">Welness and Fitness</h5>
+										<h5 class="slider-faqs-title">Wellness and Fitness</h5>
 
 										<div class="row">
 											<div class="col-lg-12 col-md-12 col-sm-12">
@@ -343,7 +343,7 @@
 				<img src="img/application and maintenance.png" class="parallax-image">
 				<p class="hire-us-text">Application and Maintenance</p>
 				<p class="hire-us-text" align="justify">
-					Post deployment,we will always be there for you to solve any flaw,bugs and adding newest features to the existing application which adds more flexibility and performance in your  application.
+					Post deployment, we will always be there for you to solve any flaw, bugs & adding newest features to the existing application which adds more flexibility & performance in your application.
 
 				</p>
 			</div>
@@ -391,7 +391,7 @@
 				</div>
 					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
 						<aside class="widget w-about">
-						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:13.5px;">
+						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:12.5px;">
 										<div class="author-info-wrap">
 											<div class="testimonial-img-author">
 												<img src="img/shubha.jpg" alt="author">
@@ -404,12 +404,7 @@
 
 										<!-- <h6 class="testimonial-text" style="font-size: 15px"> -->
 											20+ years of experience in delivery management of projects across the globe with excellence in quality using test automation & Agile/Develop a framework.
-										
-
-
 										</aside></div>
-
-
 <div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
 	<aside class="widget w-about">
 						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
@@ -472,13 +467,13 @@
 											
 											<div class="author-info">
 												<a href="#" class="p author-name">Digitech Confidential</a>
-												<div class="author-company">Data Protection Consultant
+												<div class="author-company"><br>Data Protection Consultant
 												<!-- Consultant on Digital Data Protection & Administration</div> -->
 												<div class="author-company"></div>
 											</div>
 										</div>
 
-										<h6 class="testimonial-text" style="margin-bottom: 43px;"></h6>
+										<h6 class="testimonial-text" style="margin-bottom: 53px;"></h6>
 						</div>
 					</aside>
 				</div>
@@ -489,13 +484,13 @@
 										<div class="author-info-wrap">
 											
 											<div class="author-info">
-												<a href="#" class="p author-name">Tasmay Innovations Technology Tools LLP</a>
-												<div class="author-company">Industrial Automation & IT Consulting </div>
+												<a href="#" style="line-height: 1.6 ;"class="p author-name">Tasmay Innovations Technology Tools LLP</a>
+												<div class="author-company"><br>Industrial Automation & IT Consulting </div>
 												<div class="author-company"></div>
 											</div>
 										</div>
 
-										<h6 class="testimonial-text">
+										<h6 class="testimonial-text" style="margin-bottom: 14px;">
 											
 										</h6>
 
@@ -511,12 +506,12 @@
 											
 											<div class="author-info">
 												<a href="#" class="p author-name"> Softgear Systems  </a> 
-												<div class="author-company">IOT & PLC Consulting</div>
+												<div class="author-company"><br>IOT & PLC Consulting</div>
 												<div class="author-company"></div>
 											</div>
 										</div>
 
-										<h6 class="testimonial-text" style="margin-bottom: 87px;">
+										<h6 class="testimonial-text" style="margin-bottom: 97px;">
 										</h6>
 
 
@@ -531,13 +526,13 @@
 										<div class="author-info-wrap">
 											
 											<div class="author-info">
-												<a href="#" class="p author-name">Global Infotech (MS CIT)</a>
-												<div class="author-company">IT Training</div>
+												<a href="#"style="line-height: 1.6 ; " class="p author-name"><center>Global Infotech <br>(MS CIT)</center></a>
+												<div class="author-company"><br>IT Training</div>
 												<div class="author-company"></div>
 											</div>
 										</div>
 
-										<h6 class="testimonial-text"  style="margin-bottom: 71px;"></h6>
+										<h6 class="testimonial-text"  style="margin-bottom: 61px;"></h6>
 						</div>
 					</aside>
 				</div>
@@ -646,7 +641,7 @@
 										<img src="img/OM Fitness Club Logo Black.png" alt="avatar">
 									</div>
 
-									<h6 style="font-weight: normal !important;">
+									<h6  align="justify" style="font-weight: normal !important; font-family: 'Montserrat', sans-serif !important;">
 										The statistics provided on dashboard helps us to organise customer movement. We can now easily know what time is the busiest or when is the gym running full.vGymMS had made most of our tasks like keeping track of attendance, payments etc easier.
 									</h6>
 
