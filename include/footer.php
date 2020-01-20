@@ -10,7 +10,7 @@
 	</div>
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-5 col-md-5 col-sm-12 col-xs-12">
+				<div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
 					<div class="widget w-info">
 						<div class="site-logo">
 							<a href="index.php" class="full-block"></a>
@@ -28,7 +28,7 @@
 
 				</div>
 
-				<div class="col-lg-2 col-lg-offset-1 col-md-3 col-sm-12 col-sm-offset-0 col-xs-12">
+				<div class="col-lg-3 col-lg-offset-1 col-md-3 col-sm-3 col-sm-offset-0 col-xs-3" style="margin:0;">
 					<div class="widget w-list">
 
 						<h5 class="widget-title">Userful Links</h5>
@@ -65,7 +65,7 @@
 					</div>
 				</div>
 
-				<div class="col-lg-3 col-lg-offset-1 col-md-4 col-sm-12 col-sm-offset-0 col-xs-12">
+				<div class="col-lg-3 col-lg-offset-1 col-md-3 col-sm-3 col-sm-offset-0 col-xs-3" style="margin:0;">
 					<div class="widget w-contacts">
 
 						<h5 class="widget-title">Contact with us</h5>
