@@ -178,7 +178,7 @@
 
 							<div class="info-box-content">
 								<a href="#" class="h5 info-box-title">IT Consulting</a>
-								<p class="info-box-text"  align="justify">We provide the best advisory role to business expansion via digital marketing analyze,design and develop .
+								<p class="info-box-text"  align="justify">We provide the best advisory role to business expansion via digital marketing analyze, design and develop .
 								</p>
 							</div>
 
@@ -244,7 +244,7 @@
 
 										<div class="row">
 											<div class="col-lg-12 col-md-12 col-sm-12">
-												<p>With the changing business world,fitness has become a new trend. Managing the gym have now become equal to an exercise. With the facilities provided by the gym,it become very important task to manage the whole system. Gym management system is easy to use,gym and health club membership management system which provides the following benefits which makes the fitness more easy and manageable. It helps in maintaining records,monitoring the facilities and to communicate important matters from time to time by creating an all in one functioning system. 										
+												<p>With the changing business world, fitness has become a new trend. Managing the gym have now become equal to an exercise. With the facilities provided by the gym,it become very important task to manage the whole system. Gym management system is easy to use,gym and health club membership management system which provides the following benefits which makes the fitness more easy and manageable. It helps in maintaining records,monitoring the facilities and to communicate important matters from time to time by creating an all in one functioning system. 										
 												</p>
 												
 											</div>
@@ -263,7 +263,7 @@
 
 										<div class="row">
 											<div class="col-lg-12 col-md-12 col-sm-12">
-												<p> A unique solution(smart manufacturing dashboard) which helps organizations to collect data from shop-floor and to present it to different user groups(operation 7 team,management team) as per their needs. Data can also be integrated to ERQ system to minimise data entry efforts on shop-floor.Smart manufacturing dashboard innovate solution works across platforms which make user’s work easy to manage by their workstation,mobile devices shop-floor displays,etc.The solution is cloud ready and supports Azure as well as AWS cloud. 
+												<p> A unique solution(smart manufacturing dashboard) which helps organizations to collect data from shop-floor and to present it to different user groups(operation 7 team,management team) as per their needs. Data can also be integrated to ERQ system to minimise data entry efforts on shop-floor.Smart manufacturing dashboard innovate solution works across platforms which make user’s work easy to manage by their workstation,mobile devices shop-floor displays etc. The solution is cloud ready and supports Azure as well as AWS cloud. 
 													
 												</p>
 												
@@ -368,7 +368,52 @@
 	<h2 class="heading-title align-center">Our<span class="c-primary"> Management Team</span></h2>
 	<div class="row">
 	
-					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+					
+				<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+	<aside class="widget w-about">
+						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
+										<div class="author-info-wrap">
+											<div class="testimonial-img-author">
+												<img src="img/umesh.jpg" alt="author">
+											</div>
+											<div class="author-info">
+												<a href="#" class="h6 author-name">Umesh Khandelwal</a>
+												<div class="author-company"><b>Mentor and Advisor</b></div>
+										</div>
+									</div>
+
+										<!-- <h6 class="testimonial-text" > -->
+											20+ years of International experience in IT and MNCs.
+										<!-- </h6> -->
+
+									
+<!-- </div> -->
+
+					</aside>
+				</div><div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+	<aside class="widget w-about">
+						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
+										<div class="author-info-wrap">
+											<div class="testimonial-img-author">
+												<img src="img/sumit.jpg" alt="author">
+											</div>
+											<div class="author-info">
+												<a href="#" class="h6 author-name">Sumit Goel</a>
+												<div class="author-company"><b>Technical Advisor</b></div>
+											</div>
+										</div>
+
+										<!-- <h6 class="testimonial-text"> -->
+										<div class="author-company">15+ years of International experience in IT and MNCs.</div>
+										<!-- </h6> -->
+
+									
+</div>
+
+					</aside>
+				</div>
+
+										<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<aside class="widget w-about" >
 						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:15.1px; "  style= "padding-bottom:30px;">
 										<div class="author-info-wrap">
@@ -390,6 +435,8 @@
 
 					</aside>
 				</div>
+
+
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<aside class="widget w-about">
 						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:15.1px;">
@@ -406,50 +453,7 @@
 										<!-- <h6 class="testimonial-text" style="font-size: 15px"> -->
 											20+ years of experience in delivery management of projects across the globe with excellence in quality using test automation & Agile/Develop a framework.
 										</aside></div>
-<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-	<aside class="widget w-about">
-						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
-										<div class="author-info-wrap">
-											<div class="testimonial-img-author">
-												<img src="img/umesh.jpg" alt="author">
-											</div>
-											<div class="author-info">
-												<a href="#" class="h6 author-name">Umesh Khandelwal</a>
-												<div class="author-company"><b>Mentor and Advisor</b></div>
-										</div>
-									</div>
 
-										<!-- <h6 class="testimonial-text" > -->
-											20+ years of International experience in IT and MNCs.
-										<!-- </h6> -->
-
-									
-<!-- </div> -->
-
-					</aside>
-				</div>
-<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-	<aside class="widget w-about">
-						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
-										<div class="author-info-wrap">
-											<div class="testimonial-img-author">
-												<img src="img/sumit.jpg" alt="author">
-											</div>
-											<div class="author-info">
-												<a href="#" class="h6 author-name">Sumit Goel</a>
-												<div class="author-company"><b>Technical Advisor</b></div>
-											</div>
-										</div>
-
-										<!-- <h6 class="testimonial-text"> -->
-										<div class="author-company">15+ years of International experience in IT and MNCs.</div>
-										</h6>
-
-									
-</div>
-
-					</aside>
-				</div>
 			</div>
 
 	<!-- founder end -->

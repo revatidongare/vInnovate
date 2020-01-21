@@ -162,33 +162,33 @@
 											
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">  http://themetropole.in</a>
+												<a href="http://themetropole.in">  http://themetropole.in</a>
 											</li>
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">http://dreamlandresort.in</a>
+												<a href="http://dreamlandresort.in"target="_blank">http://dreamlandresort.in</a>
 											</li>
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">http://imperialgrande.com</a>
+												<a href="http://imperialgrande.com"target="_blank">http://imperialgrande.com</a>
 											</li>
 											
                                             <li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">http://retreatheritage.com </a>
+												<a href="http://retreatheritage.com"target="_blank">http://retreatheritage.com </a>
 											</li>
 
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">http://krushnairesort.com </a>
+												<a href="http://krushnairesort.com"target="_blank">http://krushnairesort.com </a>
 											</li>
                                              <li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">http://mayurretreat.com </a>
+												<a href="http://mayurretreat.com"target="_blank">http://mayurretreat.com </a>
 											</li>
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">http://citypalaceresort.com </a>
+												<a href="http://citypalaceresort.com" target="_blank">http://citypalaceresort.com </a>
 											</li>
 										</ul>
 									</div>
