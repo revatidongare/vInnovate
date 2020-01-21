@@ -25,25 +25,6 @@
 										</div>
 									</div>
 							</div>
-							<!-- <div class="swiper-slide">
-								<div class="curriculum-event c-blue"  >
-										<div class="curriculum-event-thumb">
-											<img src="img/sadrakshan-banner.jpg" alt="image">
-											<div class="curriculum-event-content">
-												<div class="author-block inline-items">
-													<div class="author-info">
-														<a href="#" class="h6 author-name">vSadrakshan</a>
-													</div>
-												</div>
-											</div>
-											<div class="overlay-standard overlay--green"></div>
-										</div>
-										<div class="curriculum-event-content">
-											
-											<a href="sadrakshan.php" class="h5 title">Know more</a>
-										</div>
-									</div>
-							</div> -->
 							<div class="swiper-slide">
 								<div class="curriculum-event c-blue"  >
 										<div class="curriculum-event-thumb">

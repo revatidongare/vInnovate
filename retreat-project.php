@@ -190,85 +190,33 @@
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
 												<a href="http://citypalaceresort.com" target="_blank">http://citypalaceresort.com </a>
 											</li>
+                                  <li>
+                                    <div class="curriculum-event c-blue" style="height:20rem; width:20rem;" >
+										<div class="curriculum-event-thumb">
+											<img src="img/vselflearn1.jpg" alt="image">
+											<div class="curriculum-event-content">
+												<div class="author-block inline-items">
+													<div class="author-info">
+														<a href="#" class="h6 author-name">vSelfLearn School</a>
+													</div>
+												</div>
+											</div>
+											<div class="overlay-standard overlay--green"></div>
+										</div>
+										<div class="curriculum-event-content">
+											<a href="vselflearn.php" class="">Know more</a>
+										</div>
+									</div>
+                                  </li>
 										</ul>
 									</div>
-								<!-- <ul class="list list--standard">
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Educational Institutions can offer a portfolio of courses across specializations, without been restricted by space, finance and human resource.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Ease of operations and minimum cost of updating if courseware requires changes.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Assessment on an individual level to get insights into content consumption and behavior of learners via analytics.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Personalization on an individual level to deliver learning modules according to the scope of improvement of the learner.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Can deliver 2 types of learning modules, one via the eLearning portal/website/mobile app and later deliver doubt clearing sessions via the same channel.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Can offer educational programs to a large number of students not restricted by space constraints, the eLearning system being scalable and enabled by technology.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">  Standardized quality of learning, due to minimum human involvement and cost-efficient customizability.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Can add interactivity to learning modules with gamification, multimedia, AR (Augmented Reality) and making it a point of differentiation for educational programs, and price a premium for courseware because of the added value they offer.</a>
-											</li>
-										</ul>
-										<h3>Benefits of eLearning for students</h3>
-								<ul class="list list--standard">
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Savings in traveling and other related costs as all learning modules and pre-recorded lessons are delivered via digital channels.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Unlimited access to all learning content anytime, anywhere on the device of choice.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Option to select a course of choice of any specialization from the set of teachers offering the course</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Comparatively economical option</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Learn and retain better from contextually relevant, updated and interactive educational programs ensuring every concept is absorbed by the learner.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Feedback mechanism to communicate with the institute and creator of the program to convey any changes or suggestions if required.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Personal attention provided by the tutors on completion and doubts of the individual learner.</a>
-											</li>
-											
-										</ul>
-
-							</div>
-							 -->
-
+								
 							</div>
 						</div>
 
 					</div>
 				</div>
 			</div>
-		</div>
 	</section>
 	<div class="header-spacer"></div>
 
@@ -290,89 +238,6 @@
 <?php include'include/footer.php'?>
 
 <!-- End Footer -->
-
-
-<!-- Send Message Popup -->
-
-<div class="window-popup message-popup">
-	<a href="#" class="popup-close js-popup-close cd-nav-trigger">
-		<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
-	</a>
-
-	<div class="send-message-popup">
-		<h5>Send a Message</h5>
-		<p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magnais.</p>
-		<form class="contact-form" method="post" action="https://html.crumina.net/html-utouch/send_mail.php">
-			<div class="with-icon">
-				<input name="name" placeholder="Your Name" type="text" required="required">
-				<svg class="utouch-icon utouch-icon-user"><use xlink:href="#utouch-icon-user"></use></svg>
-			</div>
-
-			<div class="with-icon">
-				<input name="email" placeholder="Email Adress" type="text" required="required">
-				<svg class="utouch-icon utouch-icon-message-closed-envelope-1"><use xlink:href="#utouch-icon-message-closed-envelope-1"></use></svg>
-			</div>
-
-			<div class="with-icon">
-				<input class="with-icon" name="phone" placeholder="Phone Number" type="tel" required="required">
-				<svg class="utouch-icon utouch-icon-telephone-keypad-with-ten-keys"><use xlink:href="#utouch-icon-telephone-keypad-with-ten-keys"></use></svg>
-			</div>
-
-			<div class="with-icon">
-				<input class="with-icon" name="subject" placeholder="Subject" type="text" required="required">
-				<svg class="utouch-icon utouch-icon-icon-1"><use xlink:href="#utouch-icon-icon-1"></use></svg>
-			</div>
-
-			<div class="with-icon">
-				<textarea name="message" required="" placeholder="Your Message" style="height: 180px;"></textarea>
-				<svg class="utouch-icon utouch-icon-edit"><use xlink:href="#utouch-icon-edit"></use></svg>
-			</div>
-
-			<button class="btn btn--green btn--with-shadow full-width">
-				Send a Message
-			</button>
-
-		</form>
-	</div>
-</div>
-
-<!-- Send Message Popup -->
-
-
-<!-- Search Popup -->
-
-<div class="search-popup search--dark">
-	<a href="#" class="popup-close js-popup-close cd-nav-trigger">
-		<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
-	</a>
-
-	<div class="search-full-screen">
-
-		<div class="search-standard">
-			<form id="search-header-1" name="form-search-header" method="post">
-				<div class="typeahead__container">
-					<div class="typeahead__field">
-
-						<span class="typeahead__query">
-							<input class="js-typeahead" name="utouch_posts[query]" placeholder="What are you looking for?" autocomplete="off" type="search" autofocus>
-						</span>
-						<button type="submit" class="form-icon">
-							<svg class="utouch-icon utouch-icon-search"><use xlink:href="#utouch-icon-search"></use></svg>
-						</button>
-						<span class="close js-popup-clear-input form-icon">
-							<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
-						</span>
-
-					</div>
-				</div>
-			</form>
-		</div>
-
-	</div>
-
-</div>
-
-<!-- ... end Search Popup -->
 
 
 <!-- Used SVG-icons -->
