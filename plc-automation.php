@@ -110,7 +110,7 @@ it from their workstation, Mobile devices, Shopfloor Displays etc. This solution
 supports Azure as well as AWS cloud.</p>
                                         <!-- Slider -->
 
-	<section class="crumina-module crumina-module-slider navigation-center-both-sides slider-3-items medium-padding100 align-center">
+<!-- 	<section class="crumina-module crumina-module-slider navigation-center-both-sides slider-3-items medium-padding100 align-center">
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-lg-offset-3 col-md-6  col-sm-12 col-xs-12">
@@ -119,30 +119,30 @@ supports Azure as well as AWS cloud.</p>
 						<h2 class="heading-title c-primary"></h2>
 					</div>
 				</div>
-				<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12" style="width: 870px">
+				<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12" style= "width: 870px; text-align:center; ">
     
 
 					<div class="swiper-container pagination-bottom" data-show-items="2" data-effect="coverflow" data-centered-slider="true" data-nospace="true" data-stretch="80" data-depth="250">
 						<div class="swiper-wrapper">
 							<div class="swiper-slide">
-								<img src="img/maindashboard.png" alt="image" >
+								<img src="" alt="image" >
 							</div>
 							<div class="swiper-slide">
-								<img src="img/cumulative.png" alt="image">
+								<img src="img/" alt="image">
 							</div>
 							<div class="swiper-slide">
-								<img src="img/cycle_time.png" alt="image">
+								<img src="img/.png" alt="image">
 							</div>
 							
 							</div>
 
-						<!-- If we need pagination -->
+						If we need pagination
 						<div class="swiper-pagination"></div>
 
 					</div>
 				</div>
 
-				<!--Prev next buttons-->
+				Prev next buttons
 
 				<div class="btn-prev">
 					<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
@@ -156,13 +156,35 @@ supports Azure as well as AWS cloud.</p>
 			</div>
 		</div>
 
-		<h5> For More Information <br><br>
-			<a href= "img/Product_Information_Smart_Shopfloor_Data_Collection.pdf" style="color: white;" class="btn btn--primary btn--with-shadow"> Click Here</a>
-		</h5>
-	</section>
+		
+	</section> -->
 
-									
-									</div>
+
+									<div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+										<center><h2>Graphs</h2></center>
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-30" src="img/maindashboard.png" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-30" src="img/cumulative.png" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-30" src="img/cycle_time.png" alt="Third slide">
+    </div>
+  </div>
+  <a  class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span  class="carousel-control-prev-icon" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+		<center><h5> For More Information <br><br>
+			<a href= "img/Product_Information_Smart_Shopfloor_Data_Collection.pdf" style="color: white;" class="btn btn--primary btn--with-shadow"> Click Here</a></center>
+		</h5>							</div>
 									
 								</div>
 
@@ -298,7 +320,7 @@ time</a>
 
 	<div class="send-message-popup">
 		<h5>Send a Message</h5>
-		<p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magnais.</p>
+		<!-- <p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magnais.</p> -->
 		<form class="contact-form" method="post" action="https://html.crumina.net/html-utouch/send_mail.php">
 			<div class="with-icon">
 				<input name="name" placeholder="Your Name" type="text" required="required">

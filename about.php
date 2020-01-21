@@ -77,8 +77,16 @@
 			<div class="row">
 				<div class="col-lg-12 col-md-4 col-sm-12 col-xs-12" style="text-align: center;">
 					<div class="crumina-module crumina-info-box info-box--numbers">
+						<h3 class="h5 info-box-title">Our<span class="c-primary"> Motto</span></h3>
+						<p class="info-box-text"> We are driven by"Be Disruptor Then Disrupted" and
+ 	                      "Simplified Ideas for Life
+						</p>
+					</div>
+				</div>
+				<div class="col-lg-6 col-md-4 col-sm-12 col-xs-12" style="text-align: center;">
+					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h3 class="h5 info-box-title">Our <span class="c-primary">Mission</span></h3>
-						<p class="info-box-text"> vInnovate aspires to be highly innovative software house, established to provide
+						<p class="info-box-text" align="justify"> vInnovate aspires to be highly innovative software house, established to provide
 				         leading edge intelligent technical solutions and consulting services to businesses,
 				           organizations and government
 				          Help develop Digital Ecosystem by bringing Businesses and Technology together
@@ -88,16 +96,9 @@
 							</div>
 					</div>
 		
-				<div class="col-lg-12 col-md-4 col-sm-12 col-xs-12" style="text-align: center;">
-					<div class="crumina-module crumina-info-box info-box--numbers">
-						<h3 class="h5 info-box-title">Our<span class="c-primary"> Motto</span></h3>
-						<p class="info-box-text"> We are driven by"Be Disruptor Then Disrupted" and
- 	                      "Simplified Ideas for Life
-						</p>
-					</div>
-				</div><div class="col-lg-2 "></div>
+				
 
-					<div class="col-lg-8 col-md-4 col-sm-12 col-xs-12" style="text-align: center;">
+				<div class="col-lg-6 col-md-4 col-sm-12 col-xs-12" style="text-align: center;">
 					<div class="crumina-module crumina-info-box info-box--numbers">
 						<h3 class="h5 info-box-title">Our<span class="c-primary"> Values</span></h3>
 						<p class="info-box-text" align="justify">
@@ -279,7 +280,7 @@
 
 								<div class="teammembers-item-prof">Senior Product Engg</div>
 
-								<a href="#" class="h5 teammembers-item-name">Naim</a>
+								<a href="#" class="h5 teammembers-item-name">Naim B</a>
 
 								<p>A self taught passionate developer experienced in building client-focused Web Pages and Applications.</p>
 
@@ -299,7 +300,7 @@
 
 								<a href="#" class="h5 teammembers-item-name">Ankit V</a>
 
-								<p>Being creative there's always new idea running through my mind. I see picture before words.</p>
+								<p >Being creative there's always new idea running through my mind. I see picture before words.</p>
 							</div>
 						</div>
 
@@ -348,7 +349,7 @@
 
 								<div class="teammembers-item-prof">Product Engineer</div>
 
-								<a href="#" class="h5 teammembers-item-name">Revati</a>
+								<a href="#" class="h5 teammembers-item-name">Revati D</a>
 
 								<p>Never give up for Creating graphical interface, using programming skills so that you can view & interact</p>
 
@@ -404,34 +405,13 @@
 
 								<div class="teammembers-item-prof">Product Engineer</div>
 
-								<a href="#" class="h5 teammembers-item-name">Niranjan</a>
+								<a href="#" class="h5 teammembers-item-name">Niranjan W</a>
 
 								<p>A dedicated and hardworking young coder, Who believes that you learn from every code you write.</p>
 
 								
 							</div>
-						</div>
-
-						<div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/vivek.jpeg" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Product Engineer</div>
-
-								<a href="#" class="h5 teammembers-item-name">Vivek</a>
-
-								<p>A Passionate and Multitasking developer with a proactive attitude and a strong work ethic.</p>
-
-								
-							</div>
-						</div>
-                        
-                       
-						<div class="crumina-module crumina-teammembers-item">
+						</div><div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
 								<img src="img/akshay_K.png" alt="team member">
@@ -449,6 +429,27 @@
 							</div>
 						</div>
 
+
+						<div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/vivek.jpeg" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof">Product Engineer</div>
+
+								<a href="#" class="h5 teammembers-item-name">Vivek Y</a>
+
+								<p>A Passionate and Multitasking developer with a proactive attitude and a strong work ethic.</p>
+
+								
+							</div>
+						</div>
+                        
+                       
+						
 						 <div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">

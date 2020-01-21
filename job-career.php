@@ -137,7 +137,7 @@
 					Positive Environment
 				</p>
 				<p class="hire-us-text" align="justify">
-					A positive work environment  which makes employees feel good about coming to work, and this provides the motivation to sustain them throughout the day.
+					Positive environment makes employees feel good about coming to work & this provides the motivation to sustain them throughout the day.
 				</p>
 			</div>
 			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
@@ -154,8 +154,8 @@
 				<p class="hire-us-text">
 					Employee First
 				</p>
-				<p class="hire-us-text" align="justify">
-					Providing flexible work schedules to accommodate each employee’s personal life constraints is one benefit organizations are offering as part of a shift to an employee-first culture.
+				<p class="hire-us-text" align ="justify">
+					Providing flexible work schedules to help each employee’s personal life constraints is one benefit organizations are offering as part of a shift to an employee-first culture.
 				</p>
 			</div>
 			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
@@ -163,7 +163,7 @@
 				<p class="hire-us-text">
 					Fun
 				</p>
-				<p class="hire-us-text" align="justify">Having fun is one way of effectively managing and improving employees' emotions. It's also proven to improve teamwork, build trusting relationships and increase employee retention</p>
+				<p class="hire-us-text" align="justify">Having fun is one way of effectively managing and improving employees' emotions. It's also proven to improve teamwork, increase employee retention .</p>
 			</div>
 		</div>
 	</div>
@@ -174,14 +174,14 @@
 	<section class="background-cover bg-18 align-center medium-padding120">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-8 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12">
+				<div class="col-lg-9 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12">
 					<div class="crumina-module crumina-heading">
-						<h2 class="heading-title">Join our<span class="c-primary">Team</span> Now!</h2>
+						<h2 class="heading-title">Join our <span class="c-primary">Team</span> Now!</h2>
 						<!-- <p class="heading-text">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
 							lectorum. Mirum est notare quam littera gothica, quam nunc putamus parum.
 						</p> -->
 					</div>
-					<div class="row" style="margin: 75px 0 75px 0">
+					<div class="row">
                 <div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
                 	<a href="contact.php">
                     <div class="alert alert-warning" role="alert">
@@ -212,7 +212,7 @@
 
 				</div>
 			</div>
-		</div>
+		<!-- </div> -->
 	</section>
 
 

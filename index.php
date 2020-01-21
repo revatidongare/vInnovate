@@ -329,7 +329,7 @@
 				<img src="img/transparency.png" class="parallax-image">
 				<p class="hire-us-text">Transparency </p>
 				<p class="hire-us-text" align="justify">
-					You can watch your own app development live. You can get every update and development in all stages from beginning to the end. You can share your own ideas of project so our vinnovate team can make application more innovative.
+					You can watch your own app development live. You can get every update and development in all stages from beginning to the end. You can share your own ideas of project so our vInnovate team can make application more innovative.
 				</p>
 			</div>
 			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
@@ -341,7 +341,7 @@
 			</div>
 			<div class="col-lg-3 col-md-3 col-sm-12 col-xs-12">
 				<img src="img/application and maintenance.png" class="parallax-image">
-				<p class="hire-us-text">Application and Maintenance</p>
+				<p class="hire-us-text">Services</p>
 				<p class="hire-us-text" align="justify">
 					Post deployment, we will always be there for you to solve any flaw, bugs & adding newest features to the existing application which adds more flexibility & performance in your application.
 
@@ -351,7 +351,8 @@
 				<img src="img/scalability.png" class="parallax-image">
 				<p class="hire-us-text">Scalability</p>
 				<p class="hire-us-text" align="justify">
-					As we vinnovatives promised to give our services even after deployment so the service level will be fixed and more enhanced adaptive level to the project for a sustainable supply chain with flawless mobility solutions.
+
+			 	As we vInnovative's promised to give our services even after deployment so the service level will be fixed and more enhanced adaptive level to the project for a sustainable supply chain with flawless mobility solutions.
 				</p>
 			</div>
 		</div>
@@ -367,14 +368,14 @@
 	<h2 class="heading-title align-center">Our<span class="c-primary"> Management Team</span></h2>
 	<div class="row">
 	
-					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
-						<aside class="widget w-about">
-						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:15.1px; ">
+					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+						<aside class="widget w-about" >
+						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:15.1px; "  style= "padding-bottom:30px;">
 										<div class="author-info-wrap">
 											<div class="testimonial-img-author">
 												<img src="img/yogesh.jpg" alt="author">
 											</div>
-											<div class="author-info">
+											<div class="author-info" >
 												<a href="#" class="h6 author-name">Yogesh Khandelwal</a>
 												<div class="author-company"><b>Business Development Head</b></div>
 											</div>
@@ -389,9 +390,9 @@
 
 					</aside>
 				</div>
-					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<aside class="widget w-about">
-						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:12.5px;">
+						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:15.1px;">
 										<div class="author-info-wrap">
 											<div class="testimonial-img-author">
 												<img src="img/shubha.jpg" alt="author">
@@ -405,7 +406,7 @@
 										<!-- <h6 class="testimonial-text" style="font-size: 15px"> -->
 											20+ years of experience in delivery management of projects across the globe with excellence in quality using test automation & Agile/Develop a framework.
 										</aside></div>
-<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 	<aside class="widget w-about">
 						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
 										<div class="author-info-wrap">
@@ -427,7 +428,7 @@
 
 					</aside>
 				</div>
-<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 	<aside class="widget w-about">
 						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
 										<div class="author-info-wrap">
@@ -460,7 +461,7 @@
 	<div class="container we-hire">
 	<h2 class="heading-title align-center">Our<span class="c-primary"> Business Partners</span></h2>
 	<div class="row">
-				<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+				<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<aside class="widget w-about">
 						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
 										<div class="author-info-wrap">
@@ -473,33 +474,33 @@
 											</div>
 										</div>
 
-										<h6 class="testimonial-text" style="margin-bottom: 53px;"></h6>
+										<!-- <h6 class="testimonial-text" style="margin-bottom: 53px;"></h6> -->
 						</div>
 					</aside>
 				</div>
 
-				<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+				<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<aside class="widget w-about">
 						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
 										<div class="author-info-wrap">
 											
 											<div class="author-info">
-												<a href="#" style="line-height: 1.6 ;"class="p author-name">Tasmay Innovations Technology Tools LLP</a>
+												<a href="#"class="p author-name">Tasmay Innovations Technology Tools LLP</a>
 												<div class="author-company"><br>Industrial Automation & IT Consulting </div>
 												<div class="author-company"></div>
 											</div>
 										</div>
 
-										<h6 class="testimonial-text" style="margin-bottom: 14px;">
+										<!-- <h6 class="testimonial-text" style="margin-bottom: 14px;">
 											
-										</h6>
+										</h6> -->
 
 									</div>
 
 
 					</aside>
 				</div>
-					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 	<aside class="widget w-about">
 						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
 										<div class="author-info-wrap">
@@ -511,8 +512,8 @@
 											</div>
 										</div>
 
-										<h6 class="testimonial-text" style="margin-bottom: 97px;">
-										</h6>
+										<!-- <h6 class="testimonial-text" style="margin-bottom: 97px;"> -->
+										<!-- </h6> -->
 
 
 									</div>
@@ -520,19 +521,19 @@
 					</aside>
 					</div>
 
-					<div class="col-lg-3 col-md-12 col-sm-12 col-xs-12">
+					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 						<aside class="widget w-about">
 						<div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
 										<div class="author-info-wrap">
 											
 											<div class="author-info">
-												<a href="#"style="line-height: 1.6 ; " class="p author-name"><center>Global Infotech <br>(MS CIT)</center></a>
+												<a href="#"  class="p author-name"><center>Global Infotech (MS CIT)</center></a>
 												<div class="author-company"><br>IT Training</div>
 												<div class="author-company"></div>
 											</div>
 										</div>
 
-										<h6 class="testimonial-text"  style="margin-bottom: 61px;"></h6>
+										<!-- <h6 class="testimonial-text"  style="margin-bottom: 61px;"></h6> -->
 						</div>
 					</aside>
 				</div>
@@ -622,7 +623,7 @@
 
 									<h6 style="font-weight: normal !important; font-family: 'Montserrat', sans-serif !important;">All the information about our college/faculties/activities is now
 										properly and digitally organized.
-										Information can be retrieved
+										Information can be retrieved 
 										easily for NAAC submission. We
 										are 100% sure, we will get A or
 										above A accreditation this year.
@@ -641,7 +642,7 @@
 										<img src="img/OM Fitness Club Logo Black.png" alt="avatar">
 									</div>
 
-									<h6  align="justify" style="font-weight: normal !important; font-family: 'Montserrat', sans-serif !important;">
+									<h6 style="font-weight: normal !important; font-family: 'Montserrat', sans-serif !important;">
 										The statistics provided on dashboard helps us to organise customer movement. We can now easily know what time is the busiest or when is the gym running full.vGymMS had made most of our tasks like keeping track of attendance, payments etc easier.
 									</h6>
 
@@ -689,7 +690,7 @@
 						</a>
 					</div>
 					<div class="col-lg-2 col-md-6 col-sm-6 col-xs-12">
-						<a class="clients-item" href="http://vgym.vinnovatetechnologies.com">
+						<a class="clients-item" href="http://vgym.vInnovatetechnologies.com">
 							<span class="clients-images">
 								<img src="img/OM Fitness Club Logo Black.png" class="" alt="logo">
 								 <img src="img/OM Fitness Club Logo White (1).png" class="hover" alt="logo"> 

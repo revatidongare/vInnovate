@@ -38,9 +38,9 @@
 		<div class="container">
 			<div class="stunning-header-content">
 				<h2 class="h1 stunning-header-title">Hotel Managment System</h2>
-				<div class="inline-items">
+				<!-- <div class="inline-items">
 						<div class="heading-text"></div>
-				</div>
+				</div> -->
 			</div>
 		</div>
 
