@@ -158,9 +158,9 @@
 										<div role="tabpanel" class="tab-pane fade" id="developed">
 
 								
-								<ul class="list list--standard">
+								<div class="row">
 											
-											<li>
+											<!-- <li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
 												<a href="http://themetropole.in">  http://themetropole.in</a>
 											</li>
@@ -189,26 +189,111 @@
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
 												<a href="http://citypalaceresort.com" target="_blank">http://citypalaceresort.com </a>
-											</li>
-                                  <li>
-                                    <div class="curriculum-event c-blue" style="height:20rem; width:20rem;" >
+											</li> -->
+                                  
+                                    <div class="curriculum-event c-blue col-lg-4">
 										<div class="curriculum-event-thumb">
-											<img src="img/vselflearn1.jpg" alt="image">
+											<img src="img/krushnai.jpg" alt="image">
 											<div class="curriculum-event-content">
 												<div class="author-block inline-items">
 													<div class="author-info">
-														<a href="#" class="h6 author-name">vSelfLearn School</a>
+														<a href="http://krushnairesort.com " class="h6 author-name">http://krushnairesort.com </a>
 													</div>
 												</div>
 											</div>
 											<div class="overlay-standard overlay--green"></div>
 										</div>
 										<div class="curriculum-event-content">
-											<a href="vselflearn.php" class="">Know more</a>
+											<a href="http://krushnairesort.com " class="">http://krushnairesort.com </a>
 										</div>
 									</div>
-                                  </li>
-										</ul>
+									<div class="curriculum-event c-blue col-lg-4">
+										<div class="curriculum-event-thumb">
+											<img src="img/mayur.jpg" alt="image">
+											<div class="curriculum-event-content">
+												<div class="author-block inline-items">
+													<div class="author-info">
+														<a href="http://mayurretreat.com" class="h6 author-name">http://mayurretreat.com </a>
+													</div>
+												</div>
+											</div>
+											<div class="overlay-standard overlay--green"></div>
+										</div>
+										<div class="curriculum-event-content">
+											<a href="http://mayurretreat.com " class="">http://mayurretreat.com </a>
+										</div>
+									</div>
+									<div class="curriculum-event c-blue col-lg-4">
+										<div class="curriculum-event-thumb">
+											<img src="img/citypalace.jpg" alt="image">
+											<div class="curriculum-event-content">
+												<div class="author-block inline-items">
+													<div class="author-info">
+														<a href="http://citypalaceresort.com " class="h6 author-name">http://citypalaceresort.com </a>
+													</div>
+												</div>
+											</div>
+											<div class="overlay-standard overlay--green"></div>
+										</div>
+										<div class="curriculum-event-content">
+											<a href="http://citypalaceresort.com " class="">http://citypalaceresort.com </a>
+										</div>
+									</div>
+                                  
+						</div>
+
+							<div class="row" style="padding-top: 3rem;">
+       
+                                    <div class="curriculum-event c-blue col-lg-4">
+										<div class="curriculum-event-thumb">
+											<img src="img/metropole.jpg" alt="image">
+											<div class="curriculum-event-content">
+												<div class="author-block inline-items">
+													<div class="author-info">
+														<a href="http://themetropole.in" class="h6 author-name">http://themetropole.in</a>
+													</div>
+												</div>
+											</div>
+											<div class="overlay-standard overlay--green"></div>
+										</div>
+										<div class="curriculum-event-content">
+											<a href="http://themetropole.in" class="">http://themetropole.in</a>
+										</div>
+									</div>
+									<div class="curriculum-event c-blue col-lg-4">
+										<div class="curriculum-event-thumb">
+											<img src="img/dreamland.jpg" alt="image">
+											<div class="curriculum-event-content">
+												<div class="author-block inline-items">
+													<div class="author-info">
+														<a href="http://dreamlandresort.in" class="h6 author-name">http://dreamlandresort.in</a>
+													</div>
+												</div>
+											</div>
+											<div class="overlay-standard overlay--green"></div>
+										</div>
+										<div class="curriculum-event-content">
+											<a href="http://dreamlandresort.in" class="">http://dreamlandresort.in</a>
+										</div>
+									</div>
+									<div class="curriculum-event c-blue col-lg-4">
+										<div class="curriculum-event-thumb">
+											<img src="img/imperial.jpg" alt="image">
+											<div class="curriculum-event-content">
+												<div class="author-block inline-items">
+													<div class="author-info">
+														<a href="http://imperialgrande.com" class="h6 author-name">http://imperialgrande.com</a>
+													</div>
+												</div>
+											</div>
+											<div class="overlay-standard overlay--green"></div>
+										</div>
+										<div class="curriculum-event-content">
+											<a href="http://imperialgrande.com" class="">http://imperialgrande.com</a>
+										</div>
+									</div>
+                               
+										</div>
 									</div>
 								
 							</div>

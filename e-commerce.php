@@ -155,42 +155,35 @@
 									 -->
 								
 
-										<div role="tabpanel" class="tab-pane fade" id="developed">
+						<div role="tabpanel" class="tab-pane fade" id="developed">
 
+							<div class="row"> 
+                                    <div class="curriculum-event c-blue col-lg-4">
+										<div class="curriculum-event-thumb">
+											<img src="img/augfood.jpg" alt="image">
+											<div class="curriculum-event-content">
+												<div class="author-block inline-items">
+													<div class="author-info">
+														<a href="http://augmentedfoodsindia.com/index.php" class="h6 author-name">http://augmentedfoodsindia.com/index.php</a>
+													</div>
+												</div>
+											</div>
+											<div class="overlay-standard overlay--green"></div>
+										</div>
+										<div class="curriculum-event-content">
+											<a href="http://augmentedfoodsindia.com/index.php" class="">http://augmentedfoodsindia.com/index.php</a>
+										</div>
+									</div>                               
+						</div>
 								
-								<ul class="list list--standard">
+								<!-- <ul class="list list--standard">
 											
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
 												<a href="#">  http://augmentedfoodsindia.com/index.php</a>
 											</li>
-											<!-- <li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">http://dreamlandresort.in</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">http://imperialgrande.com</a>
-											</li>
 											
-                                            <li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">http://retreatheritage.com </a>
-											</li>
-
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">http://krushnairesort.com </a>
-											</li>
-                                             <li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">http://mayurretreat.com </a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">http://citypalaceresort.com </a>
-											</li> -->
-										</ul>
+										</ul> -->
 									</div>
 								<!-- <ul class="list list--standard">
 											<li>
