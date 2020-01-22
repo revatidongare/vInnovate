@@ -225,7 +225,7 @@
 
                   <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
-                      <p>With the new digital india,the progress and development have been running at a booming stage. Traditional and non-conventional education have their own merits and demerits. Though classroom learning is still preferred as a mode of teaching the rise in online learning has provided the new platform. Which provides easy interactivity,accessibility and convenience that is making learning more engaging and interesting. The statistics shows that e-learning is an effective way of learning which makes the education more precise and drive it towards the clarity.
+                      <p align="justify">With the new digital india, the progress and development have been running at a booming stage. Traditional and non-conventional education have their own merits and demerits. Though classroom learning is still preferred as a mode of teaching the rise in online learning has provided the new platform. Which provides easy interactivity,accessibility and convenience that is making learning more engaging and interesting. The statistics shows that e-learning is an effective way of learning which makes the education more precise and drive it towards the clarity.
                       </p>
 
                     </div>
@@ -244,7 +244,7 @@
 
                   <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
-                      <p>With the changing business world, fitness has become a new trend. Managing the gym have now become equal to an exercise. With the facilities provided by the gym,it become very important task to manage the whole system. Gym management system is easy to use,gym and health club membership management system which provides the following benefits which makes the fitness more easy and manageable. It helps in maintaining records,monitoring the facilities and to communicate important matters from time to time by creating an all in one functioning system.
+                      <p align="justify">With the changing business world, fitness has become a new trend. Managing the gym have now become equal to an exercise. With the facilities provided by the gym,it become very important task to manage the whole system. Gym management system is easy to use, gym and health club membership management system which provides the following benefits which makes the fitness more easy and manageable. It helps in maintaining records, monitoring the facilities and to communicate important matters from time to time by creating an all in one functioning system.
                       </p>
 
                     </div>
@@ -263,7 +263,7 @@
 
                   <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
-                      <p> A unique solution(smart manufacturing dashboard) which helps organizations to collect data from shop-floor and to present it to different user groups(operation 7 team,management team) as per their needs. Data can also be integrated to ERQ system to minimise data entry efforts on shop-floor.Smart manufacturing dashboard innovate solution works across platforms which make user’s work easy to manage by their workstation,mobile devices shop-floor displays etc. The solution is cloud ready and supports Azure as well as AWS cloud.
+                      <p align="justify"> A unique solution(smart manufacturing dashboard) which helps organizations to collect data from shop-floor and to present it to different user groups(operation 7 team, management team) as per their needs. Data can also be integrated to ERQ system to minimise data entry efforts on shop-floor.Smart manufacturing dashboard innovate solution works across platforms which make user’s work easy to manage by their workstation, mobile devices shop-floor displays etc. The solution is cloud ready and supports Azure as well as AWS cloud.
 
                       </p>
 
@@ -283,7 +283,7 @@
 
                   <div class="row">
                     <div class="col-lg-12 col-md-12 col-sm-12">
-                      <p>A content management system helps the user to create,manage and modify the digital content. It typically supports multiple users in a collaborative environment. It is an overall solution system by providing proper web content management or any other enterprise management content according to the need and want of user.
+                      <p align="justify">A content management system helps the user to create, manage and modify the digital content. It typically supports multiple users in a collaborative environment. It is an overall solution system by providing proper web content management or any other enterprise management content according to the need and want of user.
                       </p>
 
                     </div>
@@ -375,8 +375,6 @@
   <div class="container we-hire">
     <h2 class="heading-title align-center">Our<span class="c-primary"> Management Team</span></h2>
     <div class="row">
-
-
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <aside class="widget w-about">
           <div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
@@ -393,11 +391,10 @@
             <!-- <h6 class="testimonial-text" > -->
             20+ years of International experience in IT and MNCs.
             <!-- </h6> -->
-
-
             <!-- </div> -->
           </div>
         </aside>
+      </div>
         <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
           <aside class="widget w-about">
             <div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
@@ -555,16 +552,41 @@
             </div>
           </div>
         </div>
-
-
         <!-- business partners end -->
-
-
-        <hr />
+       
 
         <!-- Slider -->
 
-        <section class="crumina-module crumina-module-slider navigation-center-both-sides slider-3-items medium-padding100 align-center">
+<div class="col-lg-3"></div>
+        <div class="col-lg-6 col-sm-12">
+                        <center><h2>Gallery</h2></center>
+                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+  <div class="carousel-inner">
+    <div class="carousel-item active">
+      <img class="d-block w-100" src="img/gallery1.jpeg" alt="First slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/gallery2.jpeg" alt="Second slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/gallery3.jpeg" alt="Third slide">
+    </div>
+    <div class="carousel-item">
+      <img class="d-block w-100" src="img/gallery4.jpeg" alt="Third slide">
+    </div>
+  </div>
+  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
+    <span class="carousel-control-prev-icon" style="color: black;" aria-hidden="true"></span>
+    <span class="sr-only">Previous</span>
+  </a>
+  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
+    <span class="carousel-control-next-icon" style="color: black;" aria-hidden="true"></span>
+    <span class="sr-only">Next</span>
+  </a>
+</div>
+</div>
+
+        <!-- <section class="crumina-module crumina-module-slider navigation-center-both-sides slider-3-items medium-padding100 align-center">
           <div class="container">
             <div class="row">
               <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
@@ -588,21 +610,14 @@
                     <div class="swiper-slide">
                       <img src="img/gallery3.jpeg" alt="image">
                     </div>
-                    <!-- <div class="swiper-slide">
-								<img src="img/slides4.png" alt="image">
-							</div>
-							<div class="swiper-slide">
-								<img src="img/slides4.png" alt="image">
-							</div>
-						</div> -->
-
-                    <!-- If we need pagination -->
+                   
+                    <!-- If we need pagination --
                     <div class="swiper-pagination"></div>
 
                   </div>
                 </div>
 
-                <!--Prev next buttons-->
+                <!--Prev next buttons--
 
                 <div class="btn-prev">
                   <svg class="utouch-icon icon-hover utouch-icon-arrow-left-1">
@@ -624,7 +639,7 @@
               </div>
             </div>
           </div>
-        </section>
+        </section> -->
 
         <!-- .... end Slider -->
 

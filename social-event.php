@@ -86,7 +86,7 @@ Founded on the platform of being ‘a medium of social change’, the contributi
 							<div class="main-pricing-content">
 								<a href="#" class="h5 pricing-title">Make Donation</a>
 
-								<p class="pricing-description">Its not how much we give but howmuch we put into living.</p>
+								<p class="pricing-description">It's not how much we give but howmuch we put into living.</p>
 
 								<a href="http://sukhkartafoundation.org/donation.php" class="more-arrow">
 									<span>Make Donations</span>

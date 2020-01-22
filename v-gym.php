@@ -89,9 +89,9 @@
 										<h3>Description</h3>
 										<!-- <p class="weight-bold">Quam nunc putamus parum claram, anteposuerit litterarum formas
 											humanitatis per seacula quarta decima et quinta decima modo typi, qui nunc.</p> -->
-										<p>Gym management system is an easy-to-use gym and health club membership management system. It helps you keep records of your members and their memberships, and allows easy communication between you and your members.
+										<p>Gym management system is an easy-to-use gym and health club membership management system. It helps you keep records of your members and their memberships and allows easy communication between you and your members.
 										</p>
-										<p>Gym Management system is also feature-packed, helping you in the management and growth of your club.Our Company provides complete "Gym Management Solution" which is handy to use.</p>
+										<p>Gym Management system is also feature-packed, helping you in the management and growth of your club. Our Company provides complete "Gym Management Solution" which is handy to use.</p>
 										<p>For additional information you can visit:
 											<a  href="http://vgym.vinnovatetechnologies.com/index.php" style="color: blue";> vgym.vinnovatetechnologies.com</span></a><br>
 										For demo, email to: contact@vinnovatetechnologies.com</p>
@@ -171,7 +171,7 @@
 											</li>
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Member daily workout log and schedule.Sales Management.</a>
+												<a href="#">Member daily workout log and schedule Sales Management.</a>
 											</li>
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>

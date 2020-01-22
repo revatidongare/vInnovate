@@ -81,7 +81,7 @@
 										<!-- <p class="weight-bold">Quam nunc putamus parum claram, anteposuerit litterarum formas
 											humanitatis per seacula quarta decima et quinta decima modo typi, qui nunc.</p> -->
 										<p>
-                                           Business models are changing and are influenced by digital transformation. Same goes with Hotels. Automation brings in high level of efficiency, good customer service, reduced human resource needs and less human error. vInnovate partnered with Retreat Hospitality (a group with 10+ hotels under its management) to build digital solution to transform its business model from manual to digital.
+                                           Business models are changing and are influenced by digital transformation. Same goes with Hotel Automation brings in high level of efficiency, good customer service, reduced human resource needs and less human error. vInnovate partnered with Retreat Hospitality (a group with 10+ hotels under its management) to build digital solution to transform its business model from manual to digital.
 
 										</p>
 
@@ -109,55 +109,16 @@
 
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Digital maketing
-</a>
+												<a href="#"> Digital maketing</a>
 											</li>
-
 										</ul>
-
+										<br><br>
 										Clients - Retreat Hospitality, Hotel City Palace
-									</div>
-									
+									</div>									
 								</div>
+							</div>					
 
-							</div>
-								<!-- <div role="tabpanel" class="tab-pane fade" id="instructors">
-
-								<h3>Benefits of Hotel Managment System</h3>
-								<ul class="list list--standard">
-											
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Asset Management</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Employee Attendence Solution with Fingerprint support</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Employee Identity Card sign &nd Print</a>
-											</li>
-											
-                                            <li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Group brocher/phamplet design</a>
-											</li>
-
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Digital maketing
-</a>
-											</li>
-
-										</ul>
-</div>
-									 -->
-								
-
-										<div role="tabpanel" class="tab-pane fade" id="developed">
-
-								
+						<div role="tabpanel" class="tab-pane fade" id="developed">
 								<div class="row">
 											
 											<!-- <li>
@@ -238,8 +199,7 @@
 										<div class="curriculum-event-content">
 											<a href="http://citypalaceresort.com " class="">http://citypalaceresort.com </a>
 										</div>
-									</div>
-                                  
+									</div>                                  
 						</div>
 
 							<div class="row" style="padding-top: 3rem;">
@@ -294,8 +254,7 @@
 									</div>
                                
 										</div>
-									</div>
-								
+									</div>	
 							</div>
 						</div>
 

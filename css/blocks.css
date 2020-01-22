@@ -605,7 +605,7 @@ div:hover > .btn-reverse-bg-green {
   fill: #fff;
   stroke: inherit;
   transition: all .3s ease;
-  top: -80px;
+  top: -20px;
   left: 95%;
   transform: translate(-50%, 0);
   cursor: pointer;

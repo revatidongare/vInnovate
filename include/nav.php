@@ -89,7 +89,7 @@
 						<a href="#">Solutions</a>
 						<ul class="sub-menu">
 							 <li>
-								<a href="retreat-project.php">
+								<a href="hotel-management.php">
 									 Hotel Managment system
 								</a>
 							</li>

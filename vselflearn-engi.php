@@ -100,7 +100,7 @@
                         We cater to all the important and required needs of students.
                         It is a technical support forum for engineering professionals.
                         It features white papers, job listings, and forums on a variety of engineering subjects and other important matters which would be very useful for students.
-                        it is a website that gives free access to teaching materials for nearly all the courses offered by various universities. including Mechanical Engineering, Electrical Engineering, Computer Science, Electronics & Telecommunication and information technology.
+                        it is a website that gives free access to teaching materials for nearly all the courses offered by various universities including Mechanical Engineering, Electrical Engineering, Computer Science, Electronics & Telecommunication and information technology.
 
                       </p>
 
@@ -163,7 +163,7 @@
                         </li>
                       </ul>
                       <p>For additional information you can visit:
-                        <a href="http://Vinnovatetechnologies.com/vengineering" style="color: blue" ;> Vinnovatetechnologies.com/vengineering</a><br>
+                        <a href="http://vinnovatetechnologies.com/vengineering" style="color: blue" ;> vinnovatetechnologies.com/vengineering</a><br>
                         For demo, email to: contact@vinnovatetechnologies.com</p>
 
 

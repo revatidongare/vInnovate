@@ -43,7 +43,7 @@
 			<div class="stunning-header-content">
 				<h2 class="h1 stunning-header-title">vSelfLearn School</h2>
 				<div class="inline-items">
-						<div class="heading-text">Traditional and non-conventional education have their own merits and demerits. Though classroom learning is still preferred as a mode of teaching, the popularity of online learning is slowly overshadowing traditional learning. Online learning offers interactivity, accessibility, and convenience that is making learning more engaging and stimulating.
+						<div class="heading-text">Traditional and non-conventional education have their own merits and demerits. Though classroom learning is still preferred as a mode of teaching, the popularity of online learning is slowly overshadowing traditional learning. Online learning offers interactivity, accessibility and convenience that is making learning more engaging and stimulating.
 The statistics shows that e-learning is an effective way of teaching and teachers need to integrate technology seamlessly into the curriculum instead of viewing it as an add-on, an afterthought, or an event.
 </div>
 				</div>
@@ -91,10 +91,9 @@ The statistics shows that e-learning is an effective way of teaching and teacher
 										<!-- <p class="weight-bold">Quam nunc putamus parum claram, anteposuerit litterarum formas
 											humanitatis per seacula quarta decima et quinta decima modo typi, qui nunc.</p> -->
 										<p>
-Every parent cares about his/her kid's education. with the rising competition every parent wants their kid to do well, but what kind of teaching do your kids need, has anyone thought about it?
-Well in today's modern world one does not only need to score well but to understand the matter and to improve by enhancing skills. vselflearnschool bridges the gap between scoring and understanding by making study understandable and easy ,
-So that the student would not just mug up but gain knowledge .
-Which would then build a healthy future for them?
+Every parent cares about his/her kid's education with the rising competition every parent wants their kid to do well, but what kind of teaching do your kids need, has anyone thought about it?
+Well in today's modern world one does not only need to score well but to understand the matter and to improve by enhancing skills. vselflearnschool bridges the gap between scoring and understanding by making study understandable and easy,
+So that the student would not just mug up but gain knowledge which would then build a healthy future for them.
 Don't just learn put interest and learn.
 										</p>
 
@@ -224,11 +223,11 @@ Don't just learn put interest and learn.
 											</li>
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Allows students to study in collaborative and interactive way at their own pace.. Students can ask questions on any topic or test papers to the Specialist Teacher via periodic Live Chats.</a>
+												<a href="#">Allows students to study in collaborative and interactive way at their own pace. Students can ask questions on any topic or test papers to the Specialist Teacher via periodic Live Chats.</a>
 											</li>
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">vLearn Digital Platform keeps track of the Student Performance  throughout his/her school journey and presents graphical statistics and ratings using Data Analytics and customized Performance Algorithm built within the system.. Students are also rated by the BOTS according to their online learning journey and are allocated to specific merit group.
+												<a href="#">vLearn Digital Platform keeps track of the Student Performance  throughout his/her school journey and presents graphical statistics and ratings using Data Analytics and customized Performance Algorithm built within the system. Students are also rated by the BOTS according to their online learning journey and are allocated to specific merit group.
 </a>
 											</li>
 											<li>

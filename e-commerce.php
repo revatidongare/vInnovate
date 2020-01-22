@@ -35,7 +35,7 @@
 
 	<!-- Stunning Header -->
 
-	<div class="crumina-stunning-header stunning-bg-retreat stunning-header--content-center stunning-header--bg-photo stunning-header--min640 custom-color c-white fill-white">
+	<div class="crumina-stunning-header stunning-bg-retreat stunning-header--content-center stunning-header--bg-photo stunning-header--min640 custom-color c-white fill-white" style="background-image: url(img/ecom.jpg);">
 		<div class="container">
 			<div class="stunning-header-content">
 				<h2 class="h1 stunning-header-title">E-Commerce System</h2>
@@ -92,7 +92,7 @@
 											
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> login and logout </a>
+												<a href="#"> login and logout with Forgot Password Function </a>
 											</li>
 											<li>
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
@@ -112,51 +112,26 @@
 												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
 												<a href="#"> Email Subscription</a>
 											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Recycle Bin Functionality For Admin</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="#"> Export to XML function for Admin</a>
+											</li>
 
 										</ul>
-
+<br><br>
 										Clients - Augmented Foods, Pune
 									</div>
 									
 								</div>
 
 							</div>
-								<!-- <div role="tabpanel" class="tab-pane fade" id="instructors">
-
-								<h3>Benefits of Hotel Managment System</h3>
-								<ul class="list list--standard">
-											
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Asset Management</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Employee Attendence Solution with Fingerprint support</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Employee Identity Card sign &nd Print</a>
-											</li>
-											
-                                            <li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Group brocher/phamplet design</a>
-											</li>
-
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Digital maketing
-</a>
-											</li>
-
-										</ul>
-</div>
-									 -->
 								
 
 						<div role="tabpanel" class="tab-pane fade" id="developed">
-
 							<div class="row"> 
                                     <div class="curriculum-event c-blue col-lg-4">
 										<div class="curriculum-event-thumb">
@@ -174,8 +149,8 @@
 											<a href="http://augmentedfoodsindia.com/index.php" class="">http://augmentedfoodsindia.com/index.php</a>
 										</div>
 									</div>                               
+							</div>
 						</div>
-								
 								<!-- <ul class="list list--standard">
 											
 											<li>
@@ -184,77 +159,6 @@
 											</li>
 											
 										</ul> -->
-									</div>
-								<!-- <ul class="list list--standard">
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Educational Institutions can offer a portfolio of courses across specializations, without been restricted by space, finance and human resource.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Ease of operations and minimum cost of updating if courseware requires changes.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Assessment on an individual level to get insights into content consumption and behavior of learners via analytics.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Personalization on an individual level to deliver learning modules according to the scope of improvement of the learner.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Can deliver 2 types of learning modules, one via the eLearning portal/website/mobile app and later deliver doubt clearing sessions via the same channel.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Can offer educational programs to a large number of students not restricted by space constraints, the eLearning system being scalable and enabled by technology.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">  Standardized quality of learning, due to minimum human involvement and cost-efficient customizability.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Can add interactivity to learning modules with gamification, multimedia, AR (Augmented Reality) and making it a point of differentiation for educational programs, and price a premium for courseware because of the added value they offer.</a>
-											</li>
-										</ul>
-										<h3>Benefits of eLearning for students</h3>
-								<ul class="list list--standard">
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Savings in traveling and other related costs as all learning modules and pre-recorded lessons are delivered via digital channels.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Unlimited access to all learning content anytime, anywhere on the device of choice.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Option to select a course of choice of any specialization from the set of teachers offering the course</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Comparatively economical option</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Learn and retain better from contextually relevant, updated and interactive educational programs ensuring every concept is absorbed by the learner.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#">Feedback mechanism to communicate with the institute and creator of the program to convey any changes or suggestions if required.</a>
-											</li>
-											<li>
-												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
-												<a href="#"> Personal attention provided by the tutors on completion and doubts of the individual learner.</a>
-											</li>
-											
-										</ul>
-
-							</div>
-							 -->
-
 							</div>
 						</div>
 

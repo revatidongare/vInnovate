@@ -20,7 +20,7 @@
             </div>
           </div>
 
-          <p style="color: white;" align="justify">vInnovate Technologies is an IT StartUp incorporated in 2019 with the primary objective of driving people and society towards Digital India. Our Vision is to build Digital Ecosystem bringing Business and Technology together by developing cutting edge Products and Solutions. We find solace in the arms of Sahyadri Hills embraced by green valleys of Lonavala..
+          <p style="color: white;" align="justify">vInnovate Technologies is an IT StartUp incorporated in 2019 with the primary objective of driving people and society towards Digital India. Our Vision is to build Digital Ecosystem bringing Business and Technology together by developing cutting edge Products and Solutions. We find solace in the arms of Sahyadri Hills embraced by green valleys of Lonavala.
           </p>
 
 

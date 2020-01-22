@@ -61,7 +61,9 @@
 
 	<div class="container we-hire">
 	<h2 class="heading-title">We are<span class="c-primary"> Hiring!!!</span></h2>
+
 	<div class="row">
+
 	<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 	<aside class="widget w-about">
 						<div class="site-logo">
@@ -76,8 +78,10 @@
 						<p></p>
 
 
-					</aside></div>
-					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+					</aside>
+	</div>
+					
+	<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 	<aside class="widget w-about">
 						<div class="site-logo">
 							<a href="#" class="full-block"></a>
@@ -90,8 +94,11 @@
 						<p>Location - Pune </p>
 
 
-					</aside></div></div>
-					<div class="row">
+					</aside>
+	</div>
+</div>
+					
+	<div class="row">
 	<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 	<aside class="widget w-about">
 						<div class="site-logo">
@@ -105,7 +112,9 @@
 						<p>Location - Pune </p>
 
 
-					</aside></div>
+					</aside>
+				</div>
+					
 					<div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
 	<aside class="widget w-about">
 						<div class="site-logo">
@@ -119,7 +128,9 @@
 						<p>Location - Pune </p>
 
 
-					</aside></div></div>
+					</aside>
+				</div>
+				</div>
 
 
 				</div>
@@ -174,7 +185,8 @@
 	<section class="background-cover bg-18 align-center medium-padding120">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-9 col-lg-offset-2 col-md-8 col-md-offset-2 col-sm-12 col-sm-offset-0 col-xs-12">
+				<div class="col-lg-1"></div>
+				<div class="col-lg-10 col-md-11  col-sm-11  col-xs-11">
 					<div class="crumina-module crumina-heading">
 						<h2 class="heading-title">Join our <span class="c-primary">Team</span> Now!</h2>
 						<!-- <p class="heading-text">Claritas est etiam processus dynamicus, qui sequitur mutationem consuetudium
