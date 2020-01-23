@@ -130,8 +130,63 @@
 
 							</div>
 								
+<div role="tabpanel" class="tab-pane fade" id="developed">
+								<div class="row">
+											
+											<!-- <li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="http://themetropole.in">  http://themetropole.in</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="http://dreamlandresort.in"target="_blank">http://dreamlandresort.in</a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="http://imperialgrande.com"target="_blank">http://imperialgrande.com</a>
+											</li>
+											
+                                            <li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="http://retreatheritage.com"target="_blank">http://retreatheritage.com </a>
+											</li>
 
-						<div role="tabpanel" class="tab-pane fade" id="developed">
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="http://krushnairesort.com"target="_blank">http://krushnairesort.com </a>
+											</li>
+                                             <li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="http://mayurretreat.com"target="_blank">http://mayurretreat.com </a>
+											</li>
+											<li>
+												<svg class="utouch-icon utouch-icon-correct-symbol-1"><use xlink:href="#utouch-icon-correct-symbol-1"></use></svg>
+												<a href="http://citypalaceresort.com" target="_blank">http://citypalaceresort.com </a>
+											</li> -->
+                                  
+                                    <div class="curriculum-event c-blue col-lg-4">
+										<div class="curriculum-event-thumb">
+											<img src="img/augfood.jpg" alt="image">
+											<!-- <div class="curriculum-event-content">
+												<div class="author-block inline-items">
+													<div class="author-info">
+														<a href="http://augmentedfoodsindia.com " class="h6 author-name">http://augmentedfoodsindia.com</a>
+													</div>
+												</div>
+											</div> -->
+											<div class="overlay-standard overlay--green"></div>
+										</div>
+										<div class="curriculum-event-content" style="padding-left: 5px;">
+											<a href="http://augmentedfoodsindia.com " class="">http://augmentedfoodsindia.com </a>
+										</div>
+									</div>
+									
+									                          
+						</div>
+
+							
+						</div>
+						<!-- <div role="tabpanel" class="tab-pane fade" id="developed">
 							<div class="row"> 
                                     <div class="curriculum-event c-blue col-lg-4">
 										<div class="curriculum-event-thumb">
@@ -148,9 +203,10 @@
 										<div class="curriculum-event-content">
 											<a href="http://augmentedfoodsindia.com/index.php" class="">http://augmentedfoodsindia.com/index.php</a>
 										</div>
-									</div>                               
+									</div>
+
 							</div>
-						</div>
+						</div> -->
 								<!-- <ul class="list list--standard">
 											
 											<li>
