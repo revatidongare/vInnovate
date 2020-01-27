@@ -560,7 +560,7 @@
 <div class="col-lg-3"></div>
         <div class="col-lg-6 col-sm-12">
                         <center><h2>Gallery</h2></center>
-                    <div id="carouselExampleControls" class="carousel slide" data-ride="carousel">
+                    <div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="img/gallery1.jpeg" alt="First slide">

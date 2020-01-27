@@ -6,25 +6,7 @@
 
 					<div class="swiper-container top-navigation" data-show-items="3">
 						<div class="swiper-wrapper">
-							<div class="swiper-slide">
-								<div class="curriculum-event c-blue"  >
-										<div class="curriculum-event-thumb">
-											<img src="img/vselflearn1.jpg" alt="image">
-											<div class="curriculum-event-content">
-												<div class="author-block inline-items">
-													<div class="author-info">
-														<a href="#" class="h6 author-name">vSelfLearn School</a>
-													</div>
-												</div>
-											</div>
-											<div class="overlay-standard overlay--green"></div>
-										</div>
-										<div class="curriculum-event-content">
-											
-											<a href="vselflearn.php" class="h5 title">Know more</a>
-										</div>
-									</div>
-							</div>
+
 							<div class="swiper-slide">
 								<div class="curriculum-event c-blue"  >
 										<div class="curriculum-event-thumb">
@@ -44,6 +26,47 @@
 										</div>
 									</div>
 							</div>
+
+							<div class="swiper-slide">
+								<div class="curriculum-event c-blue"  >
+										<div class="curriculum-event-thumb">
+											<img src="img/vengi.jpg" alt="image">
+											<div class="curriculum-event-content">
+												<div class="author-block inline-items">
+													<div class="author-info">
+														<a href="#" class="h6 author-name">vSelfLearn Engineering</a>
+													</div>
+												</div>
+											</div>
+											<div class="overlay-standard overlay--green"></div>
+										</div>
+										<div class="curriculum-event-content">
+											
+											<a href="vselflearn-engi.php" class="h5 title">Know more</a>
+										</div>
+									</div>
+							</div>
+							
+							<div class="swiper-slide">
+								<div class="curriculum-event c-blue"  >
+										<div class="curriculum-event-thumb">
+											<img src="img/vselflearn1.jpg" alt="image">
+											<div class="curriculum-event-content">
+												<div class="author-block inline-items">
+													<div class="author-info">
+														<a href="#" class="h6 author-name">vSelfLearn School</a>
+													</div>
+												</div>
+											</div>
+											<div class="overlay-standard overlay--green"></div>
+										</div>
+										<div class="curriculum-event-content">
+											
+											<a href="vselflearn.php" class="h5 title">Know more</a>
+										</div>
+									</div>
+							</div>
+							
 							<div class="swiper-slide">
 								<div class="curriculum-event c-blue"  >
 										<div class="curriculum-event-thumb">
@@ -82,25 +105,7 @@
 										</div>
 									</div>
 							</div>
-							<div class="swiper-slide">
-								<div class="curriculum-event c-blue"  >
-										<div class="curriculum-event-thumb">
-											<img src="img/vengi.jpg" alt="image">
-											<div class="curriculum-event-content">
-												<div class="author-block inline-items">
-													<div class="author-info">
-														<a href="#" class="h6 author-name">vSelfLearn Engineering</a>
-													</div>
-												</div>
-											</div>
-											<div class="overlay-standard overlay--green"></div>
-										</div>
-										<div class="curriculum-event-content">
-											
-											<a href="vselflearn-engi.php" class="h5 title">Know more</a>
-										</div>
-									</div>
-							</div>
+							
 						</div>
 						<div class="btn-slider-wrap navigation-top-right">
 

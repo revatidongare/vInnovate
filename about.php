@@ -75,16 +75,17 @@
 	<section class="">
 		<div class="container">
 			<div class="row">
-				<div class="col-lg-12 col-md-4 col-sm-12 col-xs-12" style="text-align: center;">
-					<div class="crumina-module crumina-info-box info-box--numbers">
+				<!-- <div class="col-lg-12 col-md-4 col-sm-12 col-xs-12" style="text-align: center;">
+					
+				</div> -->
+				<div class="col-lg-6 col-md-4 col-sm-12 col-xs-12" style="text-align: center;">
+					<div class="crumina-module crumina-info-box info-box--numbers testimonial-item-arrow">
 						<h3 class="h5 info-box-title">Our<span class="c-primary"> Motto</span></h3>
 						<p class="info-box-text"> We are driven by"Be Disruptor Then Disrupted" and
  	                      "Simplified Ideas for Life
 						</p>
 					</div>
-				</div>
-				<div class="col-lg-6 col-md-4 col-sm-12 col-xs-12" style="text-align: center;">
-					<div class="crumina-module crumina-info-box info-box--numbers">
+					<div class="crumina-module crumina-info-box info-box--numbers testimonial-item-arrow">
 						<h3 class="h5 info-box-title">Our <span class="c-primary">Mission</span></h3>
 						<p class="info-box-text" align="justify"> vInnovate aspires to be highly innovative software house, established to provide
 				         leading edge intelligent technical solutions and consulting services to businesses,
@@ -99,7 +100,7 @@
 				
 
 				<div class="col-lg-6 col-md-4 col-sm-12 col-xs-12" style="text-align: center;">
-					<div class="crumina-module crumina-info-box info-box--numbers">
+					<div class="crumina-module crumina-info-box info-box--numbers testimonial-item-arrow" style="padding-bottom: 0.5rem;">
 						<h3 class="h5 info-box-title">Our<span class="c-primary"> Values</span></h3>
 						<p class="info-box-text" align="justify">
 						<b>Integrity- </b>
@@ -140,7 +141,7 @@
 			
 				<div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
 					<div class="crumina-module crumina-heading">
-						<h2 class="heading-title align-center">A<span class="c-primary">  timeline </span>of our journey</h2>
+						<h2 class="heading-title align-center" style="padding-top: 2.5rem;">A<span class="c-primary">  timeline </span>of our journey</h2>
 						
 					</div>
 					
@@ -462,7 +463,7 @@
 
 								<a href="#" class="h5 teammembers-item-name">Kirtana M</a>
 
-								<p>An enthusiastic engineer who keeps deep interest in learning and implementing things along with its execution!A keen learner and a dedicated coder!</p>
+								<p>An enthusiastic engineer who keeps deep interest in learning and implementing things along with its execution!</p>
 
 								
 							</div>

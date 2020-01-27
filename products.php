@@ -47,22 +47,11 @@
 		<div class="crumina-module crumina-screenshots row">
 			<div class="col-item col-ld-6 col-md-6 col-sm-12 col-xs-12">
 				<div>
-					<img src="img/vselflearn1.jpg" alt="screen">
+					<img src="img/plc.jpg" alt="screen">
 					
-					<a href="vselflearn.php"><h5>vSelfLearn School</h5></a>
+					<a href="plc-automation.php"><h5>PLC</h5></a>
 				</div>
 			</div>
-			<div class="col-item col-ld-6 col-md-6 col-sm-12 col-xs-12">
-				<div>
-					<img src="img/vgym.jpg" alt="screen">
-					<a href="v-gym.php"><h5>vGym</h5></a>
-				</div>
-				
-			</div>
-			
-		</div>
-
-		<div class="crumina-module crumina-screenshots row">
 			<div class="col-item col-ld-6 col-md-6 col-sm-12 col-xs-12">
 				<div>
 					<img src="img/vengi.jpg" alt="screen">
@@ -70,6 +59,18 @@
 					<a href="vselflearn-engi.php"><h5>vSelflearn Engineering</h5></a>
 				</div>
 			</div>
+						
+		</div>
+
+		<div class="crumina-module crumina-screenshots row">
+			<div class="col-item col-ld-6 col-md-6 col-sm-12 col-xs-12">
+				<div>
+					<img src="img/vselflearn1.jpg" alt="screen">
+					
+					<a href="vselflearn.php"><h5>vSelfLearn School</h5></a>
+				</div>
+			</div>
+			
 			<div class="col-item col-ld-6 col-md-6 col-sm-12 col-xs-12">
 				<div>
 					<img src="img/vcollarate.jpg" alt="screen">
@@ -77,15 +78,15 @@
 				</div>
 				
 			</div>
-			
 		</div>
 		<div class="crumina-module crumina-screenshots row">
+			
 			<div class="col-item col-ld-6 col-md-6 col-sm-12 col-xs-12">
 				<div>
-					<img src="img/plc.jpg" alt="screen">
-					
-					<a href="plc-automation.php"><h5>PLC</h5></a>
+					<img src="img/vgym.jpg" alt="screen">
+					<a href="v-gym.php"><h5>vGym</h5></a>
 				</div>
+				
 			</div>
 			<!-- <div class="col-item col-ld-6 col-md-6 col-sm-12 col-xs-12">
 				<div>

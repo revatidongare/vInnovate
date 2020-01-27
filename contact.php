@@ -61,43 +61,51 @@
 	<!-- Contacts -->
 	 <section class=" background-contain bg-14 crumina-module crumina-module-subscribe-form">
 			<div class="container">
+				<h2 class="heading-title align-center" style="padding-top: 0; margin-top: 0;">Contact Us</h2>
 				<div class="row">
+
+					<div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
+				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3778.2509615375075!2d73.41619031489607!3d18.74232398728024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8010aebf2cc03%3A0x2b710ccf58f47bbe!2sGlobal+Infotech!5e0!3m2!1sen!2sin!4v1563784530285!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
+			</div>
+			<div class="col-sm-12 col-lg-6 col-xs-12 col-md-6">
 					<!-- contact-form -->
 					<form class=" container" method="POST" action="login/data.php">
                         <div class="row">
-                        	<h2 class="heading-title align-center">Contact Us</h2>
-
-                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-
+                        	
+                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                            	
                                 <div class="row">
-                                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                         <input name="name" placeholder="Your Name" type="text">
                                     </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                         <input name="email" placeholder="Your Email" type="email">
                                     </div>
-                                    <div class="col-lg-4 col-md-4 col-sm-12 col-xs-12">
+                                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                                         <input name="phone" placeholder="Phone" type="text">
                                     </div>
-                                </div>
-                                 </div>
-
-                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
-                                <textarea name="message" class="" required="" placeholder="Details" style="height: 250px;"></textarea>
+                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                                <textarea name="message" class="" required="" placeholder="Details"></textarea>
                             </div>
-                            <div class="align-center">
+                            
+                            <div class="col-md-12 col-sm-12 col-xs-12 col-lg-12">
+                            	<center>
                             	    <button type="submit" name="contact" class="btn btn--black btn--with-shadow">Contact us</button>
+                            	</center>
                             </div>
                         
-
+                                </div>
+                              </div>
                         </div>
                     </form>
 				</div>
+				
+		</div>
 			</div>
 	</section> 
-	<section>
-		<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3778.2509615375075!2d73.41619031489607!3d18.74232398728024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8010aebf2cc03%3A0x2b710ccf58f47bbe!2sGlobal+Infotech!5e0!3m2!1sen!2sin!4v1563784530285!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
-	</section>
+	<!-- <section>
+		
+	</section> -->
 	
 
 	
@@ -111,91 +119,6 @@
 <?php include'include/footer.php'?>
 
 <!-- End Footer -->
-
-<!-- Send Message Popup -->
-
-<div class="window-popup message-popup">
-	<a href="#" class="popup-close js-popup-close cd-nav-trigger">
-		<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
-	</a>
-
-	<div class="send-message-popup">
-		<h5>Send a Message</h5>
-		<p>Sed diam nonummy nibh euismod tincidunt ut laoreet dolore magnais.</p>
-		<form class="contact-form" method="post" action="https://html.crumina.net/html-utouch/send_mail.php">
-			<div class="with-icon">
-				<input name="name" placeholder="Your Name" type="text" required="required">
-				<svg class="utouch-icon utouch-icon-user"><use xlink:href="#utouch-icon-user"></use></svg>
-			</div>
-
-			<div class="with-icon">
-				<input name="email" placeholder="Email Adress" type="text" required="required">
-				<svg class="utouch-icon utouch-icon-message-closed-envelope-1"><use xlink:href="#utouch-icon-message-closed-envelope-1"></use></svg>
-			</div>
-
-			<div class="with-icon">
-				<input class="with-icon" name="phone" placeholder="Phone Number" type="tel" required="required">
-				<svg class="utouch-icon utouch-icon-telephone-keypad-with-ten-keys"><use xlink:href="#utouch-icon-telephone-keypad-with-ten-keys"></use></svg>
-			</div>
-
-			<div class="with-icon">
-				<input class="with-icon" name="subject" placeholder="Subject" type="text" required="required">
-				<svg class="utouch-icon utouch-icon-icon-1"><use xlink:href="#utouch-icon-icon-1"></use></svg>
-			</div>
-
-			<div class="with-icon">
-				<textarea name="message" required="" placeholder="Your Message" style="height: 180px;"></textarea>
-				<svg class="utouch-icon utouch-icon-edit"><use xlink:href="#utouch-icon-edit"></use></svg>
-			</div>
-
-			<button class="btn btn--green btn--with-shadow full-width">
-				Send a Message
-			</button>
-
-		</form>
-	</div>
-</div>
-
-<!-- Send Message Popup -->
-
-
-
-<!-- Search Popup -->
-
-<div class="search-popup search--dark">
-	<a href="#" class="popup-close js-popup-close cd-nav-trigger">
-		<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
-	</a>
-
-	<div class="search-full-screen">
-
-		<div class="search-standard">
-			<form id="search-header-1" name="form-search-header" method="post">
-				<div class="typeahead__container">
-					<div class="typeahead__field">
-
-						<span class="typeahead__query">
-							<input class="js-typeahead" name="utouch_posts[query]" placeholder="What are you looking for?" autocomplete="off" type="search" autofocus>
-						</span>
-						<button type="submit" class="form-icon">
-							<svg class="utouch-icon utouch-icon-search"><use xlink:href="#utouch-icon-search"></use></svg>
-						</button>
-						<span class="close js-popup-clear-input form-icon">
-							<svg class="utouch-icon utouch-icon-cancel-1"><use xlink:href="#utouch-icon-cancel-1"></use></svg>
-						</span>
-
-					</div>
-				</div>
-			</form>
-		</div>
-
-	</div>
-
-</div>
-
-<!-- ... end Search Popup -->
-
-
 <!-- Used SVG-icons -->
 
 <svg xmlns="http://www.w3.org/2000/svg" style="display: block; width: 1px; height: 1px; visibility: hidden; opacity: 0;">

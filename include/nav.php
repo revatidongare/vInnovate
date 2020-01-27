@@ -104,7 +104,7 @@
 
 					
 					<li class="">
-						<a href="job-career.php">Job and career</a>
+						<a href="job-career.php">Job & career</a>
 					</li>
 
 					<li class="">
@@ -115,16 +115,16 @@
 						<a href="contact.php">Contact</a>
 					</li>
 				</ul>
-				<ul class="nav-add">
+				<!-- <ul class="nav-add">
 					<li class="search search_main">
-						<a href="#" class="js-open-search-popup">
+						<a href="#" class="js-open-search-popup"> -->
 							<!-- <svg class="utouch-icon utouch-icon-search cd-nav-trigger">
 								<use xlink:href="#utouch-icon-search"></use>
 							</svg> -->
-						</a>
+						<!-- </a>
 					</li>
-				</ul>
-				<div class="search-standard">
+				</ul> -->
+				<!-- <div class="search-standard">
 					<form id="search-header" name="form-search-header" method="post">
 						<div class="typeahead__container">
 							<div class="typeahead__field">
@@ -144,7 +144,7 @@
 							</div>
 						</div>
 					</form>
-				</div>
+				</div> -->
 				
 				
 				</nav>

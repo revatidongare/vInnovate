@@ -3941,7 +3941,9 @@ ol.comments {
   margin-bottom: 40px; }
 
 .curriculum-event-thumb {
-  position: relative; }
+  position: relative; 
+  padding-top: 1rem;
+}
   .curriculum-event-thumb img {
     display: block;
     width: 100%; }

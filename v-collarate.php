@@ -277,8 +277,6 @@ The statistics shows that e-learning is an effective way of teaching and teacher
 <!-- End Footer -->
 
 
-<!-- Send Message Popup -->
-
 <!-- Used SVG-icons -->
 
 <svg xmlns="http://www.w3.org/2000/svg" style="display: block; width: 1px; height: 1px; visibility: hidden; opacity: 0;">

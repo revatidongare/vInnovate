@@ -10,7 +10,7 @@
   </div>
   <div class="container">
     <div class="row">
-      <div class="col-lg-6 col-md-6 col-sm-6 col-xs-6">
+      <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
         <div class="widget w-info">
           <div class="site-logo">
             <a href="index.php" class="full-block"></a>
@@ -20,7 +20,7 @@
             </div>
           </div>
 
-          <p style="color: white;" align="justify">vInnovate Technologies is an IT StartUp incorporated in 2019 with the primary objective of driving people and society towards Digital India. Our Vision is to build Digital Ecosystem bringing Business and Technology together by developing cutting edge Products and Solutions. We find solace in the arms of Sahyadri Hills embraced by green valleys of Lonavala.
+          <p style="color: white; font-size: 16px;" align="justify" >vInnovate Technologies is an IT StartUp incorporated in 2019 with the primary objective of driving people and society towards Digital India. Our Vision is to build Digital Ecosystem bringing Business and Technology together by developing cutting edge Products and Solutions. We find solace in the arms of Sahyadri Hills embraced by green valleys of Lonavala.
           </p>
 
 
@@ -28,10 +28,10 @@
 
       </div>
 
-      <div class="col-lg-3 col-lg-offset-1 col-md-3 col-sm-3 col-sm-offset-0 col-xs-3" style="margin:0;">
-        <div class="widget w-list">
+      <div class="col-lg-3 col-lg-offset-1 col-md-3 col-sm-12 col-sm-offset-0 col-xs-12" style="margin:0;">
+        <div class="widget w-list" style="padding-left: 2.5rem;">
 
-          <h5 class="widget-title">Userful Links</h5>
+          <h5 class="widget-title">Useful Links</h5>
           <ul class="list list--primary">
             <li>
               <a href="index.php">Home</a>
@@ -79,7 +79,7 @@
         </div>
       </div>
 
-      <div class="col-lg-3 col-lg-offset-1 col-md-3 col-sm-3 col-sm-offset-0 col-xs-3" style="margin:0;">
+      <div class="col-lg-3 col-lg-offset-1 col-md-3 col-sm-12 col-sm-offset-0 col-xs-12" style="margin:0;">
         <div class="widget w-contacts">
 
           <h5 class="widget-title">Contact with us</h5>
