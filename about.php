@@ -1,13 +1,13 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
 <?php include 'include/head.php';?>
 <body class="crumina-grid">
+<!-- Preloader -->
+<!-- ... end Preloader -->
 <!-- Header -->
 
-<header class="header header--menu-rounded header--dark" id="site-header">
-<div class="header-lines-decoration">
+<header class="header header--small-lines" id="site-header">
+	<div class="header-lines-decoration">
 		<span class="bg-secondary-color"></span>
 		<span class="bg-blue"></span>
 		<span class="bg-blue-light"></span>
@@ -16,11 +16,12 @@
 		<span class="bg-color-1"></span>
 		<span class="bg-color-2"></span>
 	</div>
-	
 
-			<?php include 'include/nav.php';?>
+
+<?php include 'include/nav.php';?>
+
+
 </header>
-
 
 <!-- ... end Header -->
 
@@ -255,22 +256,7 @@
 
 				<div class="teammembers-wrap" style="padding-bottom: 4rem;">
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
-						<!-- <div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/divya.jpeg" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Software Developer</div>
-
-								<a href="#" class="h5 teammembers-item-name">Divya Warambhey</a>
-
-								<p>A coder who thinks everyday life is like programming . If you love something you can put beauty into it.</p>
-
-							</div>
-						</div> -->
+						
  						<div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
@@ -305,40 +291,6 @@
 							</div>
 						</div>
 
-						<div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/mitali.jpeg" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Web developer (Intern)</div>
-
-								<a href="#" class="h5 teammembers-item-name">Mitali P</a>
-
-								<p>A never quitting coder who puts first priority into execution and implementation.</p>
-
-								</div>
-							</div>
-
-						<!-- <div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/bhushan.jpeg" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Product Engineer</div>
-
-								<a href="#" class="h5 teammembers-item-name">Bhushan</a>
-
-								<p>A self taught passionate coder who believes that it is better to make mistakes and fail rather than never trying</p>
-
-								
-							</div>
-						</div> -->
 
 				<div class="crumina-module crumina-teammembers-item">
 
@@ -356,7 +308,42 @@
 
 								
 							</div>
-						</div><div class="crumina-module crumina-teammembers-item">
+						</div>
+
+						<div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/pankaj.jpeg" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof">Product Engineer</div>
+
+								<a href="#" class="h5 teammembers-item-name">Pankaj</a>
+
+								<p> A coder who thinks "if it were easy everybody would do it".<br><br><br></p>
+
+								
+							</div>
+						</div>
+						<div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/rohan.jpeg" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof">Product Engineer(Intern)</div>
+
+								<a href="#" class="h5 teammembers-item-name">Rohan K.</a>
+
+								<p>An enthusiastic young coder who keeps deep interest in learning</p>
+
+							</div>
+						</div>
+						<div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
 								<img src="img/akshay_A.jpeg" alt="team member">
@@ -412,24 +399,7 @@
 
 								
 							</div>
-						</div><div class="crumina-module crumina-teammembers-item">
-
-							<div class="teammembers-thumb">
-								<img src="img/akshay_K.png" alt="team member">
-							</div>
-
-							<div class="teammember-content">
-
-								<div class="teammembers-item-prof">Product Engg (Intern)</div>
-
-								<a href="#" class="h5 teammembers-item-name">Akshay K</a>
-
-								<p>Very first understand the requirement of client then Be focused towords your work until it get complet.</p>
-
-								
-							</div>
 						</div>
-
 
 						<div class="crumina-module crumina-teammembers-item">
 
@@ -443,14 +413,11 @@
 
 								<a href="#" class="h5 teammembers-item-name">Vivek Y</a>
 
-								<p>A Passionate and Multitasking developer with a proactive attitude and a strong work ethic.</p>
+								<p>A Passionate and Multitasking developer with a proactive attitude and a strong work ethic.<br><br></p>
 
 								
 							</div>
 						</div>
-                        
-                       
-						
 						 <div class="crumina-module crumina-teammembers-item">
 
 							<div class="teammembers-thumb">
@@ -468,7 +435,42 @@
 								
 							</div>
 						</div>
+						<div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/akshay_K.png" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof">Product Engg (Intern)</div>
+
+								<a href="#" class="h5 teammembers-item-name">Akshay K</a>
+
+								<p>Very first understand the requirement of client then Be focused towords your work until it get complet.</p>
+
+								
+							</div>
+						</div>
+						<div class="crumina-module crumina-teammembers-item">
+
+							<div class="teammembers-thumb">
+								<img src="img/mitali.jpeg" alt="team member">
+							</div>
+
+							<div class="teammember-content">
+
+								<div class="teammembers-item-prof">Web developer (Intern)</div>
+
+								<a href="#" class="h5 teammembers-item-name">Mitali P</a>
+
+								<p>A never quitting coder who puts first priority into execution and implementation.</p>
+
+								</div>
+							</div>
+                      
 						
+				
 					</div>
 				</div>
 			</div>

@@ -93,11 +93,7 @@
 	<!-- <section>
 		
 	</section> -->
-	
 
-	
-
-      
 	<!-- ... end Contacts -->
 
 </div>

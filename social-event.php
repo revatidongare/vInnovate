@@ -1,13 +1,12 @@
- <!DOCTYPE html>
+<!DOCTYPE html>
 <html lang="en">
-
 <?php include 'include/head.php';?>
 <body class="crumina-grid">
-
+<!-- Preloader -->
+<!-- ... end Preloader -->
 <!-- Header -->
 
-<header class="header" id="site-header">
-
+<header class="header header--small-lines" id="site-header">
 	<div class="header-lines-decoration">
 		<span class="bg-secondary-color"></span>
 		<span class="bg-blue"></span>
@@ -18,13 +17,16 @@
 		<span class="bg-color-2"></span>
 	</div>
 
-			<?php include 'include/nav.php';?>
+
+<?php include 'include/nav.php';?>
+
 
 </header>
 
 <!-- ... End Header -->
 
 <div class="header-spacer"></div>
+
 	<div class="content-wrapper">
 		<div class="crumina-stunning-header stunning-bg-4 stunning-header--content-center stunning-header--bg-photo stunning-header--min640 custom-color c-white fill-white">
 		<div class="container">
@@ -44,8 +46,9 @@
 
 		<div class="overlay-standard overlay--green"></div>
 	</div>
+
 	<div class="row" style="margin-top: 75px ;">
-                <div class="col-lg-8" style="float: none; margin: 0 auto">
+                <div class="col-lg-8" style="float: none; margin: auto;">
                     <div class="crumina-module crumina-heading align-center">
                         <!-- <h6 class="heading-sup-title">User Interface</h6> -->
                         <h2 class="h1 heading-title">We are with sukhkarta</h2>
@@ -60,11 +63,11 @@ Founded on the platform of being ‘a medium of social change’, the contributi
                     </div>
                 </div>
             </div>
-</div>
+<!-- </div> -->
 
 <!-- Pricing Tables -->
 
-	<section class=" crumina-pricings">
+	<section class="medium-padding120 crumina-pricings">
 		<div class="container">
 			
 			<div class="row">
@@ -79,7 +82,7 @@ Founded on the platform of being ‘a medium of social change’, the contributi
 							<div class="main-pricing-content">
 								<a href="#" class="h5 pricing-title">Make Donation</a>
 
-								<p class="pricing-description">It's not how much we give but howmuch we put into living.</p>
+								<p class="pricing-description">It's not how much we give but how much we put into living.</p>
 
 								<a href="http://sukhkartafoundation.org/donation.php" class="more-arrow">
 									<span>Make Donations</span>
@@ -120,11 +123,10 @@ Founded on the platform of being ‘a medium of social change’, the contributi
 				</div>
 			</div>
 		</div>
-
-	</section>
+</section>
 
 	<?php  include 'our-sukhkarta-event.php'?>				
-
+</div>
 <?php include'include/footer.php';?>
 
 

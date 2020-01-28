@@ -1,19 +1,12 @@
 <!DOCTYPE html>
 <html lang="en">
-
-
 <?php include 'include/head.php';?>
 <body class="crumina-grid">
-
 <!-- Preloader -->
-
-
 <!-- ... end Preloader -->
-
 <!-- Header -->
 
-<header class="header header--menu-rounded header--blue-lighteen" id="site-header">
-
+<header class="header header--small-lines" id="site-header">
 	<div class="header-lines-decoration">
 		<span class="bg-secondary-color"></span>
 		<span class="bg-blue"></span>
@@ -24,8 +17,9 @@
 		<span class="bg-color-2"></span>
 	</div>
 
-			<?php include 'include/nav.php';?>
-		
+
+<?php include 'include/nav.php';?>
+
 
 </header>
 

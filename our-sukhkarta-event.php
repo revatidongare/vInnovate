@@ -26,7 +26,7 @@
 									</div>
 							</div>
 							<div class="swiper-slide">
-								<div class="curriculum-event c-blue">
+								<div class="curriculum-event c-blue"  >
 										<div class="curriculum-event-thumb">
 											<img src="img/blood.jpg" alt="image">
 											<div class="curriculum-event-content">
@@ -102,12 +102,15 @@
 						</div>
 					</div>
 
-				</div>
-			</div>
 
-           <!--  <div id="myCarousel" class="carousel slide shadow">
+					<div class="container py-2">
+    <div class="row min-vh-100 align-items-center">
 
-                <!-- main slider carousel items --
+        <div class="col-lg-6 offset-lg-2" id="slider">
+        	  	<h3>Food distribution Activity on 26th Jan</h3>
+            <div id="myCarousel" class="carousel slide shadow">
+
+                <!-- main slider carousel items -->
                 <div class="carousel-inner">
                     <div class="active carousel-item" data-slide-number="0">
                         <img src="img/gallery/1.jpeg" class="img-fluid">
@@ -145,8 +148,8 @@
                     </a>
 
                 </div>
-                <!-- main slider carousel nav controls --
-                <ul class="carousel-indicators list-inline mx-auto border">
+                <!-- main slider carousel nav controls -->
+                <ul class="carousel-indicators list-inline mx-auto border px-2">
                     <li class="list-inline-item active">
                         <a id="carousel-selector-0" class="selected" data-slide-to="0" data-target="#myCarousel">
                             <img src="img/gallery/1.jpeg" class="img-fluid">
@@ -189,6 +192,16 @@
                     </li>
                     
                 </ul>
-            </div> -->
+            </div>
+        </div>
+
+    </div>
+    <!--/main slider carousel-->
+</div>
+
+
+
+				</div>
+			</div>
 		</div>
-</section>
+	</section>
