@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'include/head.php';?>
-<body class="crumina-grid">
+<body class="crumina-grid" style="overflow-x: hidden;">
 <!-- Preloader -->
 <!-- ... end Preloader -->
 <!-- Header -->
