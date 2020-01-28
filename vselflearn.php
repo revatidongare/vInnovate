@@ -41,7 +41,7 @@
 	<div class="crumina-stunning-header stunning-bg-5 stunning-header--content-center stunning-header--bg-photo stunning-header--min640 custom-color c-white fill-white">
 		<div class="container">
 			<div class="stunning-header-content">
-				<h2 class="h1 stunning-header-title">vSelfLearn School</h2>
+				<h2 class="h1 stunning-header-title">vSelfLearn-School</h2>
 				<div class="inline-items">
 						<div class="heading-text">Traditional and non-conventional education have their own merits and demerits. Though classroom learning is still preferred as a mode of teaching, the popularity of online learning is slowly overshadowing traditional learning. Online learning offers interactivity, accessibility and convenience that is making learning more engaging and stimulating.
 The statistics shows that e-learning is an effective way of teaching and teachers need to integrate technology seamlessly into the curriculum instead of viewing it as an add-on, an afterthought, or an event.

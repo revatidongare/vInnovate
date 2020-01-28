@@ -247,13 +247,13 @@
 		<div class="container">
 			<div class="row">
 				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
-					<div class="crumina-module crumina-heading align-center">
+					<div class="crumina-module crumina-heading align-center" style="margin-bottom: 0;">
 						<h2 class="heading-title">Meet our<span class="c-primary">  Professional</span> Team</h2>
 						
 					</div>
 				</div>
 
-				<div class="teammembers-wrap">
+				<div class="teammembers-wrap" style="padding-bottom: 4rem;">
 					<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
 						<!-- <div class="crumina-module crumina-teammembers-item">
 

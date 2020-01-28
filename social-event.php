@@ -4,10 +4,6 @@
 <?php include 'include/head.php';?>
 <body class="crumina-grid">
 
-
-
-
-
 <!-- Header -->
 
 <header class="header" id="site-header">
@@ -41,9 +37,6 @@
 							<div class="crumina-module crumina-heading">
 								<h2 class="heading-title">Be the change that you want to see in this world</h2>
 							</div>
-
-
-
 						</div>
 				</div>
 			</div>
@@ -71,7 +64,7 @@ Founded on the platform of being ‘a medium of social change’, the contributi
 
 <!-- Pricing Tables -->
 
-	<section class="medium-padding120 crumina-pricings">
+	<section class=" crumina-pricings">
 		<div class="container">
 			
 			<div class="row">
@@ -131,7 +124,6 @@ Founded on the platform of being ‘a medium of social change’, the contributi
 	</section>
 
 	<?php  include 'our-sukhkarta-event.php'?>				
-
 
 <?php include'include/footer.php';?>
 

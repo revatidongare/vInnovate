@@ -1,18 +1,9 @@
 <!DOCTYPE html>
 <html lang="en">
 <?php include 'include/head.php';?>
-
-
-
 <body class="crumina-grid">
-
-
 <!-- Preloader -->
-
-
 <!-- ... end Preloader -->
-
-
 <!-- Header -->
 
 <header class="header header--small-lines" id="site-header">
@@ -46,10 +37,6 @@
 							<div class="crumina-module crumina-heading banner-text">
 								When you've questions , we're here to help
 							</div>
-
-							
-
-
 						</div>
 				</div>
 			</div>
@@ -67,12 +54,12 @@
 					<div class="col-lg-6 col-md-6 col-xs-12 col-sm-12">
 				<iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3778.2509615375075!2d73.41619031489607!3d18.74232398728024!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be8010aebf2cc03%3A0x2b710ccf58f47bbe!2sGlobal+Infotech!5e0!3m2!1sen!2sin!4v1563784530285!5m2!1sen!2sin" width="100%" height="450" frameborder="0" style="border:0" allowfullscreen></iframe>
 			</div>
-			<div class="col-sm-12 col-lg-6 col-xs-12 col-md-6">
+			<div class="col-lg-6 col-md-6 col-sm-12 col-xs-12 ">
 					<!-- contact-form -->
-					<form class=" container" method="POST" action="login/data.php">
+					<form method="POST" action="#">
                         <div class="row">
                         	
-                            <div class="col-lg-6 col-md-6 col-sm-12 col-xs-12">
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
                             	
                                 <div class="row">
                                     <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
@@ -88,7 +75,7 @@
                                 <textarea name="message" class="" required="" placeholder="Details"></textarea>
                             </div>
                             
-                            <div class="col-md-12 col-sm-12 col-xs-12 col-lg-12">
+                            <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12 ">
                             	<center>
                             	    <button type="submit" name="contact" class="btn btn--black btn--with-shadow">Contact us</button>
                             	</center>

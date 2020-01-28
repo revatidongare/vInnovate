@@ -221,6 +221,26 @@
               <div class="swiper-slide">
 
                 <div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
+                  <h5 class="slider-faqs-title">Industrial Automation</h5>
+
+                  <div class="row">
+                    <div class="col-lg-12 col-md-12 col-sm-12">
+                      <p align="justify"> A unique solution (smart manufacturing dashboard) which helps organizations to collect data from shop-floor and to present it to different user groups(operation 7 team, management team) as per their needs. Data can also be integrated to ERQ system to minimise data entry efforts on shop-floor.Smart manufacturing dashboard innovate solution works across platforms which make user’s work easy to manage by their workstation, mobile devices shop-floor displays etc. The solution is cloud ready and supports Azure as well as AWS cloud.
+
+                      </p>
+
+                    </div>
+                  </div>
+                </div>
+                <div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
+                  <div class="slider-faqs-thumb">
+                    <img class="utouch-icon" src="img/plc.svg" alt="image">
+                  </div>
+                </div>
+              </div>
+              <div class="swiper-slide">
+
+                <div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
                   <h5 class="slider-faqs-title">Education</h5>
 
                   <div class="row">
@@ -256,26 +276,7 @@
                   </div>
                 </div>
               </div>
-              <div class="swiper-slide">
-
-                <div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
-                  <h5 class="slider-faqs-title">Industrial Acromation</h5>
-
-                  <div class="row">
-                    <div class="col-lg-12 col-md-12 col-sm-12">
-                      <p align="justify"> A unique solution(smart manufacturing dashboard) which helps organizations to collect data from shop-floor and to present it to different user groups(operation 7 team, management team) as per their needs. Data can also be integrated to ERQ system to minimise data entry efforts on shop-floor.Smart manufacturing dashboard innovate solution works across platforms which make user’s work easy to manage by their workstation, mobile devices shop-floor displays etc. The solution is cloud ready and supports Azure as well as AWS cloud.
-
-                      </p>
-
-                    </div>
-                  </div>
-                </div>
-                <div class="col-lg-4 col-md-12 col-sm-12" data-swiper-parallax="-100">
-                  <div class="slider-faqs-thumb">
-                    <img class="utouch-icon" src="img/plc.svg" alt="image">
-                  </div>
-                </div>
-              </div>
+              
               <div class="swiper-slide">
 
                 <div class="col-lg-8 col-md-12 col-sm-12" data-swiper-parallax="-300">
@@ -375,6 +376,51 @@
   <div class="container we-hire">
     <h2 class="heading-title align-center">Our<span class="c-primary"> Management Team</span></h2>
     <div class="row">
+
+      <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+          <aside class="widget w-about">
+            <div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:15.1px; padding-bottom: 3.6rem;">
+              <div class="author-info-wrap">
+                <div class="testimonial-img-author">
+                  <img src="img/yogesh.jpg" alt="author">
+                </div>
+                <div class="author-info">
+                  <a href="#" class="h6 author-name">Yogesh Khandelwal</a>
+                  <div class="author-company"><b>Business Development Head</b></div>
+                </div>
+              </div>
+
+              <!-- <h6 class="testimonial-text"> -->
+              20+ years of IT and business development manager's experience in the educational field.
+              <!-- </h6> -->
+
+
+            </div>
+
+          </aside>
+        </div>
+
+
+        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
+          <aside class="widget w-about">
+            <div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:15.1px;">
+              <div class="author-info-wrap">
+                <div class="testimonial-img-author">
+                  <img src="img/shubha.jpg" alt="author">
+                </div>
+                <div class="author-info">
+                  <a href="#" class="h6 author-name">Shubha Muley</a>
+                  <div class="author-company"><b>Project & Process Engineering</b></div>
+                </div>
+              </div>
+
+              <!-- <h6 class="testimonial-text" style="font-size: 15px"> -->
+              20+ years of experience in delivery management of projects across the globe with excellence in quality using test automation & Agile/Develop a framework.
+            </div>
+          </aside>
+
+        </div>
+
       <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
         <aside class="widget w-about">
           <div class="crumina-module crumina-testimonial-item testimonial-item-arrow">
@@ -418,50 +464,7 @@
           </aside>
         </div>
 
-        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-          <aside class="widget w-about">
-            <div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:15.1px; " style="padding-bottom:30px;">
-              <div class="author-info-wrap">
-                <div class="testimonial-img-author">
-                  <img src="img/yogesh.jpg" alt="author">
-                </div>
-                <div class="author-info">
-                  <a href="#" class="h6 author-name">Yogesh Khandelwal</a>
-                  <div class="author-company"><b>Business Development Head</b></div>
-                </div>
-              </div>
-
-              <!-- <h6 class="testimonial-text"> -->
-              20+ years of IT and business development manager's experience in the educational field.
-              <!-- </h6> -->
-
-
-            </div>
-
-          </aside>
-        </div>
-
-
-        <div class="col-lg-6 col-md-12 col-sm-12 col-xs-12">
-          <aside class="widget w-about">
-            <div class="crumina-module crumina-testimonial-item testimonial-item-arrow" style="font-size:15.1px;">
-              <div class="author-info-wrap">
-                <div class="testimonial-img-author">
-                  <img src="img/shubha.jpg" alt="author">
-                </div>
-                <div class="author-info">
-                  <a href="#" class="h6 author-name">Shubha Muley</a>
-                  <div class="author-company"><b>Project & Process Engineering</b></div>
-                </div>
-              </div>
-
-              <!-- <h6 class="testimonial-text" style="font-size: 15px"> -->
-              20+ years of experience in delivery management of projects across the globe with excellence in quality using test automation & Agile/Develop a framework.
-            </div>
-          </aside>
-
-        </div>
-
+        
         <!-- founder end -->
 
 
@@ -478,7 +481,7 @@
 
                     <div class="author-info">
                       <a href="#" class="p author-name">Digitech Confidential</a>
-                      <div class="author-company"><br>Data Protection Consultant
+                      <div class="author-company"><br>Data Security (GDPR) Consultant
                         <!-- Consultant on Digital Data Protection & Administration</div> -->
                         <div class="author-company"></div>
                       </div>
@@ -560,7 +563,60 @@
 <div class="col-lg-3"></div>
         <div class="col-lg-6 col-sm-12">
                         <center><h2>Gallery</h2></center>
-                    <div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
+                         <div id="myCarousel" class="carousel slide shadow">
+
+                <!-- main slider carousel items -->
+                <div class="carousel-inner">
+                    <div class="active carousel-item" data-slide-number="0">
+                        <img src="img/gallery1.jpeg" class="img-fluid">
+                    </div>
+                    <div class="carousel-item" data-slide-number="1">
+                        <img src="img/gallery2.jpeg" class="img-fluid">
+                    </div>
+                    <div class="carousel-item" data-slide-number="2">
+                        <img src="img/gallery3.jpeg" class="img-fluid">
+                    </div>
+                    <div class="carousel-item" data-slide-number="3">
+                        <img src="img/gallery4.jpeg" class="img-fluid">
+                    </div>
+                    
+                    
+
+                    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+                        <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Previous</span>
+                    </a>
+                    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+                        <span class="carousel-control-next-icon" aria-hidden="true"></span>
+                        <span class="sr-only">Next</span>
+                    </a>
+
+                </div>
+                <!-- main slider carousel nav controls -->
+                <ul class="carousel-indicators list-inline mx-auto border px-2">
+                    <li class="list-inline-item active">
+                        <a id="carousel-selector-0" class="selected" data-slide-to="0" data-target="#myCarousel">
+                            <img src="img/gallery1.jpeg" class="img-fluid">
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a id="carousel-selector-1" data-slide-to="1" data-target="#myCarousel">
+                            <img src="img/gallery2.jpeg" class="img-fluid">
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a id="carousel-selector-2" data-slide-to="2" data-target="#myCarousel">
+                            <img src="img/gallery3.jpeg" class="img-fluid">
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a id="carousel-selector-3" data-slide-to="3" data-target="#myCarousel">
+                            <img src="img/gallery4.jpeg" class="img-fluid">
+                        </a>
+                    </li>                    
+                </ul>
+            </div>
+                    <!-- <div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
   <div class="carousel-inner">
     <div class="carousel-item active">
       <img class="d-block w-100" src="img/gallery1.jpeg" alt="First slide">
@@ -583,7 +639,7 @@
     <span class="carousel-control-next-icon" style="color: black;" aria-hidden="true"></span>
     <span class="sr-only">Next</span>
   </a>
-</div>
+</div> -->
 </div>
 
         <!-- <section class="crumina-module crumina-module-slider navigation-center-both-sides slider-3-items medium-padding100 align-center">

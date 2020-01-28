@@ -38,7 +38,7 @@
 		                      
 		                    <li>
 		                    	<a href="plc-automation.php">
-								    vSmart(IOT) DashBoards
+								    vSmart(IOT) DashBoard
 								</a>
 							</li>
 							</li>
@@ -55,13 +55,13 @@
 
 							<li class="">
 								<a href="vselflearn-engi.php">
-									vSelfLearn Engineering
+									vSelfLearn-Engineering
 								</a>
 								
 							</li>
 							<li>
 								<a href="vselflearn.php">
-									vSelfLearn School
+									vSelfLearn-School
 								</a>
 							</li>
 							

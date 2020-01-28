@@ -43,9 +43,9 @@
     <div class="crumina-stunning-header stunning-bg-05 stunning-header--content-center stunning-header--bg-photo stunning-header--min640 custom-color c-white fill-white">
       <div class="container">
         <div class="stunning-header-content">
-          <h2 class="h1 stunning-header-title">vSelfLearn Engineering</h2>
+          <h2 class="h1 stunning-header-title">vSelfLearn-Engineering</h2>
           <div class="inline-items">
-            <div class="heading-text">vSelflearn Engineering
+            <div class="heading-text">vSelfLearn-Engineering
               Are you looking for some notes or explanations which would make your study more understandable?
               Then yes, you are at right place, vselfengineering provides a quality education clearing all your concepts and doubts by providing easy explanations and important notes to make you're learning a quality gain.
               It caters all the needs of an engineering student from basic to advance level.
@@ -163,7 +163,7 @@
                         </li>
                       </ul>
                       <p>For additional information you can visit:
-                        <a href="http://vinnovatetechnologies.com/vengineering" style="color: blue" ;> vinnovatetechnologies.com/vengineering</a><br>
+                        <a href="http://vselflearn-engineering.vinnovatetechnologies.com/s" style="color: blue" ;>vselflearn-engineering.vinnovatetechnologies.com/</a><br>
                         For demo, email to: contact@vinnovatetechnologies.com</p>
 
 
