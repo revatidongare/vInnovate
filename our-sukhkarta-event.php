@@ -103,14 +103,14 @@
 					</div>
 
 
-					<div class="container py-2">
+<!-- <div class="container py-2">
     <div class="row min-vh-100 align-items-center">
 
         <div class="col-lg-6 offset-lg-2" id="slider">
         	  	<h3>Food distribution Activity on 26th Jan</h3>
             <div id="myCarousel" class="carousel slide shadow">
 
-                <!-- main slider carousel items -->
+                <!-- main slider carousel items --
                 <div class="carousel-inner">
                     <div class="active carousel-item" data-slide-number="0">
                         <img src="img/gallery/1.jpeg" class="img-fluid">
@@ -148,7 +148,7 @@
                     </a>
 
                 </div>
-                <!-- main slider carousel nav controls -->
+                <!-- main slider carousel nav controls --
                 <ul class="carousel-indicators list-inline mx-auto border px-2">
                     <li class="list-inline-item active">
                         <a id="carousel-selector-0" class="selected" data-slide-to="0" data-target="#myCarousel">
@@ -196,11 +196,70 @@
         </div>
 
     </div>
-    <!--/main slider carousel-->
+    <!--/main slider carousel--
 </div>
+ -->
 
 
+				</div>
+			</div>
+		</div>
+	</section>
 
+	<section class="crumina-module crumina-module-slider navigation-center-both-sides slider-3-items medium-padding100 align-center">
+		<div class="container">
+			<div class="row">
+				<div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
+					<div class="crumina-module crumina-heading">
+						<h2 class="heading-title align-center">Food Distribution Activity on 26th Jan </h2>
+						<h2 class="heading-title c-primary"></h2>
+					</div>
+				</div>
+				<div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
+					<div class="swiper-container pagination-bottom" data-show-items="2" data-effect="coverflow" data-centered-slider="true" data-nospace="true" data-stretch="80" data-depth="250">
+						<div class="swiper-wrapper">
+							<div class="swiper-slide">
+								<img src="img/gallery/1.jpeg" alt="image">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/gallery/2.jpeg" alt="image">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/gallery/3.jpeg" alt="image">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/gallery/4.jpeg" alt="image">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/gallery/5.jpeg" alt="image">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/gallery/6.jpeg" alt="image">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/gallery/7.jpeg" alt="image">
+							</div>
+							<div class="swiper-slide">
+								<img src="img/gallery/8.jpeg" alt="image">
+							</div>
+						</div>
+
+						<!-- If we need pagination -->
+						<div class="swiper-pagination"></div>
+
+					</div>
+				</div>
+
+				<!--Prev next buttons-->
+
+				<div class="btn-prev">
+					<svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
+					<svg class="utouch-icon utouch-icon-arrow-left1"><use xlink:href="#utouch-icon-arrow-left1"></use></svg>
+				</div>
+
+				<div class="btn-next">
+					<svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
+					<svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
 				</div>
 			</div>
 		</div>
