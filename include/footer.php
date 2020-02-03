@@ -87,13 +87,15 @@
             <svg class="utouch-icon utouch-icon-telephone-keypad-with-ten-keys">
               <use xlink:href="#utouch-icon-telephone-keypad-with-ten-keys"></use>
             </svg>
-            <span class="info" style="color: white;">9823475566</span>
+            <a href="tel:9823475566"><span class="info" style="color: white;">9823475566</span></a>
           </div>
           <div class="contact-item display-flex">
             <svg class="utouch-icon utouch-icon-message-closed-envelope-1">
               <use xlink:href="#utouch-icon-message-closed-envelope-1"></use>
             </svg>
-            <span class="info" style="color: white;">contact@vinnovatetechnologies.com</span>
+            <a href="mailto:contact@vinnovatetechnologies.com" target="_top">
+              <span class="info" style="color: white;">contact@vinnovatetechnologies.com</span>
+            </a>
           </div>
 
           <a href="contact.php" class="btn btn--primary full-width btn--with-shadow">

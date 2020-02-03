@@ -320,7 +320,7 @@
 
 								<div class="teammembers-item-prof">Product Engineer</div>
 
-								<a href="#" class="h5 teammembers-item-name">Pankaj</a>
+								<a href="#" class="h5 teammembers-item-name">Pankaj G</a>
 
 								<p> A coder who thinks "if it were easy everybody would do it".<br><br><br></p>
 
@@ -337,7 +337,7 @@
 
 								<div class="teammembers-item-prof">Product Engineer(Intern)</div>
 
-								<a href="#" class="h5 teammembers-item-name">Rohan K.</a>
+								<a href="#" class="h5 teammembers-item-name">Rohan K</a>
 
 								<p>An enthusiastic young coder who keeps deep interest in learning</p>
 

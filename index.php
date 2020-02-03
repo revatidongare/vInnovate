@@ -461,6 +461,8 @@
 
           </aside>
         </div>
+      </div>
+    </div>
 
         
         <!-- founder end -->
@@ -554,10 +556,8 @@
           </div>
         </div>
         <!-- business partners end -->
-       
-
-        <!-- Slider -->
-
+      
+<!-- Slider -->
 
   <section class="crumina-module crumina-module-slider navigation-center-both-sides slider-3-items medium-padding100 align-center">
     <div class="container">
@@ -588,8 +588,8 @@
               </div>
               <div class="swiper-slide">
                 <img src="img/slides4.png" alt="image">
-              </div> -->
-            </div>
+              </div>
+            </div> -->
 
             <!-- If we need pagination -->
             <div class="swiper-pagination"></div>
@@ -610,169 +610,76 @@
         </div>
       </div>
     </div>
+      </div>
   </section>
 
+  <!-- .... end Slider -->
 
-<!-- <div class="col-lg-3"></div>
-        <div class="col-lg-6 col-sm-12">
-                        <center><h2>Gallery</h2></center> -->
-                         
-                    <!-- <div id="carouselExampleControls" class="carousel slide " data-ride="carousel">
-  <div class="carousel-inner">
-    <div class="carousel-item active">
-      <img class="d-block w-100" src="img/gallery1.jpeg" alt="First slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="img/gallery2.jpeg" alt="Second slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="img/gallery3.jpeg" alt="Third slide">
-    </div>
-    <div class="carousel-item">
-      <img class="d-block w-100" src="img/gallery4.jpeg" alt="Third slide">
-    </div>
-  </div>
-  <a class="carousel-control-prev" href="#carouselExampleControls" role="button" data-slide="prev">
-    <span class="carousel-control-prev-icon" style="color: black;" aria-hidden="true"></span>
-    <span class="sr-only">Previous</span>
-  </a>
-  <a class="carousel-control-next" href="#carouselExampleControls" role="button" data-slide="next">
-    <span class="carousel-control-next-icon" style="color: black;" aria-hidden="true"></span>
-    <span class="sr-only">Next</span>
-  </a>
-</div> -->
-<!-- </div> -->
+    
+  
 
-        <!-- <section class="crumina-module crumina-module-slider navigation-center-both-sides slider-3-items medium-padding100 align-center">
-          <div class="container">
-            <div class="row">
-              <div class="col-lg-6 col-lg-offset-3 col-md-6 col-md-offset-3 col-sm-12 col-xs-12">
-                <div class="crumina-module crumina-heading">
-                  <h2 class="heading-title align-center">Our<span class="c-primary"> Gallery</span></h2>
-                  <h2 class="heading-title c-primary"></h2>
-                </div>
-              </div>
-              <div class="col-lg-10 col-lg-offset-1 col-md-10 col-md-offset-1 col-sm-12 col-xs-12">
-                <div class="swiper-container pagination-bottom" data-show-items="2" data-effect="coverflow" data-centered-slider="true" data-nospace="true" data-stretch="80" data-depth="250">
-                  <div class="swiper-wrapper">
-                    <div class="swiper-slide">
-                      <img src="img/gallery1.jpeg" alt="image">
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="img/gallery2.jpeg" alt="image">
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="img/gallery4.jpeg" alt="image">
-                    </div>
-                    <div class="swiper-slide">
-                      <img src="img/gallery3.jpeg" alt="image">
-                    </div>
-                   
-                    <!-- If we need pagination --
-                    <div class="swiper-pagination"></div>
+  <!-- Testimonials -->
 
+  <section class="crumina-module crumina-module-slider bg-4 cloud-center navigation-center-both-sides medium-padding100 align-center">
+      <div class="container">
+        <h2 class="heading-title text-center">What our<span class="c-primary"> customers </span>say about us</h2>
+        <div class="row">
+          <div class="col-lg-6 col-lg-offset-3 col-md-12 col-md-offset-3 col-sm-12 col-sm-offset-0">
+            <div class="swiper-container" data-effect="fade">
+              <div class="swiper-wrapper">
+                <div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
+
+                  <div class="testimonial-img-author" data-swiper-parallax="-100">
+                    <img src="img/hrm.png" alt="avatar">
                   </div>
+
+                  <h6 style="font-weight: normal !important; font-family: 'Montserrat', sans-serif !important;">All the information about our college/faculties/activities is now
+                    properly and digitally organized.
+                    Information can be retrieved
+                    easily for NAAC submission. We
+                    are 100% sure, we will get A or
+                    above A accreditation this year.
+                    vInnovate had done great job.
+
+                    Visibility of our College has
+                    increased and we now get enquiry
+                    calls from parents/students foradmissions.
+                  </h6>
+
                 </div>
 
-                <!--Prev next buttons--
+                <div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
 
-                <div class="btn-prev">
-                  <svg class="utouch-icon icon-hover utouch-icon-arrow-left-1">
-                    <use xlink:href="#utouch-icon-arrow-left-1"></use>
-                  </svg>
-                  <svg class="utouch-icon utouch-icon-arrow-left1">
-                    <use xlink:href="#utouch-icon-arrow-left1"></use>
-                  </svg>
+                  <div class="testimonial-img-author" data-swiper-parallax="-100">
+                    <img src="img/OM Fitness Club Logo Black.png" alt="avatar">
+                  </div>
+
+                  <h6 style="font-weight: normal !important;">
+                    The statistics provided on dashboard helps us to organise customer movement. We can now easily know what time is the busiest or when is the gym running full.vGymMS had made most of our tasks like keeping track of attendance, payments etc easier.
+                  </h6>
+
                 </div>
 
-                <div class="btn-next">
-                  <svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
-                    <use xlink:href="#utouch-icon-arrow-right-1"></use>
-                  </svg>
-                  <svg class="utouch-icon utouch-icon-arrow-right1">
-                    <use xlink:href="#utouch-icon-arrow-right1"></use>
-                  </svg>
-                </div>
-              </div>
             </div>
           </div>
-        </section> -->
+        </div>
+      </div>
 
-        <!-- .... end Slider -->
+      <!--Prev next buttons-->
 
+      <div class="btn-prev">
+        <svg class="utouch-icon icon-hover utouch-icon-arrow-left-1"><use xlink:href="#utouch-icon-arrow-left-1"></use></svg>
+        <svg class="utouch-icon utouch-icon-arrow-left1"><use xlink:href="#utouch-icon-arrow-left1"></use></svg>
+      </div>
 
+      <div class="btn-next">
+        <svg class="utouch-icon icon-hover utouch-icon-arrow-right-1"><use xlink:href="#utouch-icon-arrow-right-1"></use></svg>
+        <svg class="utouch-icon utouch-icon-arrow-right1"><use xlink:href="#utouch-icon-arrow-right1"></use></svg>
+      </div>
+      </div>
+  </section>
 
-
-        <!-- Testimonials -->
-
-        <section class="crumina-module crumina-module-slider bg-4 cloud-center navigation-center-both-sides medium-padding100 align-center">
-          <div class="container">
-            <h2 class="heading-title text-center">What our<span class="c-primary"> customers </span>say about us</h2>
-            <div class="row">
-              <div class="col-lg-6 col-lg-offset-3 col-md-12 col-md-offset-3 col-sm-12 col-sm-offset-0">
-                <div class="swiper-container" data-effect="fade">
-                  <div class="swiper-wrapper">
-                    <div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
-
-                      <div class="testimonial-img-author" data-swiper-parallax="-100">
-                        <img src="img/hrm.png" alt="avatar">
-                      </div>
-
-                      <h6 style="font-weight: normal !important; font-family: 'Montserrat', sans-serif !important;">All the information about our college/faculties/activities is now
-                        properly and digitally organized.
-                        Information can be retrieved
-                        easily for NAAC submission. We
-                        are 100% sure, we will get A or
-                        above A accreditation this year.
-                        vInnovate had done great job.
-
-                        Visibility of our College has
-                        increased and we now get enquiry
-                        calls from parents/students foradmissions.
-                      </h6>
-
-                    </div>
-
-                    <div class="crumina-module crumina-testimonial-item testimonial-item-author-top swiper-slide">
-
-                      <div class="testimonial-img-author" data-swiper-parallax="-100">
-                        <img src="img/OM Fitness Club Logo Black.png" alt="avatar">
-                      </div>
-
-                      <h6 style="font-weight: normal !important; font-family: 'Montserrat', sans-serif !important;">
-                        The statistics provided on dashboard helps us to organise customer movement. We can now easily know what time is the busiest or when is the gym running full.vGymMS had made most of our tasks like keeping track of attendance, payments etc easier.
-                      </h6>
-
-                    </div>
-
-                  </div>
-                </div>
-              </div>
-            </div>
-
-            <!--Prev next buttons-->
-
-            <div class="btn-prev">
-              <svg class="utouch-icon icon-hover utouch-icon-arrow-left-1">
-                <use xlink:href="#utouch-icon-arrow-left-1"></use>
-              </svg>
-              <svg class="utouch-icon utouch-icon-arrow-left1">
-                <use xlink:href="#utouch-icon-arrow-left1"></use>
-              </svg>
-            </div>
-
-            <div class="btn-next">
-              <svg class="utouch-icon icon-hover utouch-icon-arrow-right-1">
-                <use xlink:href="#utouch-icon-arrow-right-1"></use>
-              </svg>
-              <svg class="utouch-icon utouch-icon-arrow-right1">
-                <use xlink:href="#utouch-icon-arrow-right1"></use>
-              </svg>
-            </div>
-          </div>
-        </section>
-
-        <!-- ... end Testimonials -->
+  <!-- ... end Testimonials -->
 
         <!-- Clients Block -->
 
@@ -870,9 +777,6 @@
         </section>
 
 
-      </div>
-    </div>
-  </div>
 
   <!-- Footer -->
 

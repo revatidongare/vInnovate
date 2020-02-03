@@ -4940,7 +4940,7 @@ textarea {
 
 @media (max-width: 390px) {
   .header .header-content-wrapper {
-    display: block;
+    /*display: block;*/
     float: left; }
   .header .site-logo {
     margin-right: 0;
